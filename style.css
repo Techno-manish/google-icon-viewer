@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+#tabs {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+#tabs button {
+    padding: 8px 16px;
+    cursor: pointer;
+    border: none;
+    background: #ddd;
+    border-radius: 4px;
+}
+
+#tabs button.active {
+    background: #2196f3;
+    color: white;
+}
+
+#tabs {
+    display: flex;
+    overflow-x: auto;
+    /* Enable horizontal scrolling */
+    white-space: nowrap;
+    /* Prevent line breaks inside */
+    -webkit-overflow-scrolling: touch;
+    /* Smooth scrolling on iOS */
+    border-bottom: 1px solid #ccc;
+    /* Optional: a bottom border */
+    padding: 0.5rem 0;
+}
+
+/* Optional: style individual tabs */
+.tab {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+    transition: background-color 0.2s;
+}
+
+.tab:hover {
+    background-color: #f0f0f0;
+}
+
+.tab.active {
+    border-color: #6200ee;
+    color: #6200ee;
+    font-weight: 600;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 16px;
+}
+
+.icon-card {
+    background: white;
+    padding: 12px;
+    text-align: center;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.icon-card:hover {
+    background: #e3f2fd;
+}
+
+.icon-card i {
+    font-size: 32px;
+    color: #444;
+}
+
+#search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: grid;
+    place-items: center;
+}
+
+.modal-content {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+}
+
+.modal-icon {
+    font-size: 64px;
+    color: #00796b;
+}
+
+#closeModal {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.hidden {
+    display: none;
+}

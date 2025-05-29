@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Icon Browser</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>Icon Browser</h1>
+    <input type="text" id="search" placeholder="Search by title or ID..." />
+    <div id="tabs"></div>
+    <div id="grid"></div>
+  </div>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <span id="closeModal">&times;</span>
+      <i class="material-icons modal-icon" id="modalIcon"></i>
+      <h2 id="modalTitle"></h2>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
