@@ -1696,7 +1696,7 @@
         {
           "id": 393,
           "title": "Hunting",
-          "platformIcon": "phishing"
+          "platformIcon": "flutter_dash"
         },
         {
           "id": 394,
@@ -1706,7 +1706,7 @@
         {
           "id": 395,
           "title": "Trekking",
-          "platformIcon": "Trekking"
+          "platformIcon": "mountain_flag"
         },
         {
           "id": 396,
@@ -1721,7 +1721,7 @@
         {
           "id": 398,
           "title": "Canoeing",
-          "platformIcon": "Canoeing"
+          "platformIcon": "kayaking"
         },
         {
           "id": 399,
@@ -1831,7 +1831,7 @@
         {
           "id": 420,
           "title": "Skydiving",
-          "platformIcon": "Skydiving"
+          "platformIcon": "paragliding"
         },
         {
           "id": 421,
@@ -1937,252 +1937,252 @@
         {
           "id": 440,
           "title": "Painting",
-          "platformIcon": "Canvas & Paint"
+          "platformIcon": "palette"
         },
         {
           "id": 441,
           "title": "Sketching",
-          "platformIcon": "Sketchbook"
+          "platformIcon": "stylus_pencil"
         },
         {
           "id": 442,
           "title": "Drawing",
-          "platformIcon": "Pencil & Paper"
+          "platformIcon": "brush"
         },
         {
           "id": 443,
           "title": "Sculpting",
-          "platformIcon": "Clay & Chisel"
+          "platformIcon": "stylus_highlighter"
         },
         {
           "id": 444,
           "title": "Calligraphy",
-          "platformIcon": "Ink & Brush"
+          "platformIcon": "stylus_brush"
         },
         {
           "id": 445,
           "title": "Origami",
-          "platformIcon": "Paper"
+          "platformIcon": "draft"
         },
         {
           "id": 446,
           "title": "Graffiti",
-          "platformIcon": "Spray Paint"
+          "platformIcon": "format_paint"
         },
         {
           "id": 447,
           "title": "Mural Painting",
-          "platformIcon": "Wall & Paint"
+          "platformIcon": "ink_highlighter_move"
         },
         {
           "id": 448,
           "title": "Wood Carving",
-          "platformIcon": "Wood & Chisel"
+          "platformIcon": "handyman"
         },
         {
           "id": 449,
           "title": "Pottery",
-          "platformIcon": "Clay"
+          "platformIcon": "potted_plant"
         },
         {
           "id": 450,
           "title": "Ceramics",
-          "platformIcon": "Ceramic"
+          "platformIcon": "potted_plant"
         },
         {
           "id": 451,
           "title": "Collage",
-          "platformIcon": "Cut Paper & Glue"
+          "platformIcon": "newspaper"
         },
         {
           "id": 452,
           "title": "Mosaic Art",
-          "platformIcon": "Colored Tiles"
+          "platformIcon": "auto_awesome_mosaic"
         },
         {
           "id": 453,
           "title": "Oil Painting",
-          "platformIcon": "Oil Paint"
+          "platformIcon": "auto_awesome_mosaic"
         },
         {
           "id": 454,
           "title": "Watercolor",
-          "platformIcon": "Watercolors"
+          "platformIcon": "invert_colors"
         },
         {
           "id": 455,
           "title": "Acrylic Painting",
-          "platformIcon": "Acrylic Paint"
+          "platformIcon": "colors"
         },
         {
           "id": 456,
           "title": "Charcoal Drawing",
-          "platformIcon": "Charcoal Sticks"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 457,
           "title": "Digital Art",
-          "platformIcon": "Digital Tablet"
+          "platformIcon": "colorize"
         },
         {
           "id": 458,
           "title": "Comic Drawing",
-          "platformIcon": "Comic Paper & Ink"
+          "platformIcon": "draw_collage"
         },
         {
           "id": 459,
           "title": "Animation",
-          "platformIcon": "Animation Software"
+          "platformIcon": "motion_photos_auto"
         },
         {
           "id": 460,
           "title": "Storyboarding",
-          "platformIcon": "Storyboard Sheets"
+          "platformIcon": "pinboard"
         },
         {
           "id": 461,
           "title": "Typography",
-          "platformIcon": "Typography Fonts"
+          "platformIcon": "text_fields"
         },
         {
           "id": 462,
           "title": "Printmaking",
-          "platformIcon": "Printing Press"
+          "platformIcon": "print_add"
         },
         {
           "id": 463,
           "title": "Glass Blowing",
-          "platformIcon": "Molten Glass"
+          "platformIcon": "mode_dual"
         },
         {
           "id": 464,
           "title": "Metalworking",
-          "platformIcon": "Metal"
+          "platformIcon": "dermatology"
         },
         {
           "id": 465,
           "title": "Fashion Illustration",
-          "platformIcon": "Fashion Sketch Pad"
+          "platformIcon": "texture"
         },
         {
           "id": 466,
           "title": "Textile Design",
-          "platformIcon": "Fabric & Thread"
+          "platformIcon": "apparel"
         },
         {
           "id": 467,
           "title": "Paper Quilling",
-          "platformIcon": "Paper Strips"
+          "platformIcon": "plagiarism"
         },
         {
           "id": 468,
           "title": "Sand Art",
-          "platformIcon": "Colored Sand"
+          "platformIcon": "planner_banner_ad_pt"
         },
         {
           "id": 469,
           "title": "Tattoo Designing",
-          "platformIcon": "Tattoo Ink"
+          "platformIcon": "ink_marker"
         },
         {
           "id": 470,
           "title": "Airbrushing",
-          "platformIcon": "Airbrush & Paint"
+          "platformIcon": "stylus_brush"
         },
         {
           "id": 471,
           "title": "Stenciling",
-          "platformIcon": "Stencil Sheets"
+          "platformIcon": "stylus"
         },
         {
           "id": 472,
           "title": "Embroidery Art",
-          "platformIcon": "Thread & Fabric"
+          "platformIcon": "laundry"
         },
         {
           "id": 473,
           "title": "Needle Felting",
-          "platformIcon": "Wool & Needle"
+          "platformIcon": "speed"
         },
         {
           "id": 474,
           "title": "DIY Crafts",
-          "platformIcon": "Craft Materials"
+          "platformIcon": "tools_level"
         },
         {
           "id": 475,
-          "title": "Paper M�ch�",
-          "platformIcon": "Paper & Glue"
+          "title": "Paper Machine",
+          "platformIcon": "draw_abstract"
         },
         {
           "id": 476,
           "title": "Shadow Art",
-          "platformIcon": "Light & Shadow"
+          "platformIcon": "tonality_2"
         },
         {
           "id": 477,
           "title": "Resin Art",
-          "platformIcon": "Resin & Molds"
+          "platformIcon": "location_away"
         },
         {
           "id": 478,
           "title": "Silk Painting",
-          "platformIcon": "Silk Fabric & Paint"
+          "platformIcon": "precision_manufacturing"
         },
         {
           "id": 479,
           "title": "Wood Burning (Pyrography)",
-          "platformIcon": "Wood Burner"
+          "platformIcon": "carpenter"
         },
         {
           "id": 480,
           "title": "Graphic Design",
-          "platformIcon": "Design Software"
+          "platformIcon": "carpenter"
         },
         {
           "id": 481,
           "title": "Bookbinding",
-          "platformIcon": "Paper & Glue"
+          "platformIcon": "library_books"
         },
         {
           "id": 482,
           "title": "Stone Carving",
-          "platformIcon": "Stone & Chisel"
+          "platformIcon": "architecture"
         },
         {
           "id": 483,
           "title": "Leather Crafting",
-          "platformIcon": "Leather & Tools"
+          "platformIcon": "auto_fix"
         },
         {
           "id": 484,
           "title": "Wax Sculpting",
-          "platformIcon": "Wax"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 485,
           "title": "Mixed Media Art",
-          "platformIcon": "Mixed Media"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 486,
           "title": "Mandala Art",
-          "platformIcon": "Intricate Designs"
+          "platformIcon": "design_services"
         },
         {
           "id": 487,
           "title": "Ink Blot Art",
-          "platformIcon": "Ink & Paper"
+          "platformIcon": "edit"
         },
         {
           "id": 488,
           "title": "Fashion Design Sketching",
-          "platformIcon": "Sketch Pad"
+          "platformIcon": "content_cut"
         },
         {
           "id": 489,
           "title": "Miniature Painting",
-          "platformIcon": "Tiny Brushes & Paint"
+          "platformIcon": "format_paint"
         }
       ]
     },
@@ -2193,252 +2193,252 @@
         {
           "id": 490,
           "title": "Acting",
-          "platformIcon": "Stage Acting"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 491,
           "title": "Singing",
-          "platformIcon": "Singing"
+          "platformIcon": "mic"
         },
         {
           "id": 492,
           "title": "Dancing",
-          "platformIcon": "Dance Floor"
+          "platformIcon": "man_2"
         },
         {
           "id": 493,
           "title": "Stand-up Comedy",
-          "platformIcon": "Comedy Stage"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 494,
           "title": "Theater Performance",
-          "platformIcon": "Theater Performance"
+          "platformIcon": "masks"
         },
         {
           "id": 495,
           "title": "Puppetry",
-          "platformIcon": "Puppetry"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 496,
           "title": "Mime",
-          "platformIcon": "Silent Acting"
+          "platformIcon": "gesture"
         },
         {
           "id": 497,
           "title": "Clowning",
-          "platformIcon": "Clown Performance"
+          "platformIcon": "emoji_emotions"
         },
         {
           "id": 498,
           "title": "Storytelling",
-          "platformIcon": "Storytelling"
+          "platformIcon": "menu_book"
         },
         {
           "id": 499,
           "title": "Opera Singing",
-          "platformIcon": "Opera Singing"
+          "platformIcon": "music_note"
         },
         {
           "id": 500,
           "title": "Improvisation",
-          "platformIcon": "Improvised Performance"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 501,
           "title": "Public Speaking",
-          "platformIcon": "Speech"
+          "platformIcon": "campaign"
         },
         {
           "id": 502,
           "title": "Hosting",
-          "platformIcon": "Hosting & Events"
+          "platformIcon": "event"
         },
         {
           "id": 503,
           "title": "Script Reading",
-          "platformIcon": "Script Reading"
+          "platformIcon": "article"
         },
         {
           "id": 504,
           "title": "Voice Acting",
-          "platformIcon": "Voice Acting"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 505,
           "title": "Radio Hosting",
-          "platformIcon": "Radio Hosting"
+          "platformIcon": "radio"
         },
         {
           "id": 506,
           "title": "Street Performance",
-          "platformIcon": "Street Performance"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 507,
           "title": "DJing",
-          "platformIcon": "DJ Deck"
+          "platformIcon": "campaign"
         },
         {
           "id": 508,
           "title": "Poetry Recitation",
-          "platformIcon": "Poetry Recitation"
+          "platformIcon": "description"
         },
         {
           "id": 509,
           "title": "Speechwriting",
-          "platformIcon": "Speechwriting"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 510,
           "title": "Emceeing",
-          "platformIcon": "Emceeing"
+          "platformIcon": "groups"
         },
         {
           "id": 511,
           "title": "Ventriloquism",
-          "platformIcon": "Ventriloquism"
+          "platformIcon": "face"
         },
         {
           "id": 512,
           "title": "Ballet",
-          "platformIcon": "Ballet"
+          "platformIcon": "woman_2"
         },
         {
           "id": 513,
           "title": "Jazz Dance",
-          "platformIcon": "Jazz Dance"
+          "platformIcon": "music_note"
         },
         {
           "id": 514,
           "title": "Hip-Hop Dance",
-          "platformIcon": "Hip-Hop Dance"
+          "platformIcon": "headphones"
         },
         {
           "id": 515,
           "title": "Breakdancing",
-          "platformIcon": "Breakdancing"
+          "platformIcon": "music_note"
         },
         {
           "id": 516,
           "title": "Ballroom Dancing",
-          "platformIcon": "Ballroom Dancing"
+          "platformIcon": "man_2"
         },
         {
           "id": 517,
           "title": "Tap Dancing",
-          "platformIcon": "Tap Dancing"
+          "platformIcon": "music_note"
         },
         {
           "id": 518,
           "title": "Aerial Acrobatics",
-          "platformIcon": "Aerial Acrobatics"
+          "platformIcon": "flight"
         },
         {
           "id": 519,
           "title": "Stunt Performing",
-          "platformIcon": "Stunt Performance"
+          "platformIcon": "sports_gymnastics"
         },
         {
           "id": 520,
           "title": "Fire Dancing",
-          "platformIcon": "Fire Dancing"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 521,
           "title": "Magic Tricks",
-          "platformIcon": "Magic Performance"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 522,
           "title": "Beatboxing",
-          "platformIcon": "Beatboxing"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 523,
           "title": "Playing Musical Instruments",
-          "platformIcon": "Playing Instruments"
+          "platformIcon": "piano"
         },
         {
           "id": 524,
           "title": "Opera Acting",
-          "platformIcon": "Opera Acting"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 525,
           "title": "Flash Mobs",
-          "platformIcon": "Flash Mobs"
+          "platformIcon": "celebration"
         },
         {
           "id": 526,
           "title": "Circus Acts",
-          "platformIcon": "Circus Performance"
+          "platformIcon": "person_play"
         },
         {
           "id": 527,
           "title": "Traditional Dance",
-          "platformIcon": "Traditional Dance"
+          "platformIcon": "man_2"
         },
         {
           "id": 528,
           "title": "Folk Singing",
-          "platformIcon": "Folk Singing"
+          "platformIcon": "mic"
         },
         {
           "id": 529,
           "title": "Choreography",
-          "platformIcon": "Choreography"
+          "platformIcon": "edit"
         },
         {
           "id": 530,
           "title": "Songwriting",
-          "platformIcon": "Songwriting"
+          "platformIcon": "edit_note"
         },
         {
           "id": 531,
           "title": "Musical Theatre",
-          "platformIcon": "Musical Theatre"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 532,
           "title": "Lip-Syncing",
-          "platformIcon": "Lip-Syncing"
+          "platformIcon": "mic"
         },
         {
           "id": 533,
           "title": "Comedy Skits",
-          "platformIcon": "Comedy Skits"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 534,
           "title": "Spoken Word",
-          "platformIcon": "Spoken Word"
+          "platformIcon": "mic"
         },
         {
           "id": 535,
           "title": "Motivational Speaking",
-          "platformIcon": "Motivational Speaking"
+          "platformIcon": "campaign"
         },
         {
           "id": 536,
           "title": "Fire Breathing",
-          "platformIcon": "Fire Breathing"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 537,
           "title": "Live Broadcasting",
-          "platformIcon": "Live Streaming"
+          "platformIcon": "live_tv"
         },
         {
           "id": 538,
           "title": "Concert Performances",
-          "platformIcon": "Concert Performances"
+          "platformIcon": "headphones"
         },
         {
           "id": 539,
           "title": "Reality Show Participation",
-          "platformIcon": "Reality Shows"
+          "platformIcon": "tv"
         }
       ]
     },
