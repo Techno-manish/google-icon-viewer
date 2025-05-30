@@ -14,11 +14,11 @@
         { "id": 8, "title": "Golf", "platformIcon": "sports_golf" },
         { "id": 9, "title": "Hockey", "platformIcon": "sports_hockey" },
         { "id": 10, "title": "Rugby", "platformIcon": "sports_rugby" },
-        { "id": 11, "title": "Lacrosse", "platformIcon": "sports" },
+        { "id": 11, "title": "Lacrosse", "platformIcon": "sports_score" },
         { "id": 12, "title": "Softball", "platformIcon": "sports_baseball" },
         { "id": 13, "title": "Table Tennis", "platformIcon": "sports_tennis" },
-        { "id": 14, "title": "Archery", "platformIcon": "targets" },
-        { "id": 15, "title": "Fencing", "platformIcon": "swords" },
+        { "id": 14, "title": "Archery", "platformIcon": "nat" },
+        { "id": 15, "title": "Fencing", "platformIcon": "colorize" },
         { "id": 16, "title": "Rowing", "platformIcon": "rowing" },
         { "id": 17, "title": "Kayaking", "platformIcon": "kayaking" },
         { "id": 18, "title": "Canoeing", "platformIcon": "kayaking" },
@@ -36,8 +36,8 @@
         { "id": 26, "title": "Ice Skating", "platformIcon": "ice_skating" },
         { "id": 27, "title": "Snowboarding", "platformIcon": "snowboarding" },
         { "id": 28, "title": "Skiing", "platformIcon": "downhill_skiing" },
-        { "id": 29, "title": "Rock Climbing", "platformIcon": "hiking" },
-        { "id": 30, "title": "Bouldering", "platformIcon": "hiking" },
+        { "id": 29, "title": "Rock Climbing", "platformIcon": "landscape" },
+        { "id": 30, "title": "Bouldering", "platformIcon": "landscape" },
         { "id": 31, "title": "Motocross", "platformIcon": "two_wheeler" },
         { "id": 32, "title": "Cycling", "platformIcon": "directions_bike" },
         { "id": 33, "title": "BMX", "platformIcon": "pedal_bike" },
@@ -78,7 +78,7 @@
         {
           "id": 48,
           "title": "Arm Wrestling",
-          "platformIcon": "ulna_radius_alt"
+          "platformIcon": "handshake"
         },
         { "id": 49, "title": "Dodgeball", "platformIcon": "sports_volleyball" },
         { "id": 50, "title": "Handball", "platformIcon": "sports_handball" }
@@ -89,256 +89,96 @@
       "id": 2,
       "name": "Fitness",
       "subcategories": [
-        {
-          "id": 51,
-          "title": "Running",
-          "platformIcon": "Running Shoes"
-        },
-        {
-          "id": 52,
-          "title": "Jogging",
-          "platformIcon": "Athletic Shoes"
-        },
-        {
-          "id": 53,
-          "title": "Sprinting",
-          "platformIcon": "Track Surface"
-        },
+        { "id": 51, "title": "Running", "platformIcon": "directions_run" },
+        { "id": 52, "title": "Jogging", "platformIcon": "directions_run" },
+        { "id": 53, "title": "Sprinting", "platformIcon": "directions_run" },
         {
           "id": 54,
           "title": "Skipping",
-          "platformIcon": "Rope"
+          "platformIcon": "looks"
         },
-        {
-          "id": 55,
-          "title": "Pushups",
-          "platformIcon": "Bodyweight"
-        },
-        {
-          "id": 56,
-          "title": "Pullups",
-          "platformIcon": "Pull-up Bar"
-        },
-        {
-          "id": 57,
-          "title": "Situps",
-          "platformIcon": "Gym Mat"
-        },
-        {
-          "id": 58,
-          "title": "Squats",
-          "platformIcon": "Bodyweight"
-        },
-        {
-          "id": 59,
-          "title": "Lunges",
-          "platformIcon": "Leg Strength"
-        },
-        {
-          "id": 60,
-          "title": "Deadlifts",
-          "platformIcon": "Barbell"
-        },
+        { "id": 55, "title": "Pushups", "platformIcon": "fitness_center" },
+        { "id": 56, "title": "Pullups", "platformIcon": "paragliding" },
+        { "id": 57, "title": "Situps", "platformIcon": "accessibility" },
+        { "id": 58, "title": "Squats", "platformIcon": "accessibility_new" },
+        { "id": 59, "title": "Lunges", "platformIcon": "directions_walk" },
+        { "id": 60, "title": "Deadlifts", "platformIcon": "fitness_center" },
         {
           "id": 61,
           "title": "Bench Press",
-          "platformIcon": "Bench"
+          "platformIcon": "airline_seat_recline_extra"
         },
-        {
-          "id": 62,
-          "title": "Cardio",
-          "platformIcon": "Cardio Machines"
-        },
-        {
-          "id": 63,
-          "title": "Calisthenics",
-          "platformIcon": "Bodyweight"
-        },
-        {
-          "id": 64,
-          "title": "Stretching",
-          "platformIcon": "Yoga Mat"
-        },
-        {
-          "id": 65,
-          "title": "Yoga",
-          "platformIcon": "Yoga Mat"
-        },
-        {
-          "id": 66,
-          "title": "Pilates",
-          "platformIcon": "Pilates Reformer"
-        },
-        {
-          "id": 67,
-          "title": "Aerobics",
-          "platformIcon": "Music & Floor"
-        },
-        {
-          "id": 68,
-          "title": "Zumba",
-          "platformIcon": "Dance Studio"
-        },
-        {
-          "id": 69,
-          "title": "Spinning",
-          "platformIcon": "Spin Bike"
-        },
-        {
-          "id": 70,
-          "title": "Hiking",
-          "platformIcon": "Hiking Boots"
-        },
-        {
-          "id": 71,
-          "title": "Stair Climbing",
-          "platformIcon": "Stair Machine"
-        },
-        {
-          "id": 72,
-          "title": "Swimming",
-          "platformIcon": "Water"
-        },
-        {
-          "id": 73,
-          "title": "Rowing",
-          "platformIcon": "Rowing Machine"
-        },
-        {
-          "id": 74,
-          "title": "Jump Rope",
-          "platformIcon": "Jump Rope"
-        },
+        { "id": 62, "title": "Cardio", "platformIcon": "favorite" },
+        { "id": 63, "title": "Calisthenics", "platformIcon": "accessibility" },
+        { "id": 64, "title": "Stretching", "platformIcon": "directions_walk" },
+        { "id": 65, "title": "Yoga", "platformIcon": "self_improvement" },
+        { "id": 66, "title": "Pilates", "platformIcon": "directions_walk" },
+        { "id": 67, "title": "Aerobics", "platformIcon": "music_note" },
+        { "id": 68, "title": "Zumba", "platformIcon": "music_note" },
+        { "id": 69, "title": "Spinning", "platformIcon": "directions_bike" },
+        { "id": 70, "title": "Hiking", "platformIcon": "hiking" },
+        { "id": 71, "title": "Stair Climbing", "platformIcon": "stairs" },
+        { "id": 72, "title": "Swimming", "platformIcon": "pool" },
+        { "id": 73, "title": "Rowing", "platformIcon": "kayaking" },
+        { "id": 74, "title": "Jump Rope", "platformIcon": "sports" },
         {
           "id": 75,
           "title": "Functional Training",
-          "platformIcon": "Dumbbells"
+          "platformIcon": "fitness_center"
         },
-        {
-          "id": 76,
-          "title": "Bootcamp",
-          "platformIcon": "Outdoor Equipment"
-        },
-        {
-          "id": 77,
-          "title": "Circuit Training",
-          "platformIcon": "Circuit Equipment"
-        },
+        { "id": 76, "title": "Bootcamp", "platformIcon": "military_tech" },
+        { "id": 77, "title": "Circuit Training", "platformIcon": "sync" },
         {
           "id": 78,
           "title": "Bodyweight Training",
-          "platformIcon": "Bodyweight"
+          "platformIcon": "accessibility_new"
         },
         {
           "id": 79,
           "title": "Resistance Training",
-          "platformIcon": "Resistance Machines"
+          "platformIcon": "compress"
         },
-        {
-          "id": 80,
-          "title": "TRX Training",
-          "platformIcon": "TRX Straps"
-        },
-        {
-          "id": 81,
-          "title": "CrossFit",
-          "platformIcon": "CrossFit Box"
-        },
-        {
-          "id": 82,
-          "title": "HIIT",
-          "platformIcon": "HIIT Timer"
-        },
-        {
-          "id": 83,
-          "title": "Kickboxing",
-          "platformIcon": "Boxing Gloves"
-        },
-        {
-          "id": 84,
-          "title": "Dance Workout",
-          "platformIcon": "Music & Floor"
-        },
-        {
-          "id": 85,
-          "title": "Pole Fitness",
-          "platformIcon": "Pole Equipment"
-        },
-        {
-          "id": 86,
-          "title": "Battle Ropes",
-          "platformIcon": "Battle Ropes"
-        },
+        { "id": 80, "title": "TRX Training", "platformIcon": "cable" },
+        { "id": 81, "title": "CrossFit", "platformIcon": "sports_mma" },
+        { "id": 82, "title": "HIIT", "platformIcon": "timer" },
+        { "id": 83, "title": "Kickboxing", "platformIcon": "sports_mma" },
+        { "id": 84, "title": "Dance Workout", "platformIcon": "music_note" },
+        { "id": 85, "title": "Pole Fitness", "platformIcon": "hardware" },
+        { "id": 86, "title": "Battle Ropes", "platformIcon": "cable" },
         {
           "id": 87,
           "title": "Kettlebell Workout",
-          "platformIcon": "Kettlebell"
+          "platformIcon": "sports_gymnastics"
         },
         {
           "id": 88,
           "title": "Medicine Ball Workout",
-          "platformIcon": "Medicine Ball"
+          "platformIcon": "sports_martial_arts"
         },
         {
           "id": 89,
           "title": "Weight Machines",
-          "platformIcon": "Weight Machines"
+          "platformIcon": "fitness_center"
         },
-        {
-          "id": 90,
-          "title": "Personal Training",
-          "platformIcon": "Trainer Support"
-        },
+        { "id": 90, "title": "Personal Training", "platformIcon": "person" },
         {
           "id": 91,
           "title": "Gymnastics",
-          "platformIcon": "Gym Mats"
+          "platformIcon": "sports_gymnastics"
         },
-        {
-          "id": 92,
-          "title": "Parkour",
-          "platformIcon": "Urban Obstacles"
-        },
-        {
-          "id": 93,
-          "title": "Power Yoga",
-          "platformIcon": "Yoga Mat"
-        },
-        {
-          "id": 94,
-          "title": "Tai Chi",
-          "platformIcon": "Nature"
-        },
-        {
-          "id": 95,
-          "title": "Breathing Exercises",
-          "platformIcon": "Air"
-        },
-        {
-          "id": 96,
-          "title": "Resistance Bands",
-          "platformIcon": "Resistance Bands"
-        },
-        {
-          "id": 97,
-          "title": "Boxing Drills",
-          "platformIcon": "Punching Bag"
-        },
-        {
-          "id": 98,
-          "title": "Speed Drills",
-          "platformIcon": "Speed Ladder"
-        },
+        { "id": 92, "title": "Parkour", "platformIcon": "directions_run" },
+        { "id": 93, "title": "Power Yoga", "platformIcon": "self_improvement" },
+        { "id": 94, "title": "Tai Chi", "platformIcon": "contrast" },
+        { "id": 95, "title": "Breathing Exercises", "platformIcon": "air" },
+        { "id": 96, "title": "Resistance Bands", "platformIcon": "cable" },
+        { "id": 97, "title": "Boxing Drills", "platformIcon": "sports_mma" },
+        { "id": 98, "title": "Speed Drills", "platformIcon": "speed" },
         {
           "id": 99,
           "title": "Flexibility Training",
-          "platformIcon": "Stretch Bands"
+          "platformIcon": "self_improvement"
         },
-        {
-          "id": 100,
-          "title": "Endurance Training",
-          "platformIcon": "Long-distance Endurance"
-        }
+        { "id": 100, "title": "Endurance Training", "platformIcon": "timer" }
       ]
     },
     {
@@ -348,252 +188,252 @@
         {
           "id": 101,
           "title": "Card Tricks",
-          "platformIcon": "Card Tricks"
+          "platformIcon": "stack_star"
         },
         {
           "id": 102,
           "title": "Coin Magic",
-          "platformIcon": "Coin Magic"
+          "platformIcon": "monetization_on"
         },
         {
           "id": 103,
           "title": "Rope Tricks",
-          "platformIcon": "Rope Tricks"
+          "platformIcon": "magic_button"
         },
         {
           "id": 104,
           "title": "Stage Magic",
-          "platformIcon": "Stage Magic"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 105,
           "title": "Levitation Tricks",
-          "platformIcon": "Levitation Tricks"
+          "platformIcon": "flight"
         },
         {
           "id": 106,
           "title": "Mentalism",
-          "platformIcon": "Mentalism"
+          "platformIcon": "psychology"
         },
         {
           "id": 107,
           "title": "Sleight of Hand",
-          "platformIcon": "Sleight of Hand"
+          "platformIcon": "hand_gesture"
         },
         {
           "id": 108,
           "title": "Escape Artistry",
-          "platformIcon": "Escape Artistry"
+          "platformIcon": "lock_open"
         },
         {
           "id": 109,
           "title": "Street Magic",
-          "platformIcon": "Street Magic"
+          "platformIcon": "streetview"
         },
         {
           "id": 110,
           "title": "Hypnosis",
-          "platformIcon": "Hypnosis"
+          "platformIcon": "visibility"
         },
         {
           "id": 111,
           "title": "Close-Up Magic",
-          "platformIcon": "Close-Up Magic"
+          "platformIcon": "zoom_in_map"
         },
         {
           "id": 112,
           "title": "Floating Object Tricks",
-          "platformIcon": "Floating Object Tricks"
+          "platformIcon": "flight"
         },
         {
           "id": 113,
           "title": "Magic with Everyday Objects",
-          "platformIcon": "Magic with Everyday Objects"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 114,
           "title": "Quick Change Illusions",
-          "platformIcon": "Quick Change Illusions"
+          "platformIcon": "swap_horiz"
         },
         {
           "id": 115,
           "title": "Illusion Design",
-          "platformIcon": "Illusion Design"
+          "platformIcon": "design_services"
         },
         {
           "id": 116,
           "title": "Fire Magic Tricks",
-          "platformIcon": "Fire Magic Tricks"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 117,
           "title": "Smoke Illusions",
-          "platformIcon": "Smoke Illusions"
+          "platformIcon": "cloud"
         },
         {
           "id": 118,
           "title": "Teleportation Tricks",
-          "platformIcon": "Teleportation Tricks"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 119,
           "title": "Vanishing Acts",
-          "platformIcon": "Vanishing Acts"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 120,
           "title": "Comedy Magic",
-          "platformIcon": "Comedy Magic"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 121,
           "title": "Magician Storytelling",
-          "platformIcon": "Magician Storytelling"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 122,
           "title": "Dice Tricks",
-          "platformIcon": "Dice Tricks"
+          "platformIcon": "casino"
         },
         {
           "id": 123,
           "title": "Handkerchief Tricks",
-          "platformIcon": "Handkerchief Tricks"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 124,
           "title": "Cup and Ball Tricks",
-          "platformIcon": "Cup and Ball Tricks"
+          "platformIcon": "sports_soccer"
         },
         {
           "id": 125,
           "title": "Mind Reading",
-          "platformIcon": "Mind Reading"
+          "platformIcon": "psychology"
         },
         {
           "id": 126,
           "title": "Prediction Tricks",
-          "platformIcon": "Prediction Tricks"
+          "platformIcon": "auto_fix_high"
         },
         {
           "id": 127,
           "title": "Card Forcing Techniques",
-          "platformIcon": "Card Forcing Techniques"
+          "platformIcon": "casino"
         },
         {
           "id": 128,
           "title": "Playing Card Manipulation",
-          "platformIcon": "Playing Card Manipulation"
+          "platformIcon": "casino"
         },
         {
           "id": 129,
           "title": "Magic Shows",
-          "platformIcon": "Magic Shows"
+          "platformIcon": "star"
         },
         {
           "id": 130,
           "title": "Creating a Magic Persona",
-          "platformIcon": "Creating a Magic Persona"
+          "platformIcon": "person"
         },
         {
           "id": 131,
           "title": "Performing at Kids' Parties",
-          "platformIcon": "Performing at Kids' Parties"
+          "platformIcon": "child_care"
         },
         {
           "id": 132,
           "title": "Learning from Famous Magicians",
-          "platformIcon": "Learning from Famous Magicians"
+          "platformIcon": "school"
         },
         {
           "id": 133,
           "title": "Magic Book Readings",
-          "platformIcon": "Magic Book Readings"
+          "platformIcon": "menu_book"
         },
         {
           "id": 134,
           "title": "Theatrical Magic",
-          "platformIcon": "Theatrical Magic"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 135,
           "title": "Knife Throwing Acts",
-          "platformIcon": "Knife Throwing Acts"
+          "platformIcon": "target"
         },
         {
           "id": 136,
           "title": "Sword Swallowing",
-          "platformIcon": "Sword Swallowing"
+          "platformIcon": "swords"
         },
         {
           "id": 137,
           "title": "Ring Tricks",
-          "platformIcon": "Ring Tricks"
+          "platformIcon": "adjust"
         },
         {
           "id": 138,
           "title": "Magic Using Technology",
-          "platformIcon": "Magic Using Technology"
+          "platformIcon": "devices"
         },
         {
           "id": 139,
           "title": "LED Light Tricks",
-          "platformIcon": "LED Light Tricks"
+          "platformIcon": "light"
         },
         {
           "id": 140,
           "title": "Coin Vanish Techniques",
-          "platformIcon": "Coin Vanish Techniques"
+          "platformIcon": "monetization_on"
         },
         {
           "id": 141,
           "title": "Fake Thumb Magic",
-          "platformIcon": "Fake Thumb Magic"
+          "platformIcon": "hand_gesture"
         },
         {
           "id": 142,
           "title": "Linking Ring Tricks",
-          "platformIcon": "Linking Ring Tricks"
+          "platformIcon": "link"
         },
         {
           "id": 143,
           "title": "Illusions with Mirrors",
-          "platformIcon": "Illusions with Mirrors"
+          "platformIcon": "transform"
         },
         {
           "id": 144,
           "title": "Disappearing Object Tricks",
-          "platformIcon": "Disappearing Object Tricks"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 145,
           "title": "Making Magic Props",
-          "platformIcon": "Making Magic Props"
+          "platformIcon": "construction"
         },
         {
           "id": 146,
           "title": "Studying the History of Magic",
-          "platformIcon": "Studying the History of Magic"
+          "platformIcon": "history"
         },
         {
           "id": 147,
           "title": "Mentalism Techniques",
-          "platformIcon": "Mentalism Techniques"
+          "platformIcon": "psychology"
         },
         {
           "id": 148,
           "title": "Stage Presence Training",
-          "platformIcon": "Stage Presence Training"
+          "platformIcon": "trending_up"
         },
         {
           "id": 149,
           "title": "Floating People Tricks",
-          "platformIcon": "Floating People Tricks"
+          "platformIcon": "flight"
         },
         {
           "id": 150,
           "title": "Grand Finale Magic Tricks",
-          "platformIcon": "Grand Finale Magic Tricks"
+          "platformIcon": "celebration"
         }
       ]
     },
@@ -6824,7 +6664,7 @@
         {
           "id": 1362,
           "title": "Archery",
-          "platformIcon": "Archery"
+          "platformIcon": "track_changes"
         },
         {
           "id": 1363,
