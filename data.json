@@ -2449,252 +2449,252 @@
         {
           "id": 540,
           "title": "Baking",
-          "platformIcon": "Oven & Baking"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 541,
           "title": "Grilling",
-          "platformIcon": "Grill & Barbecue"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 542,
           "title": "Roasting",
-          "platformIcon": "Oven & Heat"
+          "platformIcon": "local_dining"
         },
         {
           "id": 543,
           "title": "Frying",
-          "platformIcon": "Oil & Fryer"
+          "platformIcon": "skillet"
         },
         {
           "id": 544,
           "title": "Braising",
-          "platformIcon": "Slow-cooked Meals"
+          "platformIcon": "restaurant"
         },
         {
           "id": 545,
           "title": "Slow Cooking",
-          "platformIcon": "Crockpot & Time"
+          "platformIcon": "slow_motion_video"
         },
         {
           "id": 546,
           "title": "Steaming",
-          "platformIcon": "Steam & Bamboo Basket"
+          "platformIcon": "soup_kitchen"
         },
         {
           "id": 547,
           "title": "Poaching",
-          "platformIcon": "Water & Egg"
+          "platformIcon": "egg"
         },
         {
           "id": 548,
           "title": "Fermenting",
-          "platformIcon": "Yeast & Time"
+          "platformIcon": "science"
         },
         {
           "id": 549,
           "title": "Pickling",
-          "platformIcon": "Vinegar & Jars"
+          "platformIcon": "grocery"
         },
         {
           "id": 550,
           "title": "Juicing",
-          "platformIcon": "Fruit & Juicer"
+          "platformIcon": "local_florist"
         },
         {
           "id": 551,
           "title": "Candy Making",
-          "platformIcon": "Sugar & Syrup"
+          "platformIcon": "cookie"
         },
         {
           "id": 552,
           "title": "Chocolate Crafting",
-          "platformIcon": "Cocoa & Sugar"
+          "platformIcon": "cookie"
         },
         {
           "id": 553,
           "title": "Ice Cream Making",
-          "platformIcon": "Dairy & Freezer"
+          "platformIcon": "icecream"
         },
         {
           "id": 554,
           "title": "Pastry Decorating",
-          "platformIcon": "Icing & Piping"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 555,
           "title": "Bread Making",
-          "platformIcon": "Flour & Rolling Pin"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 556,
           "title": "Sushi Rolling",
-          "platformIcon": "Rice & Fish"
+          "platformIcon": "set_meal"
         },
         {
           "id": 557,
           "title": "Pasta Making",
-          "platformIcon": "Flour & Water"
+          "platformIcon": "ramen_dining"
         },
         {
           "id": 558,
-          "title": "BBQ Smoking",
-          "platformIcon": "Wood & Meat"
+        "title": "BBQ Smoking",
+        "platformIcon": "outdoor_grill"
         },
         {
           "id": 559,
           "title": "Cocktail Mixing",
-          "platformIcon": "Liquor & Glassware"
+          "platformIcon": "local_bar"
         },
         {
           "id": 560,
           "title": "Brewing Coffee",
-          "platformIcon": "Coffee Beans & Water"
+          "platformIcon": "coffee"
         },
         {
           "id": 561,
           "title": "Latte Art",
-          "platformIcon": "Espresso & Steam"
+          "platformIcon": "coffee_maker"
         },
         {
           "id": 562,
           "title": "Tea Brewing",
-          "platformIcon": "Tea Leaves & Water"
+          "platformIcon": "emoji_food_beverage"
         },
         {
           "id": 563,
           "title": "Cake Decorating",
-          "platformIcon": "Icing & Decorations"
+          "platformIcon": "cake"
         },
         {
           "id": 564,
           "title": "Food Styling",
-          "platformIcon": "Food & Style"
+          "platformIcon": "restaurant"
         },
         {
           "id": 565,
           "title": "Meal Prepping",
-          "platformIcon": "Meal Containers"
+          "platformIcon": "lunch_dining"
         },
         {
           "id": 566,
           "title": "Vegan Cooking",
-          "platformIcon": "Plant-Based Ingredients"
+          "platformIcon": "eco"
         },
         {
           "id": 567,
           "title": "Plant-Based Cooking",
-          "platformIcon": "Fresh Vegetables"
+          "platformIcon": "spa"
         },
         {
           "id": 568,
           "title": "Gourmet Cooking",
-          "platformIcon": "Exquisite Ingredients"
+          "platformIcon": "star"
         },
         {
           "id": 569,
           "title": "Indian Cuisine Cooking",
-          "platformIcon": "Indian Spices"
+          "platformIcon": "dinner_dining"
         },
         {
           "id": 570,
           "title": "Italian Cuisine Cooking",
-          "platformIcon": "Tomato & Dough"
+          "platformIcon": "local_pizza"
         },
         {
           "id": 571,
           "title": "French Cuisine Cooking",
-          "platformIcon": "French Pastries"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 572,
           "title": "Thai Cuisine Cooking",
-          "platformIcon": "Thai Ingredients"
+          "platformIcon": "ramen_dining"
         },
         {
           "id": 573,
           "title": "Baking Sourdough",
-          "platformIcon": "Flour & Water"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 574,
           "title": "Cheesemaking",
-          "platformIcon": "Milk & Rennet"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 575,
           "title": "Making Jams",
-          "platformIcon": "Fruit Preserves"
+          "platformIcon": "glass_cup"
         },
         {
           "id": 576,
           "title": "Pickling Vegetables",
-          "platformIcon": "Vegetables & Jars"
+          "platformIcon": "nutrition"
         },
         {
           "id": 577,
           "title": "Creating Sauces",
-          "platformIcon": "Sauce & Spices"
+          "platformIcon": "restaurant"
         },
         {
           "id": 578,
           "title": "Making Spice Blends",
-          "platformIcon": "Herbs & Blending"
+          "platformIcon": "local_florist"
         },
         {
           "id": 579,
           "title": "Hosting Dinner Parties",
-          "platformIcon": "Event Hosting"
+          "platformIcon": "groups"
         },
         {
           "id": 580,
           "title": "Cooking with Firewood",
-          "platformIcon": "Wood & Fire"
+          "platformIcon": "fireplace"
         },
         {
           "id": 581,
           "title": "Experimental Cooking",
-          "platformIcon": "Unconventional Cooking"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 582,
           "title": "Home Brewing Beer",
-          "platformIcon": "Beer Ingredients"
+          "platformIcon": "local_bar"
         },
         {
           "id": 583,
           "title": "Wine Tasting",
-          "platformIcon": "Wine & Tasting"
+          "platformIcon": "wine_bar"
         },
         {
           "id": 584,
           "title": "Canning Food",
-          "platformIcon": "Canning Jars"
+          "platformIcon": "nutrition"
         },
         {
           "id": 585,
           "title": "Cooking Challenges",
-          "platformIcon": "Cooking Challenges"
+          "platformIcon": "workspace_premium"
         },
         {
           "id": 586,
           "title": "Ice Carving",
-          "platformIcon": "Ice Blocks"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 587,
           "title": "Cake Sculpting",
-          "platformIcon": "Cake Mold"
+          "platformIcon": "cake"
         },
         {
           "id": 588,
           "title": "Farm-to-Table Cooking",
-          "platformIcon": "Fresh Ingredients"
+          "platformIcon": "compost"
         },
         {
           "id": 589,
           "title": "Food Plating",
-          "platformIcon": "Plating & Garnishing"
+          "platformIcon": "restaurant"
         }
       ]
     },
@@ -2705,252 +2705,252 @@
         {
           "id": 590,
           "title": "Graphic Design",
-          "platformIcon": "Graphic Design Tools"
+          "platformIcon": "design_services"
         },
         {
           "id": 591,
           "title": "Illustration",
-          "platformIcon": "Illustration Tools"
+          "platformIcon": "brush"
         },
         {
           "id": 592,
           "title": "Digital Painting",
-          "platformIcon": "Digital Canvas"
+          "platformIcon": "palette"
         },
         {
           "id": 593,
           "title": "3D Modeling",
-          "platformIcon": "3D Modeling Software"
+          "platformIcon": "interests"
         },
         {
           "id": 594,
           "title": "Motion Graphics",
-          "platformIcon": "Motion Graphics Software"
+          "platformIcon": "movie_filter"
         },
         {
           "id": 595,
           "title": "UI/UX Design",
-          "platformIcon": "UI/UX Tools"
+          "platformIcon": "splitscreen"
         },
         {
           "id": 596,
           "title": "Pixel Art",
-          "platformIcon": "Pixel Art"
+          "platformIcon": "apps"
         },
         {
           "id": 597,
           "title": "Game Design",
-          "platformIcon": "Game Design Tools"
+          "platformIcon": "videogame_asset"
         },
         {
           "id": 598,
           "title": "Augmented Reality (AR)",
-          "platformIcon": "AR Tools"
+          "platformIcon": "blur_on"
         },
         {
           "id": 599,
           "title": "Virtual Reality (VR)",
-          "platformIcon": "VR Tools"
+          "platformIcon": "head_mounted_device"
         },
         {
           "id": 600,
           "title": "AI-Generated Art",
-          "platformIcon": "AI-Generated Tools"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 601,
           "title": "Digital Calligraphy",
-          "platformIcon": "Calligraphy Brush"
+          "platformIcon": "draw"
         },
         {
           "id": 602,
           "title": "Animation",
-          "platformIcon": "Animation Tools"
+          "platformIcon": "movie_filter"
         },
         {
           "id": 603,
-          "title": "Storyboarding",
-          "platformIcon": "Storyboard Sheets"
+        "title": "Storyboarding",
+        "platformIcon": "web_stories"
         },
         {
           "id": 604,
           "title": "Logo Designing",
-          "platformIcon": "Logo Design Tools"
+          "platformIcon": "add_photo_alternate"
         },
         {
           "id": 605,
           "title": "Infographic Designing",
-          "platformIcon": "Infographic Design Tools"
+          "platformIcon": "leaderboard"
         },
         {
           "id": 606,
           "title": "Poster Designing",
-          "platformIcon": "Poster Design Tools"
+          "platformIcon": "image"
         },
         {
           "id": 607,
           "title": "Meme Creation",
-          "platformIcon": "Meme Creation Tools"
+          "platformIcon": "sentiment_very_satisfied"
         },
         {
           "id": 608,
           "title": "Typography Design",
-          "platformIcon": "Typography Tools"
+          "platformIcon": "text_fields"
         },
         {
           "id": 609,
           "title": "Concept Art",
-          "platformIcon": "Concept Art Tools"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 610,
           "title": "Architectural Visualization",
-          "platformIcon": "3D Visualization Tools"
+          "platformIcon": "location_city"
         },
         {
           "id": 611,
           "title": "Isometric Art",
-          "platformIcon": "Isometric Art"
+          "platformIcon": "interests"
         },
         {
           "id": 612,
           "title": "Texture Design",
-          "platformIcon": "Texture Design"
+          "platformIcon": "texture"
         },
         {
           "id": 613,
           "title": "Video Editing",
-          "platformIcon": "Video Editing Tools"
+          "platformIcon": "video_settings"
         },
         {
           "id": 614,
           "title": "GIF Creation",
-          "platformIcon": "GIF Creation"
+          "platformIcon": "gif"
         },
         {
           "id": 615,
           "title": "YouTube Thumbnail Design",
-          "platformIcon": "Thumbnail Design Tools"
+          "platformIcon": "image"
         },
         {
           "id": 616,
           "title": "Stream Overlay Design",
-          "platformIcon": "Stream Overlay Tools"
+          "platformIcon": "tv"
         },
         {
           "id": 617,
           "title": "NFT Art Creation",
-          "platformIcon": "NFT Art Tools"
+          "platformIcon": "token"
         },
         {
           "id": 618,
           "title": "Sticker Designing",
-          "platformIcon": "Sticker Design"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 619,
           "title": "Digital Sketching",
-          "platformIcon": "Digital Sketching Tools"
+          "platformIcon": "draw"
         },
         {
           "id": 620,
           "title": "Minimalist Art",
-          "platformIcon": "Minimalist Art"
+          "platformIcon": "brush"
         },
         {
           "id": 621,
           "title": "Fantasy Art",
-          "platformIcon": "Fantasy Art"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 622,
           "title": "Sci-Fi Art",
-          "platformIcon": "Sci-Fi Art"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 623,
           "title": "Matte Painting",
-          "platformIcon": "Matte Painting"
+          "platformIcon": "palette"
         },
         {
           "id": 624,
           "title": "Vector Art",
-          "platformIcon": "Vector Art Tools"
+          "platformIcon": "linear_scale"
         },
         {
           "id": 625,
           "title": "Comic Book Art",
-          "platformIcon": "Comic Book Art"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 626,
           "title": "Album Cover Design",
-          "platformIcon": "Album Cover Design"
+          "platformIcon": "album"
         },
         {
           "id": 627,
           "title": "Webtoon Art",
-          "platformIcon": "Webtoon Art"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 628,
           "title": "Social Media Graphics",
-          "platformIcon": "Social Media Graphics"
+          "platformIcon": "share"
         },
         {
           "id": 629,
           "title": "Custom Emojis Creation",
-          "platformIcon": "Emojis Creation"
+          "platformIcon": "sentiment_satisfied_alt"
         },
         {
           "id": 630,
           "title": "Digital Poster Making",
-          "platformIcon": "Poster Design"
+          "platformIcon": "image"
         },
         {
           "id": 631,
           "title": "Magazine Cover Design",
-          "platformIcon": "Magazine Covers"
+          "platformIcon": "menu_book"
         },
         {
           "id": 632,
           "title": "Tattoo Designing",
-          "platformIcon": "Tattoo Design Tools"
+          "platformIcon": "brush"
         },
         {
           "id": 633,
           "title": "Digital Portraits",
-          "platformIcon": "Digital Portrait Tools"
+          "platformIcon": "portrait"
         },
         {
           "id": 634,
           "title": "Greeting Card Designing",
-          "platformIcon": "Greeting Card Design"
+          "platformIcon": "card_giftcard"
         },
         {
           "id": 635,
           "title": "Digital Mandala Art",
-          "platformIcon": "Mandala Art"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 636,
           "title": "Twitch Emotes Design",
-          "platformIcon": "Twitch Emotes Design"
+          "platformIcon": "emoji_events"
         },
         {
           "id": 637,
           "title": "Music Cover Art",
-          "platformIcon": "Music Cover Art"
+          "platformIcon": "album"
         },
         {
           "id": 638,
           "title": "Wallpaper Designing",
-          "platformIcon": "Wallpaper Design"
+          "platformIcon": "image"
         },
         {
           "id": 639,
           "title": "Avatar Creation",
-          "platformIcon": "Avatar Creation"
+          "platformIcon": "face"
         }
       ]
     },
@@ -2961,252 +2961,252 @@
         {
           "id": 640,
           "title": "Singing",
-          "platformIcon": "Vocal Cords"
+          "platformIcon": "mic"
         },
         {
           "id": 641,
           "title": "Guitar",
-          "platformIcon": "Strings & Wood"
+          "platformIcon": "person_celebrate"
         },
         {
           "id": 642,
           "title": "Piano",
-          "platformIcon": "Keys & Strings"
+          "platformIcon": "piano"
         },
         {
           "id": 643,
           "title": "Violin",
-          "platformIcon": "Bow & Strings"
+          "platformIcon": "music_note"
         },
         {
           "id": 644,
           "title": "Drums",
-          "platformIcon": "Drum Kit"
+          "platformIcon": "music_note"
         },
         {
           "id": 645,
           "title": "Flute",
-          "platformIcon": "Wood & Air"
+          "platformIcon": "music_note"
         },
         {
           "id": 646,
           "title": "Saxophone",
-          "platformIcon": "Brass"
+          "platformIcon": "brand_awareness"
         },
-        {
+      {
           "id": 647,
           "title": "Trumpet",
-          "platformIcon": "Brass"
+          "platformIcon": "music_note" 
         },
         {
           "id": 648,
           "title": "Harmonica",
-          "platformIcon": "Metal & Air"
+          "platformIcon": "music_note" 
         },
         {
           "id": 649,
           "title": "Banjo",
-          "platformIcon": "Wood & Strings"
+          "platformIcon": "music_note" 
         },
         {
           "id": 650,
           "title": "Cello",
-          "platformIcon": "Strings & Bow"
+          "platformIcon": "music_note" 
         },
         {
           "id": 651,
           "title": "Bass Guitar",
-          "platformIcon": "Strings & Amplifier"
+          "platformIcon": "music_note"
         },
         {
           "id": 652,
           "title": "Ukulele",
-          "platformIcon": "Wood & Strings"
+          "platformIcon": "music_note" 
         },
         {
           "id": 653,
           "title": "Oboe",
-          "platformIcon": "Woodwind"
+          "platformIcon": "music_note" 
         },
         {
           "id": 654,
           "title": "Clarinet",
-          "platformIcon": "Woodwind"
+          "platformIcon": "music_note" 
         },
         {
           "id": 655,
           "title": "Trombone",
-          "platformIcon": "Brass"
+          "platformIcon": "music_note" 
         },
         {
           "id": 656,
           "title": "Accordion",
-          "platformIcon": "Bellows & Keys"
+          "platformIcon": "music_note" 
         },
         {
           "id": 657,
           "title": "Bagpipes",
-          "platformIcon": "Reed & Air"
+          "platformIcon": "music_note"
         },
         {
           "id": 658,
           "title": "Tabla",
-          "platformIcon": "Percussion"
+          "platformIcon": "music_note" 
         },
         {
           "id": 659,
           "title": "Sitar",
-          "platformIcon": "Strings & Resonator"
+          "platformIcon": "music_note" 
         },
         {
           "id": 660,
           "title": "Djembe",
-          "platformIcon": "Goat Skin & Wood"
+          "platformIcon": "music_note" 
         },
         {
           "id": 661,
           "title": "Marimba",
-          "platformIcon": "Wood & Metal Bars"
+          "platformIcon": "piano"
         },
         {
           "id": 662,
           "title": "Xylophone",
-          "platformIcon": "Wooden Bars"
+          "platformIcon": "piano"
         },
         {
           "id": 663,
           "title": "Synthesizer",
-          "platformIcon": "Electronic"
+          "platformIcon": "piano"
         },
         {
           "id": 664,
           "title": "Electric Guitar",
-          "platformIcon": "Electric Strings"
+          "platformIcon": "person_4"
         },
         {
           "id": 665,
           "title": "Classical Singing",
-          "platformIcon": "Vocal Techniques"
+          "platformIcon": "mic"
         },
         {
           "id": 666,
           "title": "Opera Singing",
-          "platformIcon": "Operatic Voice"
+          "platformIcon": "mic"
         },
         {
           "id": 667,
           "title": "Rapping",
-          "platformIcon": "Flow & Rhythm"
+          "platformIcon": "mic"
         },
         {
           "id": 668,
           "title": "Beatboxing",
-          "platformIcon": "Vocal Percussion"
+          "platformIcon": "mic"
         },
         {
           "id": 669,
           "title": "DJing",
-          "platformIcon": "Turntables"
+          "platformIcon": "headphones"
         },
         {
           "id": 670,
           "title": "Music Production",
-          "platformIcon": "Digital Audio Workstation"
+          "platformIcon": "tune"
         },
         {
           "id": 671,
           "title": "Sound Engineering",
-          "platformIcon": "Audio Equipment"
+          "platformIcon": "tune"
         },
         {
           "id": 672,
           "title": "Lyric Writing",
-          "platformIcon": "Pen & Notebook"
+          "platformIcon": "edit_note"
         },
         {
           "id": 673,
           "title": "Composing",
-          "platformIcon": "Musical Notes"
+          "platformIcon": "music_note"
         },
         {
           "id": 674,
           "title": "Film Scoring",
-          "platformIcon": "Orchestra & Score"
+          "platformIcon": "movie"
         },
         {
           "id": 675,
           "title": "Jamming",
-          "platformIcon": "Live Collaboration"
+          "platformIcon": "groups"
         },
         {
           "id": 676,
           "title": "Musical Theater",
-          "platformIcon": "Stage Performance"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 677,
           "title": "Choir Singing",
-          "platformIcon": "Choral Arrangement"
+          "platformIcon": "groups"
         },
         {
           "id": 678,
           "title": "Acapella Singing",
-          "platformIcon": "Harmonizing"
+          "platformIcon": "mic"
         },
         {
           "id": 679,
           "title": "Band Performance",
-          "platformIcon": "Instruments & Vocals"
+          "platformIcon": "groups"
         },
         {
           "id": 680,
           "title": "Songwriting",
-          "platformIcon": "Lyrics & Melody"
+          "platformIcon": "edit_note"
         },
         {
           "id": 681,
           "title": "Orchestra Performance",
-          "platformIcon": "Orchestra Instruments"
+          "platformIcon": "groups"
         },
         {
           "id": 682,
           "title": "Audio Mixing",
-          "platformIcon": "Soundboard"
+          "platformIcon": "graphic_eq"
         },
         {
           "id": 683,
           "title": "Vinyl Collecting",
-          "platformIcon": "Vinyl Records"
+          "platformIcon": "album"
         },
         {
           "id": 684,
           "title": "Karaoke",
-          "platformIcon": "Microphone"
+          "platformIcon": "mic"
         },
         {
           "id": 685,
           "title": "Freestyling",
-          "platformIcon": "Spontaneous Lyrics"
+          "platformIcon": "mic"
         },
         {
           "id": 686,
           "title": "Drum Circle",
-          "platformIcon": "Group Drumming"
+          "platformIcon": "dermatology"
         },
         {
           "id": 687,
           "title": "Folk Music Performance",
-          "platformIcon": "Traditional Music"
+          "platformIcon": "music_note"
         },
         {
           "id": 688,
           "title": "Jazz Improvisation",
-          "platformIcon": "Jazz Techniques"
+          "platformIcon": "music_note"
         },
         {
           "id": 689,
           "title": "EDM Production",
-          "platformIcon": "Digital Music"
+          "platformIcon": "headphones"
         }
       ]
     },
