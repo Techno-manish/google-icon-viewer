@@ -4376,703 +4376,703 @@
         {
           "id": 915,
           "title": "Astronomy",
-          "platformIcon": "Telescope"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 916,
           "title": "Physics Experiments",
-          "platformIcon": "Lab Equipment"
+          "platformIcon": "science"
         },
         {
           "id": 917,
           "title": "Chemistry Experiments",
-          "platformIcon": "Chemical Reactions"
+          "platformIcon": "science"
         },
         {
           "id": 918,
           "title": "Microscope Studies",
-          "platformIcon": "Slides & Lenses"
+          "platformIcon": "mic"
         },
         {
           "id": 919,
           "title": "Fossil Hunting",
-          "platformIcon": "Tools & Digging"
+          "platformIcon": "pets"
         },
         {
           "id": 920,
           "title": "Birdwatching",
-          "platformIcon": "Field Guide"
+          "platformIcon": "raven"
         },
         {
           "id": 921,
           "title": "Weather Monitoring",
-          "platformIcon": "Weather Station"
+          "platformIcon": "thunderstorm"
         },
         {
           "id": 922,
           "title": "Space Watching",
-          "platformIcon": "Night Sky"
+          "platformIcon": "stars"
         },
         {
           "id": 923,
           "title": "Quantum Physics Research",
-          "platformIcon": "Quantum Computing"
+          "platformIcon": "insights"
         },
         {
           "id": 924,
           "title": "Oceanography",
-          "platformIcon": "Water Studies"
+          "platformIcon": "water"
         },
         {
           "id": 925,
           "title": "Paleontology",
-          "platformIcon": "Digging & Research"
+          "platformIcon": "skull"
         },
         {
           "id": 926,
           "title": "Meteorology",
-          "platformIcon": "Weather Monitoring Equipment"
+          "platformIcon": "partly_cloudy_day"
         },
         {
           "id": 927,
           "title": "Botany Exploration",
-          "platformIcon": "Plants & Nature"
+          "platformIcon": "local_florist"
         },
         {
           "id": 928,
           "title": "Animal Behavior Studies",
-          "platformIcon": "Animal Tracking"
+          "platformIcon": "pets"
         },
         {
           "id": 929,
           "title": "Geology Trips",
-          "platformIcon": "Geological Mapping"
+          "platformIcon": "landscape"
         },
         {
           "id": 930,
           "title": "Studying Insects",
-          "platformIcon": "Insect Studies"
+          "platformIcon": "bug_report"
         },
         {
           "id": 931,
           "title": "Watching Documentaries",
-          "platformIcon": "Documentaries & Learning"
+          "platformIcon": "movie"
         },
         {
           "id": 932,
           "title": "DNA Research",
-          "platformIcon": "DNA Sequencer"
+          "platformIcon": "genetics"
         },
         {
           "id": 933,
           "title": "Studying Ant Colonies",
-          "platformIcon": "Insect Colony Studies"
+          "platformIcon": "bug_report"
         },
         {
           "id": 934,
           "title": "Growing Bacteria Cultures",
-          "platformIcon": "Bacteria Cultures"
+          "platformIcon": "biotech"
         },
         {
           "id": 935,
           "title": "Examining Crystals",
-          "platformIcon": "Crystal Collection"
+          "platformIcon": "diamond"
         },
         {
           "id": 936,
           "title": "Robotics Projects",
-          "platformIcon": "Circuit Boards"
+          "platformIcon": "robot"
         },
         {
           "id": 937,
           "title": "Learning Engineering Concepts",
-          "platformIcon": "Engineering Concepts"
+          "platformIcon": "construction"
         },
         {
           "id": 938,
           "title": "Experimenting with Magnets",
-          "platformIcon": "Magnetic Studies"
+          "platformIcon": "attractions"
         },
         {
           "id": 939,
           "title": "Building Simple Machines",
-          "platformIcon": "Machine Construction"
+          "platformIcon": "handyman"
         },
         {
           "id": 940,
           "title": "Studying Alternative Energy",
-          "platformIcon": "Solar Panels"
+          "platformIcon": "light_mode"
         },
         {
           "id": 941,
           "title": "3D Printing Projects",
-          "platformIcon": "3D Printing Tools"
+          "platformIcon": "3d_rotation"
         },
         {
           "id": 942,
           "title": "Creating Science Videos",
-          "platformIcon": "Science Videos"
+          "platformIcon": "play_arrow"
         },
         {
           "id": 943,
           "title": "Learning Biomechanics",
-          "platformIcon": "Biomechanics Studies"
+          "platformIcon": "directions_run"
         },
         {
           "id": 944,
           "title": "Testing pH Levels",
-          "platformIcon": "Chemical Testing"
+          "platformIcon": "science"
         },
         {
           "id": 945,
           "title": "Learning About Genetics",
-          "platformIcon": "Genetic Research"
+          "platformIcon": "genetics"
         },
         {
           "id": 946,
           "title": "Studying Viruses",
-          "platformIcon": "Virus Studies"
+          "platformIcon": "coronavirus"
         },
         {
           "id": 947,
           "title": "Stargazing with Telescopes",
-          "platformIcon": "Stargazing Kit"
+          "platformIcon": "target"
         },
         {
           "id": 948,
           "title": "Using Augmented Reality Apps",
-          "platformIcon": "AR Apps"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 949,
           "title": "Trying Virtual Reality Simulations",
-          "platformIcon": "VR Simulations"
+          "platformIcon": "panorama_photosphere"
         },
         {
           "id": 950,
           "title": "Studying Human Psychology",
-          "platformIcon": "Psychological Studies"
+          "platformIcon": "psychology"
         },
         {
           "id": 951,
           "title": "DIY Science Kits",
-          "platformIcon": "Science Kit"
+          "platformIcon": "science"
         },
         {
           "id": 952,
           "title": "Learning Neurobiology",
-          "platformIcon": "Neuroscience"
+          "platformIcon": "neurology"
         },
         {
           "id": 953,
           "title": "Studying Forensic Science",
-          "platformIcon": "Forensic Equipment"
+          "platformIcon": "fingerprint"
         },
         {
           "id": 954,
           "title": "Learning Artificial Intelligence",
-          "platformIcon": "AI Research"
+          "platformIcon": "psychology"
         },
         {
           "id": 955,
           "title": "Making Science Infographics",
-          "platformIcon": "Infographics Tools"
+          "platformIcon": "bar_chart"
         },
         {
           "id": 956,
           "title": "Attending Science Fairs",
-          "platformIcon": "Science Fair"
+          "platformIcon": "school"
         },
         {
           "id": 957,
           "title": "Visiting Research Labs",
-          "platformIcon": "Research Labs"
+          "platformIcon": "biotech"
         },
         {
           "id": 958,
           "title": "Creating Science Fiction Concepts",
-          "platformIcon": "Science Fiction"
+          "platformIcon": "science"
         },
         {
           "id": 959,
           "title": "Studying Space Travel",
-          "platformIcon": "Space Exploration"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 960,
           "title": "Analyzing Stars and Galaxies",
-          "platformIcon": "Stellar Studies"
+          "platformIcon": "planet"
         },
         {
           "id": 961,
           "title": "Learning About Dark Matter",
-          "platformIcon": "Dark Matter Research"
+          "platformIcon": "blur_on"
         },
         {
           "id": 962,
           "title": "Conducting Physics Demos",
-          "platformIcon": "Physics Demonstrations"
+          "platformIcon": "science"
         },
         {
           "id": 963,
           "title": "Reading Science Journals",
-          "platformIcon": "Science Journals"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 964,
           "title": "Debating Scientific Theories",
-          "platformIcon": "Scientific Debates"
+          "platformIcon": "forum"
         }
       ]
     },
-    {
+      {
       "id": 22,
       "name": "Technology & Development",
       "subcategories": [
         {
           "id": 965,
           "title": "Coding",
-          "platformIcon": "IDE & Code Editor"
+          "platformIcon": "code"
         },
         {
           "id": 966,
           "title": "App Development",
-          "platformIcon": "App Builder"
+          "platformIcon": "developer_mode"
         },
         {
           "id": 967,
           "title": "Website Design",
-          "platformIcon": "Web Design Tools"
+          "platformIcon": "web"
         },
         {
           "id": 968,
           "title": "Graphic Design",
-          "platformIcon": "Graphic Design Tools"
+          "platformIcon": "design_services"
         },
         {
           "id": 969,
           "title": "Video Editing",
-          "platformIcon": "Video Editing Software"
+          "platformIcon": "video_settings"
         },
         {
           "id": 970,
           "title": "Robotics",
-          "platformIcon": "Robotic Kits"
+          "platformIcon": "robot"
         },
         {
           "id": 971,
           "title": "Artificial Intelligence",
-          "platformIcon": "AI Algorithms"
+          "platformIcon": "psychology"
         },
         {
           "id": 972,
           "title": "Machine Learning",
-          "platformIcon": "Data Models"
+          "platformIcon": "memory"
         },
         {
           "id": 973,
           "title": "Cybersecurity",
-          "platformIcon": "Firewall & Encryption"
+          "platformIcon": "security"
         },
         {
           "id": 974,
           "title": "Ethical Hacking",
-          "platformIcon": "Hacking Tools"
+          "platformIcon": "vpn_key"
         },
         {
           "id": 975,
           "title": "Blockchain Development",
-          "platformIcon": "Blockchain Tools"
+          "platformIcon": "lan"
         },
         {
           "id": 976,
           "title": "Game Development",
-          "platformIcon": "Game Engines"
+          "platformIcon": "sports_esports"
         },
         {
           "id": 977,
           "title": "Data Science",
-          "platformIcon": "Data Visualization Tools"
+          "platformIcon": "analytics"
         },
         {
           "id": 978,
           "title": "3D Printing",
-          "platformIcon": "3D Printers"
+          "platformIcon": "3d_rotation"
         },
         {
           "id": 979,
           "title": "Virtual Reality",
-          "platformIcon": "VR Devices"
+          "platformIcon": "head_mounted_device"
         },
         {
           "id": 980,
           "title": "Augmented Reality",
-          "platformIcon": "AR Development Kit"
+          "platformIcon": "flare"
         },
         {
           "id": 981,
           "title": "Internet of Things (IoT)",
-          "platformIcon": "IoT Devices"
+          "platformIcon": "devices_other"
         },
         {
           "id": 982,
           "title": "Cloud Computing",
-          "platformIcon": "Cloud Services"
+          "platformIcon": "cloud"
         },
         {
           "id": 983,
           "title": "Server Management",
-          "platformIcon": "Server Hardware"
+          "platformIcon": "dns"
         },
         {
           "id": 984,
           "title": "UI/UX Design",
-          "platformIcon": "UI/UX Tools"
+          "platformIcon": "palette"
         },
         {
           "id": 985,
           "title": "Programming Drones",
-          "platformIcon": "Drone Controllers"
+          "platformIcon": "tools_installation_kit"
         },
         {
           "id": 986,
           "title": "Home Automation",
-          "platformIcon": "Smart Home Devices"
+          "platformIcon": "home_iot_device"
         },
         {
           "id": 987,
           "title": "IT Support",
-          "platformIcon": "IT Support Tools"
+          "platformIcon": "support"
         },
         {
           "id": 988,
           "title": "Software Testing",
-          "platformIcon": "Bug Tracking"
+          "platformIcon": "bug_report"
         },
         {
           "id": 989,
           "title": "Mobile Game Creation",
-          "platformIcon": "Mobile Game Engines"
+          "platformIcon": "phone_iphone"
         },
         {
           "id": 990,
           "title": "Tech Blogging",
-          "platformIcon": "Tech Articles"
+          "platformIcon": "article"
         },
         {
           "id": 991,
           "title": "Podcast Editing",
-          "platformIcon": "Podcast Recording Software"
+          "platformIcon": "mic"
         },
         {
           "id": 992,
           "title": "Sound Engineering",
-          "platformIcon": "Sound Editing Tools"
+          "platformIcon": "headphones"
         },
         {
           "id": 993,
           "title": "Animation",
-          "platformIcon": "Animation Software"
+          "platformIcon": "animation"
         },
         {
           "id": 994,
           "title": "Digital Marketing",
-          "platformIcon": "Digital Marketing Tools"
+          "platformIcon": "campaign"
         },
         {
           "id": 995,
           "title": "SEO Optimization",
-          "platformIcon": "SEO Tools"
+          "platformIcon": "search"
         },
         {
           "id": 996,
           "title": "Digital Photography",
-          "platformIcon": "Photography Equipment"
+          "platformIcon": "photo_camera"
         },
         {
           "id": 997,
           "title": "AI-Powered Art Creation",
-          "platformIcon": "AI Art Generator"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 998,
           "title": "Video Game Streaming",
-          "platformIcon": "Streaming Software"
+          "platformIcon": "play_arrow"
         },
         {
           "id": 999,
           "title": "Live Streaming",
-          "platformIcon": "Streaming Services"
+          "platformIcon": "live_tv"
         },
         {
           "id": 1000,
           "title": "PC Building",
-          "platformIcon": "PC Parts & Tools"
+          "platformIcon": "computer"
         },
         {
           "id": 1001,
           "title": "Overclocking Computers",
-          "platformIcon": "Overclocking Tools"
+          "platformIcon": "speed"
         },
         {
           "id": 1002,
           "title": "Learning Quantum Computing",
-          "platformIcon": "Quantum Computing"
+          "platformIcon": "insights"
         },
         {
           "id": 1003,
           "title": "AI Chatbot Development",
-          "platformIcon": "Chatbot Frameworks"
+          "platformIcon": "chat"
         },
         {
           "id": 1004,
           "title": "Database Management",
-          "platformIcon": "SQL & NoSQL Databases"
+          "platformIcon": "storage"
         },
         {
           "id": 1005,
           "title": "Network Engineering",
-          "platformIcon": "Network Tools"
+          "platformIcon": "network_check"
         },
         {
           "id": 1006,
           "title": "Learning Computer Languages",
-          "platformIcon": "Programming Languages"
+          "platformIcon": "language"
         },
         {
           "id": 1007,
           "title": "Reverse Engineering",
-          "platformIcon": "Disassembled Gadgets"
+          "platformIcon": "build"
         },
         {
           "id": 1008,
           "title": "Cyber Law Studies",
-          "platformIcon": "Law & Regulations"
+          "platformIcon": "gavel"
         },
         {
           "id": 1009,
           "title": "Participating in Hackathons",
-          "platformIcon": "Hackathon Challenges"
+          "platformIcon": "hardware"
         },
         {
           "id": 1010,
           "title": "Drone Photography",
-          "platformIcon": "Aerial Photography"
+          "platformIcon": "camera_outdoor"
         },
         {
           "id": 1011,
           "title": "Creating Tech Reviews",
-          "platformIcon": "Gadget Reviews"
+          "platformIcon": "rate_review"
         },
         {
           "id": 1012,
           "title": "Testing New Gadgets",
-          "platformIcon": "Tech Testing Tools"
+          "platformIcon": "science"
         },
         {
           "id": 1013,
           "title": "Scripting Automation",
-          "platformIcon": "Automation Scripts"
+          "platformIcon": "auto_mode"
         },
         {
           "id": 1014,
           "title": "Learning Ethical AI",
-          "platformIcon": "AI Ethics"
+          "platformIcon": "balance"
         },
         {
           "id": 1015,
           "title": "Astronomy",
-          "platformIcon": "Telescope"
+          "platformIcon": "star"
         },
         {
           "id": 1016,
           "title": "Quantum Physics",
-          "platformIcon": "Quantum Mechanics"
+          "platformIcon": "grain"
         },
         {
           "id": 1017,
           "title": "Space Exploration",
-          "platformIcon": "Rocket Launch"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1018,
           "title": "Biohacking",
-          "platformIcon": "Biohacking Tools"
+          "platformIcon": "biotech"
         },
         {
           "id": 1019,
           "title": "VR Development",
-          "platformIcon": "VR Tools"
+          "platformIcon": "developer_mode"
         },
         {
           "id": 1020,
           "title": "AR Development",
-          "platformIcon": "AR Tools"
+          "platformIcon": "developer_mode"
         },
         {
           "id": 1021,
           "title": "3D Printing",
-          "platformIcon": "3D Printer"
+          "platformIcon": "3d_rotation"
         },
         {
           "id": 1022,
           "title": "Cloud Computing",
-          "platformIcon": "Cloud Services"
+          "platformIcon": "cloud"
         },
         {
           "id": 1023,
           "title": "Cybersecurity",
-          "platformIcon": "Firewall & Encryption"
+          "platformIcon": "security"
         },
         {
           "id": 1024,
           "title": "Neuroscience Research",
-          "platformIcon": "Neuroscience Research"
+          "platformIcon": "psychology_alt"
         },
         {
           "id": 1025,
           "title": "Genetic Engineering",
-          "platformIcon": "Genetic Engineering"
+          "platformIcon": "genetics"
         },
         {
           "id": 1026,
           "title": "Nanotechnology",
-          "platformIcon": "Nanotech Materials"
+          "platformIcon": "grain"
         },
         {
           "id": 1027,
           "title": "Renewable Energy",
-          "platformIcon": "Renewable Energy"
+          "platformIcon": "light_mode"
         },
         {
           "id": 1028,
           "title": "Solar Energy",
-          "platformIcon": "Solar Panels"
+          "platformIcon": "solar_power"
         },
         {
           "id": 1029,
           "title": "Electric Vehicle Engineering",
-          "platformIcon": "Electric Vehicle Engineering"
+          "platformIcon": "electric_car"
         },
         {
           "id": 1030,
           "title": "Autonomous Drones",
-          "platformIcon": "Autonomous Drones"
+          "platformIcon": "emoji_nature"
         },
         {
           "id": 1031,
           "title": "Drone Technology",
-          "platformIcon": "Drone Technology"
+          "platformIcon": "emoji_nature"
         },
         {
           "id": 1032,
           "title": "Quantum Computing",
-          "platformIcon": "Quantum Computing"
+          "platformIcon": "insights"
         },
         {
           "id": 1033,
           "title": "Metaverse Development",
-          "platformIcon": "Metaverse"
+          "platformIcon": "hub"
         },
         {
           "id": 1034,
           "title": "Tech Startups",
-          "platformIcon": "Tech Startups"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1035,
           "title": "Internet of Things (IoT)",
-          "platformIcon": "Internet of Things (IoT)"
+          "platformIcon": "devices_other"
         },
         {
           "id": 1036,
           "title": "Smart Wearables",
-          "platformIcon": "Smart Wearables"
+          "platformIcon": "watch"
         },
         {
           "id": 1037,
           "title": "Augmented Reality Games",
-          "platformIcon": "AR Games"
+          "platformIcon": "sports_esports"
         },
         {
           "id": 1038,
           "title": "VR Film Making",
-          "platformIcon": "VR Film Making"
+          "platformIcon": "movie"
         },
         {
           "id": 1039,
           "title": "Brain-Computer Interfaces",
-          "platformIcon": "Brain-Computer Interfaces"
+          "platformIcon": "device_hub"
         },
         {
           "id": 1040,
           "title": "Biotechnology",
-          "platformIcon": "Biotechnology"
+          "platformIcon": "biotech"
         },
         {
           "id": 1041,
           "title": "Smart City Planning",
-          "platformIcon": "Smart Cities"
+          "platformIcon": "location_city"
         },
         {
           "id": 1042,
           "title": "Water Purification Innovation",
-          "platformIcon": "Water Purification"
+          "platformIcon": "water_drop"
         },
         {
           "id": 1043,
           "title": "DNA Research",
-          "platformIcon": "DNA Research"
+          "platformIcon": "genetics"
         },
         {
           "id": 1044,
           "title": "Superconductor Experiments",
-          "platformIcon": "Superconductors"
+          "platformIcon": "bolt"
         },
         {
           "id": 1045,
           "title": "Space Farming",
-          "platformIcon": "Space Farming"
+          "platformIcon": "agriculture"
         },
         {
           "id": 1046,
           "title": "Zero Gravity Testing",
-          "platformIcon": "Zero Gravity Testing"
+          "platformIcon": "science"
         },
         {
           "id": 1047,
           "title": "Weather Forecasting",
-          "platformIcon": "Weather Forecasting"
+          "platformIcon": "thunderstorm"
         },
         {
           "id": 1048,
           "title": "Space Station Research",
-          "platformIcon": "Space Station Research"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1049,
           "title": "Planetary Science",
-          "platformIcon": "Planetary Science"
+          "platformIcon": "public"
         },
         {
           "id": 1050,
           "title": "Extraterrestrial Studies",
-          "platformIcon": "Extraterrestrial Studies"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1051,
           "title": "Space Station Research",
-          "platformIcon": "Space Station Research"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1052,
           "title": "Planetary Science",
-          "platformIcon": "Planetary Science"
+          "platformIcon": "public"
         },
         {
           "id": 1053,
           "title": "Extraterrestrial Studies",
-          "platformIcon": "Extraterrestrial Studies"
+          "platformIcon": "travel_explore"
         }
       ]
     },
