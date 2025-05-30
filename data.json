@@ -198,7 +198,7 @@
         {
           "id": 103,
           "title": "Rope Tricks",
-          "platformIcon": "magic_button"
+          "platformIcon": "gesture"
         },
         {
           "id": 104,
@@ -208,7 +208,7 @@
         {
           "id": 105,
           "title": "Levitation Tricks",
-          "platformIcon": "flight"
+          "platformIcon": "flutter_dash"
         },
         {
           "id": 106,
@@ -243,7 +243,7 @@
         {
           "id": 112,
           "title": "Floating Object Tricks",
-          "platformIcon": "flight"
+          "platformIcon": "cloud"
         },
         {
           "id": 113,
@@ -273,7 +273,7 @@
         {
           "id": 118,
           "title": "Teleportation Tricks",
-          "platformIcon": "travel_explore"
+          "platformIcon": "door_open"
         },
         {
           "id": 119,
@@ -318,17 +318,17 @@
         {
           "id": 127,
           "title": "Card Forcing Techniques",
-          "platformIcon": "casino"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 128,
           "title": "Playing Card Manipulation",
-          "platformIcon": "casino"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 129,
           "title": "Magic Shows",
-          "platformIcon": "star"
+          "platformIcon": "auto_fix_high"
         },
         {
           "id": 130,
@@ -388,7 +388,7 @@
         {
           "id": 141,
           "title": "Fake Thumb Magic",
-          "platformIcon": "hand_gesture"
+          "platformIcon": "thumb_up"
         },
         {
           "id": 142,
@@ -444,157 +444,157 @@
         {
           "id": 151,
           "title": "Meditation",
-          "platformIcon": "Meditation"
+          "platformIcon": "self_improvement"
         },
         {
           "id": 152,
           "title": "Mindfulness",
-          "platformIcon": "Mindfulness"
+          "platformIcon": "psychology"
         },
         {
           "id": 153,
           "title": "Speed Reading",
-          "platformIcon": "Speed Reading"
+          "platformIcon": "speed"
         },
         {
           "id": 154,
           "title": "Public Speaking",
-          "platformIcon": "Public Speaking"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 155,
           "title": "Debate",
-          "platformIcon": "Debate"
+          "platformIcon": "forum"
         },
         {
           "id": 156,
           "title": "Creative Writing",
-          "platformIcon": "Creative Writing"
+          "platformIcon": "edit"
         },
         {
           "id": 157,
           "title": "Handwriting Improvement",
-          "platformIcon": "Handwriting Improvement"
+          "platformIcon": "edit_note"
         },
         {
           "id": 158,
           "title": "Foreign Language Learning",
-          "platformIcon": "Foreign Language Learning"
+          "platformIcon": "language"
         },
         {
           "id": 159,
           "title": "Memory Training",
-          "platformIcon": "Memory Training"
+          "platformIcon": "psychology"
         },
         {
           "id": 160,
           "title": "Leadership Training",
-          "platformIcon": "Leadership Training"
+          "platformIcon": "leaderboard"
         },
         {
           "id": 161,
           "title": "Problem-Solving Exercises",
-          "platformIcon": "Problem-Solving Exercises"
+          "platformIcon": "network_intel_node"
         },
         {
           "id": 162,
           "title": "Critical Thinking Training",
-          "platformIcon": "Critical Thinking Training"
+          "platformIcon": "quiz"
         },
         {
           "id": 163,
           "title": "Time Management Skills",
-          "platformIcon": "Time Management Skills"
+          "platformIcon": "schedule"
         },
         {
           "id": 164,
           "title": "Financial Planning",
-          "platformIcon": "Financial Planning"
+          "platformIcon": "account_balance_wallet"
         },
         {
           "id": 165,
           "title": "Goal Setting",
-          "platformIcon": "Goal Setting"
+          "platformIcon": "flag"
         },
         {
           "id": 166,
           "title": "Daily Journaling",
-          "platformIcon": "Daily Journaling"
+          "platformIcon": "book"
         },
         {
           "id": 167,
           "title": "Personality Typing",
-          "platformIcon": "Personality Typing"
+          "platformIcon": "person"
         },
         {
           "id": 168,
           "title": "Self-Defense Training",
-          "platformIcon": "Self-Defense Training"
+          "platformIcon": "sports_martial_arts"
         },
         {
           "id": 169,
           "title": "Stoic Philosophy Study",
-          "platformIcon": "Stoic Philosophy Study"
+          "platformIcon": "menu_book"
         },
         {
           "id": 170,
           "title": "Positive Affirmations",
-          "platformIcon": "Positive Affirmations"
+          "platformIcon": "sentiment_very_satisfied"
         },
         {
           "id": 171,
           "title": "Active Listening Practice",
-          "platformIcon": "Active Listening Practice"
+          "platformIcon": "hearing"
         },
         {
           "id": 172,
           "title": "Confidence Building",
-          "platformIcon": "Confidence Building"
+          "platformIcon": "military_tech"
         },
         {
           "id": 173,
           "title": "Decision Making",
-          "platformIcon": "Decision Making"
+          "platformIcon": "rule"
         },
         {
           "id": 174,
           "title": "Career Coaching",
-          "platformIcon": "Career Coaching"
+          "platformIcon": "work"
         },
         {
           "id": 175,
           "title": "Body Language Mastery",
-          "platformIcon": "Body Language Mastery"
+          "platformIcon": "accessibility"
         },
         {
           "id": 176,
           "title": "Negotiation Skills",
-          "platformIcon": "Negotiation Skills"
+          "platformIcon": "handshake"
         },
         {
           "id": 177,
           "title": "Emotional Intelligence Training",
-          "platformIcon": "Emotional Intelligence Training"
+          "platformIcon": "diversity_3"
         },
         {
           "id": 178,
           "title": "Life Coaching",
-          "platformIcon": "Life Coaching"
+          "platformIcon": "directions_run"
         },
         {
           "id": 179,
           "title": "Visualization Techniques",
-          "platformIcon": "Visualization Techniques"
+          "platformIcon": "visibility"
         },
         {
           "id": 180,
           "title": "Self-Reflection",
-          "platformIcon": "Self-Reflection"
+          "platformIcon": "psychology"
         },
         {
           "id": 181,
           "title": "Habit Building",
-          "platformIcon": "Habit Building"
+          "platformIcon": "event_available"
         }
       ]
     },
@@ -605,92 +605,92 @@
         {
           "id": 182,
           "title": "Lock Picking",
-          "platformIcon": "Lock Picking"
+          "platformIcon": "lock_open"
         },
         {
           "id": 183,
           "title": "Blacksmithing",
-          "platformIcon": "Blacksmithing"
+          "platformIcon": "handyman"
         },
         {
           "id": 184,
           "title": "Metal Detecting",
-          "platformIcon": "Metal Detecting"
+          "platformIcon": "explore"
         },
         {
           "id": 185,
           "title": "Urban Exploration",
-          "platformIcon": "Urban Exploration"
+          "platformIcon": "streetview"
         },
         {
           "id": 186,
           "title": "Dumpster Diving",
-          "platformIcon": "Dumpster Diving"
+          "platformIcon": "delete"
         },
         {
           "id": 187,
           "title": "Collecting Oddities",
-          "platformIcon": "Collecting Oddities"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 188,
           "title": "Soap Carving",
-          "platformIcon": "Soap Carving"
+          "platformIcon": "brush"
         },
         {
           "id": 189,
           "title": "Marble Racing",
-          "platformIcon": "Marble Racing"
+          "platformIcon": "sports_soccer"
         },
         {
           "id": 190,
           "title": "Toy Restoration",
-          "platformIcon": "Toy Restoration"
+          "platformIcon": "build"
         },
         {
           "id": 191,
           "title": "Grave Rubbing",
-          "platformIcon": "Grave Rubbing"
+          "platformIcon": "history_edu"
         },
         {
           "id": 192,
           "title": "Whittling",
-          "platformIcon": "Whittling"
+          "platformIcon": "cut"
         },
         {
           "id": 193,
           "title": "Jigsaw Puzzle Solving",
-          "platformIcon": "Jigsaw Puzzle Solving"
+          "platformIcon": "extension"
         },
         {
           "id": 194,
           "title": "Synchronized Swimming",
-          "platformIcon": "Synchronized Swimming"
+          "platformIcon": "pool"
         },
         {
           "id": 195,
           "title": "Cosplay",
-          "platformIcon": "Cosplay"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 196,
           "title": "DIY Escape Room Design",
-          "platformIcon": "DIY Escape Room Design"
+          "platformIcon": "exit_to_app"
         },
         {
           "id": 197,
           "title": "Competitive Eating",
-          "platformIcon": "Competitive Eating"
+          "platformIcon": "restaurant"
         },
         {
           "id": 198,
           "title": "Card Stacking",
-          "platformIcon": "Card Stacking"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 199,
           "title": "Extreme Couponing",
-          "platformIcon": "Extreme Couponing"
+          "platformIcon": "redeem"
         }
       ]
     },
@@ -701,252 +701,252 @@
         {
           "id": 200,
           "title": "Coding",
-          "platformIcon": "Coding"
+          "platformIcon": "code"
         },
         {
           "id": 201,
           "title": "UI/UX Design",
-          "platformIcon": "UI/UX Design"
+          "platformIcon": "design_services"
         },
         {
           "id": 202,
           "title": "Web Development",
-          "platformIcon": "Web Development"
+          "platformIcon": "public"
         },
         {
           "id": 203,
           "title": "App Development",
-          "platformIcon": "App Development"
+          "platformIcon": "developer_mode"
         },
         {
           "id": 204,
           "title": "Game Development",
-          "platformIcon": "Game Development"
+          "platformIcon": "stadia_controller"
         },
         {
           "id": 205,
           "title": "Graphic Design",
-          "platformIcon": "Graphic Design"
+          "platformIcon": "brush"
         },
         {
           "id": 206,
           "title": "Video Editing",
-          "platformIcon": "Video Editing"
+          "platformIcon": "cut"
         },
         {
           "id": 207,
           "title": "Motion Graphics",
-          "platformIcon": "Motion Graphics"
+          "platformIcon": "animation"
         },
         {
           "id": 208,
           "title": "3D Animation",
-          "platformIcon": "3D Animation"
+          "platformIcon": "3d_rotation"
         },
         {
           "id": 209,
           "title": "Augmented Reality (AR)",
-          "platformIcon": "Augmented Reality (AR)"
+          "platformIcon": "view_in_ar"
         },
         {
           "id": 210,
           "title": "Virtual Reality (VR)",
-          "platformIcon": "Virtual Reality (VR)"
+          "platformIcon": "vr180_create2d"
         },
         {
           "id": 211,
           "title": "Cybersecurity Training",
-          "platformIcon": "Cybersecurity Training"
+          "platformIcon": "security"
         },
         {
           "id": 212,
           "title": "Hacking (Ethical)",
-          "platformIcon": "Hacking (Ethical)"
+          "platformIcon": "lock"
         },
         {
           "id": 213,
           "title": "Machine Learning",
-          "platformIcon": "Machine Learning"
+          "platformIcon": "neurology"
         },
         {
           "id": 214,
           "title": "Artificial Intelligence",
-          "platformIcon": "Artificial Intelligence"
+          "platformIcon": "robot"
         },
         {
           "id": 215,
           "title": "Data Science",
-          "platformIcon": "Data Science"
+          "platformIcon": "analytics"
         },
         {
           "id": 216,
           "title": "Blockchain Development",
-          "platformIcon": "Blockchain Development"
+          "platformIcon": "token"
         },
         {
           "id": 217,
           "title": "Crypto Trading",
-          "platformIcon": "Crypto Trading"
+          "platformIcon": "currency_bitcoin"
         },
         {
           "id": 218,
           "title": "SEO Optimization",
-          "platformIcon": "SEO Optimization"
+          "platformIcon": "search"
         },
         {
           "id": 219,
           "title": "Social Media Marketing",
-          "platformIcon": "Social Media Marketing"
+          "platformIcon": "share"
         },
         {
           "id": 220,
           "title": "Influencer Marketing",
-          "platformIcon": "Influencer Marketing"
+          "platformIcon": "campaign"
         },
         {
           "id": 221,
           "title": "Podcast Editing",
-          "platformIcon": "Podcast Editing"
+          "platformIcon": "mic"
         },
         {
           "id": 222,
           "title": "Streaming Setup",
-          "platformIcon": "Streaming Setup"
+          "platformIcon": "live_tv"
         },
         {
           "id": 223,
           "title": "Cloud Computing",
-          "platformIcon": "Cloud Computing"
+          "platformIcon": "cloud"
         },
         {
           "id": 224,
           "title": "Home Automation",
-          "platformIcon": "Home Automation"
+          "platformIcon": "home_iot_device"
         },
         {
           "id": 225,
           "title": "Arduino Projects",
-          "platformIcon": "Arduino Projects"
+          "platformIcon": "settings_input_component"
         },
         {
           "id": 226,
           "title": "Raspberry Pi Projects",
-          "platformIcon": "Raspberry Pi Projects"
+          "platformIcon": "settings_input_component"
         },
         {
           "id": 227,
           "title": "Drone Flying",
-          "platformIcon": "Drone Flying"
+          "platformIcon": "helicopter"
         },
         {
           "id": 228,
           "title": "Smart Home Customization",
-          "platformIcon": "Smart Home Customization"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 229,
           "title": "Video Game Modding",
-          "platformIcon": "Video Game Modding"
+          "platformIcon": "build"
         },
         {
           "id": 230,
           "title": "Stock Market Analysis",
-          "platformIcon": "Stock Market Analysis"
+          "platformIcon": "trending_up"
         },
         {
           "id": 231,
           "title": "3D Printing",
-          "platformIcon": "3D Printing"
+          "platformIcon": "print"
         },
         {
           "id": 232,
           "title": "Audio Production",
-          "platformIcon": "Audio Production"
+          "platformIcon": "headphones"
         },
         {
           "id": 233,
           "title": "Virtual Photography",
-          "platformIcon": "Virtual Photography"
+          "platformIcon": "vr180_create2d"
         },
         {
           "id": 234,
           "title": "Generative Art",
-          "platformIcon": "Generative Art"
+          "platformIcon": "palette"
         },
         {
           "id": 235,
           "title": "Python Scripting",
-          "platformIcon": "Python Scripting"
+          "platformIcon": "code"
         },
         {
           "id": 236,
           "title": "Ethical AI Study",
-          "platformIcon": "Ethical AI Study"
+          "platformIcon": "gavel"
         },
         {
           "id": 237,
           "title": "NFT Art Creation",
-          "platformIcon": "NFT Art Creation"
+          "platformIcon": "loyalty"
         },
         {
           "id": 238,
           "title": "Digital Music Production",
-          "platformIcon": "Digital Music Production"
+          "platformIcon": "music_note"
         },
         {
           "id": 239,
           "title": "Deepfake Technology",
-          "platformIcon": "Deepfake Technology"
+          "platformIcon": "face_retouching_natural"
         },
         {
           "id": 240,
           "title": "Image Restoration",
-          "platformIcon": "Image Restoration"
+          "platformIcon": "background_replace"
         },
         {
           "id": 241,
           "title": "Programming Challenges",
-          "platformIcon": "Programming Challenges"
+          "platformIcon": "terminal"
         },
         {
           "id": 242,
           "title": "Cybersecurity Awareness",
-          "platformIcon": "Cybersecurity Awareness"
+          "platformIcon": "shield"
         },
         {
           "id": 243,
           "title": "Voice AI Training",
-          "platformIcon": "Voice AI Training"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 244,
           "title": "Data Visualization",
-          "platformIcon": "Data Visualization"
+          "platformIcon": "bar_chart"
         },
         {
           "id": 245,
           "title": "No-Code Development",
-          "platformIcon": "No-Code Development"
+          "platformIcon": "stacks"
         },
         {
           "id": 246,
           "title": "Online Course Creation",
-          "platformIcon": "Online Course Creation"
+          "platformIcon": "laptop_mac"
         },
         {
           "id": 247,
           "title": "Mobile Photography",
-          "platformIcon": "Mobile Photography"
+          "platformIcon": "camera"
         },
         {
           "id": 248,
           "title": "AI-Powered Chatbots",
-          "platformIcon": "AI-Powered Chatbots"
+          "platformIcon": "text_fields_alt"
         },
         {
           "id": 249,
           "title": "Web Scraping",
-          "platformIcon": "Web Scraping"
+          "platformIcon": "webhook"
         }
       ]
     },
@@ -957,252 +957,252 @@
         {
           "id": 250,
           "title": "Chess",
-          "platformIcon": "Chess"
+          "platformIcon": "chess_pawn"
         },
         {
           "id": 251,
           "title": "Poker",
-          "platformIcon": "Poker"
+          "platformIcon": "payments"
         },
         {
           "id": 252,
           "title": "Bridge",
-          "platformIcon": "Bridge"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 253,
           "title": "Backgammon",
-          "platformIcon": "Backgammon"
+          "platformIcon": "brightness_7"
         },
         {
           "id": 254,
           "title": "Go",
-          "platformIcon": "Go"
+          "platformIcon": "radio_button_checked"
         },
         {
           "id": 255,
           "title": "Mahjong",
-          "platformIcon": "Mahjong"
+          "platformIcon": "casino"
         },
         {
           "id": 256,
           "title": "Scrabble",
-          "platformIcon": "Scrabble"
+          "platformIcon": "abc"
         },
         {
           "id": 257,
           "title": "Dominoes",
-          "platformIcon": "Dominoes"
+          "platformIcon": "casino"
         },
         {
           "id": 258,
           "title": "Sudoku",
-          "platformIcon": "Sudoku"
+          "platformIcon": "apps"
         },
         {
           "id": 259,
           "title": "Crossword Puzzles",
-          "platformIcon": "Crossword Puzzles"
+          "platformIcon": "grid_on"
         },
         {
           "id": 260,
-          "title": "Rubik�s Cube",
-          "platformIcon": "Rubik�s Cube"
+          "title": "Rubik’s Cube",
+          "platformIcon": "widgets"
         },
         {
           "id": 261,
           "title": "Risk",
-          "platformIcon": "Risk"
+          "platformIcon": "warning"
         },
         {
           "id": 262,
           "title": "Settlers of Catan",
-          "platformIcon": "Settlers of Catan"
+          "platformIcon": "villa"
         },
         {
           "id": 263,
           "title": "Dungeons & Dragons",
-          "platformIcon": "Dungeons & Dragons"
+          "platformIcon": "skull"
         },
         {
           "id": 264,
           "title": "Checkers",
-          "platformIcon": "Checkers"
+          "platformIcon": "chess_pawn"
         },
         {
           "id": 265,
           "title": "Carrom",
-          "platformIcon": "Carrom"
+          "platformIcon": "album"
         },
         {
           "id": 266,
           "title": "Pictionary",
-          "platformIcon": "Pictionary"
+          "platformIcon": "brush"
         },
         {
           "id": 267,
           "title": "Uno",
-          "platformIcon": "Uno"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 268,
           "title": "Monopoly",
-          "platformIcon": "Monopoly"
+          "platformIcon": "account_balance"
         },
         {
           "id": 269,
           "title": "Ludo",
-          "platformIcon": "Ludo"
+          "platformIcon": "casino"
         },
         {
           "id": 270,
           "title": "Tic-Tac-Toe",
-          "platformIcon": "Tic-Tac-Toe"
+          "platformIcon": "close"
         },
         {
           "id": 271,
           "title": "Battleship",
-          "platformIcon": "Battleship"
+          "platformIcon": "sailing"
         },
         {
           "id": 272,
           "title": "Jenga",
-          "platformIcon": "Jenga"
+          "platformIcon": "layers"
         },
         {
           "id": 273,
           "title": "Boggle",
-          "platformIcon": "Boggle"
+          "platformIcon": "abc"
         },
         {
           "id": 274,
           "title": "Clue",
-          "platformIcon": "Clue"
+          "platformIcon": "mystery"
         },
         {
           "id": 275,
           "title": "Yahtzee",
-          "platformIcon": "Yahtzee"
+          "platformIcon": "casino"
         },
         {
           "id": 276,
           "title": "Chinese Checkers",
-          "platformIcon": "Chinese Checkers"
+          "platformIcon": "chess_pawn"
         },
         {
           "id": 277,
           "title": "Shogi",
-          "platformIcon": "Shogi"
+          "platformIcon": "chess_pawn"
         },
         {
           "id": 278,
           "title": "Xiangqi",
-          "platformIcon": "Xiangqi"
+          "platformIcon": "chess_pawn"
         },
         {
           "id": 279,
           "title": "Reversi",
-          "platformIcon": "Reversi"
+          "platformIcon": "circle"
         },
         {
           "id": 280,
           "title": "Rummy",
-          "platformIcon": "Rummy"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 281,
           "title": "Spades",
-          "platformIcon": "Spades"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 282,
           "title": "Hearts",
-          "platformIcon": "Hearts"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 283,
           "title": "Cribbage",
-          "platformIcon": "Cribbage"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 284,
           "title": "Euchre",
-          "platformIcon": "Euchre"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 285,
           "title": "Gin Rummy",
-          "platformIcon": "Gin Rummy"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 286,
           "title": "Warhammer",
-          "platformIcon": "Warhammer"
+          "platformIcon": "swords"
         },
         {
           "id": 287,
           "title": "Magic: The Gathering",
-          "platformIcon": "Magic: The Gathering"
+          "platformIcon": "magic_button"
         },
         {
           "id": 288,
           "title": "Hearthstone",
-          "platformIcon": "Hearthstone"
+          "platformIcon": "magic_button"
         },
         {
           "id": 289,
           "title": "Fantasy Football",
-          "platformIcon": "Fantasy Football"
+          "platformIcon": "sports_esports"
         },
         {
           "id": 290,
           "title": "eSports Tournaments",
-          "platformIcon": "eSports Tournaments"
+          "platformIcon": "stadia_controller"
         },
         {
           "id": 291,
           "title": "Trading Card Games",
-          "platformIcon": "Trading Card Games"
+          "platformIcon": "playing_cards"
         },
         {
           "id": 292,
           "title": "Codenames",
-          "platformIcon": "Codenames"
+          "platformIcon": "groups"
         },
         {
           "id": 293,
           "title": "Ticket to Ride",
-          "platformIcon": "Ticket to Ride"
+          "platformIcon": "train"
         },
         {
           "id": 294,
           "title": "Werewolf (Mafia)",
-          "platformIcon": "Werewolf (Mafia)"
+          "platformIcon": "quiz"
         },
         {
           "id": 295,
           "title": "Catan Expansions",
-          "platformIcon": "Catan Expansions"
+          "platformIcon": "add_box"
         },
         {
           "id": 296,
           "title": "Escape Room Challenges",
-          "platformIcon": "Escape Room Challenges"
+          "platformIcon": "exit_to_app"
         },
         {
           "id": 297,
           "title": "LARPing",
-          "platformIcon": "LARPing"
+          "platformIcon": "swords"
         },
         {
           "id": 298,
           "title": "Speed Chess",
-          "platformIcon": "Speed Chess"
+          "platformIcon": "timer"
         },
         {
           "id": 299,
           "title": "Online Chess Tournaments",
-          "platformIcon": "Online Chess Tournaments"
+          "platformIcon": "chess_pawn"
         }
       ]
     },
@@ -1213,107 +1213,107 @@
         {
           "id": 300,
           "title": "Volunteering",
-          "platformIcon": "Volunteering"
+          "platformIcon": "volunteer_activism"
         },
         {
           "id": 301,
           "title": "Charity Events",
-          "platformIcon": "Charity Events"
+          "platformIcon": "redeem"
         },
         {
           "id": 302,
           "title": "Fundraising",
-          "platformIcon": "Fundraising"
+          "platformIcon": "payments"
         },
         {
           "id": 303,
           "title": "Mentoring",
-          "platformIcon": "Mentoring"
+          "platformIcon": "school"
         },
         {
           "id": 304,
           "title": "Public Speaking",
-          "platformIcon": "Public Speaking"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 305,
           "title": "Group Discussions",
-          "platformIcon": "Group Discussions"
+          "platformIcon": "forum"
         },
         {
           "id": 306,
           "title": "Debate Clubs",
-          "platformIcon": "Debate Clubs"
+          "platformIcon": "gavel"
         },
         {
           "id": 307,
           "title": "Toastmasters",
-          "platformIcon": "Toastmasters"
+          "platformIcon": "mic"
         },
         {
           "id": 308,
           "title": "Community Gardening",
-          "platformIcon": "Community Gardening"
+          "platformIcon": "local_florist"
         },
         {
           "id": 309,
           "title": "Blood Donation",
-          "platformIcon": "Blood Donation"
+          "platformIcon": "bloodtype"
         },
         {
           "id": 310,
           "title": "Food Drives",
-          "platformIcon": "Food Drives"
+          "platformIcon": "local_dining"
         },
         {
           "id": 311,
           "title": "Disaster Relief Efforts",
-          "platformIcon": "Disaster Relief Efforts"
+          "platformIcon": "crisis_alert"
         },
         {
           "id": 312,
           "title": "Hosting Meetups",
-          "platformIcon": "Hosting Meetups"
+          "platformIcon": "groups"
         },
         {
           "id": 313,
           "title": "Language Exchange",
-          "platformIcon": "Language Exchange"
+          "platformIcon": "translate"
         },
         {
           "id": 314,
           "title": "Book Clubs",
-          "platformIcon": "Book Clubs"
+          "platformIcon": "menu_book"
         },
         {
           "id": 315,
           "title": "Networking Events",
-          "platformIcon": "Networking Events"
+          "platformIcon": "handshake"
         },
         {
           "id": 316,
           "title": "Support Groups",
-          "platformIcon": "Support Groups"
+          "platformIcon": "diversity_3"
         },
         {
           "id": 317,
           "title": "Neighborhood Watch",
-          "platformIcon": "Neighborhood Watch"
+          "platformIcon": "security"
         },
         {
           "id": 318,
           "title": "Cultural Exchanges",
-          "platformIcon": "Cultural Exchanges"
+          "platformIcon": "public"
         },
         {
           "id": 319,
           "title": "Interfaith Dialogues",
-          "platformIcon": "Interfaith Dialogues"
+          "platformIcon": "interpreter_mode"
         },
         {
           "id": 320,
           "title": "Animal Shelter Support",
-          "platformIcon": "Animal Shelter Support"
+          "platformIcon": "pets"
         }
       ]
     },
@@ -1324,102 +1324,102 @@
         {
           "id": 321,
           "title": "Fire Starting",
-          "platformIcon": "Fire Starting"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 322,
           "title": "Shelter Building",
-          "platformIcon": "Shelter Building"
+          "platformIcon": "villa"
         },
         {
           "id": 323,
           "title": "Wilderness Cooking",
-          "platformIcon": "Wilderness Cooking"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 324,
           "title": "Water Purification",
-          "platformIcon": "Water Purification"
+          "platformIcon": "water_drop"
         },
         {
           "id": 325,
           "title": "Orienteering",
-          "platformIcon": "Orienteering"
+          "platformIcon": "explore"
         },
         {
           "id": 326,
           "title": "Knife Skills",
-          "platformIcon": "Knife Skills"
+          "platformIcon": "restaurant"
         },
         {
           "id": 327,
           "title": "Tracking Animals",
-          "platformIcon": "Tracking Animals"
+          "platformIcon": "footprint"
         },
         {
           "id": 328,
           "title": "Camouflage Techniques",
-          "platformIcon": "Camouflage Techniques"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 329,
           "title": "Plant Foraging",
-          "platformIcon": "Plant Foraging"
+          "platformIcon": "eco"
         },
         {
           "id": 330,
           "title": "Knot Tying",
-          "platformIcon": "Knot Tying"
+          "platformIcon": "all_inclusive"
         },
         {
           "id": 331,
           "title": "Survival Fishing",
-          "platformIcon": "Survival Fishing"
+          "platformIcon": "phishing"
         },
         {
           "id": 332,
           "title": "Making Traps",
-          "platformIcon": "Making Traps"
+          "platformIcon": "construction"
         },
         {
           "id": 333,
           "title": "Bushcraft Skills",
-          "platformIcon": "Bushcraft Skills"
+          "platformIcon": "forest"
         },
         {
           "id": 334,
           "title": "First Aid Training",
-          "platformIcon": "First Aid Training"
+          "platformIcon": "medical_services"
         },
         {
           "id": 335,
           "title": "Wilderness Navigation",
-          "platformIcon": "Wilderness Navigation"
+          "platformIcon": "map"
         },
         {
           "id": 336,
           "title": "Signal Communication",
-          "platformIcon": "Signal Communication"
+          "platformIcon": "signal_cellular_alt"
         },
         {
           "id": 337,
           "title": "Rappelling",
-          "platformIcon": "Rappelling"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 338,
           "title": "Snow Camping",
-          "platformIcon": "Snow Camping"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 339,
           "title": "Extreme Cold Survival",
-          "platformIcon": "Extreme Cold Survival"
+          "platformIcon": "severe_cold"
         },
         {
           "id": 340,
           "title": "Desert Survival",
-          "platformIcon": "Desert Survival"
+          "platformIcon": "sunny"
         }
       ]
     },
@@ -1430,252 +1430,252 @@
         {
           "id": 341,
           "title": "Candle Making",
-          "platformIcon": "Wax & Wicks"
+          "platformIcon": "candle"
         },
         {
           "id": 342,
           "title": "Soap Making",
-          "platformIcon": "Soap Base"
+          "platformIcon": "soap"
         },
         {
           "id": 343,
           "title": "Pottery",
-          "platformIcon": "Clay & Tools"
+          "platformIcon": "laps"
         },
         {
           "id": 344,
           "title": "Knitting",
-          "platformIcon": "Knitting Needles"
+          "platformIcon": "strikethrough_s"
         },
         {
           "id": 345,
           "title": "Crocheting",
-          "platformIcon": "Crochet Hook"
+          "platformIcon": "strikethrough_s"
         },
         {
           "id": 346,
           "title": "Sewing",
-          "platformIcon": "Fabric & Thread"
+          "platformIcon": "cut"
         },
         {
           "id": 347,
           "title": "Origami",
-          "platformIcon": "Folding Paper"
+          "platformIcon": "interests"
         },
         {
           "id": 348,
           "title": "Paper Cutting",
-          "platformIcon": "Cutting Tools"
+          "platformIcon": "cut"
         },
         {
           "id": 349,
           "title": "Woodworking",
-          "platformIcon": "Wood & Tools"
+          "platformIcon": "carpenter"
         },
         {
           "id": 350,
           "title": "Calligraphy",
-          "platformIcon": "Calligraphy Pen"
+          "platformIcon": "edit_note"
         },
         {
           "id": 351,
           "title": "Painting",
-          "platformIcon": "Brush & Canvas"
+          "platformIcon": "palette"
         },
         {
           "id": 352,
           "title": "Sketching",
-          "platformIcon": "Sketchbook & Pencils"
+          "platformIcon": "brush"
         },
         {
           "id": 353,
           "title": "Scrapbooking",
-          "platformIcon": "Scrapbook & Stickers"
+          "platformIcon": "photo_album"
         },
         {
           "id": 354,
           "title": "Beadwork",
-          "platformIcon": "Beads & Thread"
+          "platformIcon": "radio_button_checked"
         },
         {
           "id": 355,
           "title": "Weaving",
-          "platformIcon": "Thread & Loom"
+          "platformIcon": "laundry"
         },
         {
           "id": 356,
           "title": "Basket Making",
-          "platformIcon": "Baskets & Materials"
+          "platformIcon": "shopping_basket"
         },
         {
           "id": 357,
           "title": "Quilting",
-          "platformIcon": "Fabric & Thread"
+          "platformIcon": "square_foot"
         },
         {
           "id": 358,
           "title": "Jewelry Making",
-          "platformIcon": "Jewelry Tools"
+          "platformIcon": "diamond"
         },
         {
           "id": 359,
           "title": "T-shirt Printing",
-          "platformIcon": "Fabric & Screen Printing"
+          "platformIcon": "apparel"
         },
         {
           "id": 360,
           "title": "Custom Shoe Designing",
-          "platformIcon": "Shoe Materials & Design"
+          "platformIcon": "podiatry"
         },
         {
           "id": 361,
           "title": "Embroidery",
-          "platformIcon": "Embroidery Hoop"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 362,
-          "title": "Macram�",
-          "platformIcon": "Macram� Cord"
+          "title": "Macramé",
+          "platformIcon": "keyboard_command_key"
         },
         {
           "id": 363,
           "title": "Glass Blowing",
-          "platformIcon": "Molten Glass"
+          "platformIcon": "opacity"
         },
         {
           "id": 364,
           "title": "Leathercraft",
-          "platformIcon": "Leather Tools"
+          "platformIcon": "wallet"
         },
         {
           "id": 365,
           "title": "Blacksmithing",
-          "platformIcon": "Metal & Forge"
+          "platformIcon": "handyman"
         },
         {
           "id": 366,
           "title": "Stone Carving",
-          "platformIcon": "Chisel & Stone"
+          "platformIcon": "broken_image"
         },
         {
           "id": 367,
           "title": "Stained Glass Making",
-          "platformIcon": "Glass Pieces"
+          "platformIcon": "texture"
         },
         {
           "id": 368,
           "title": "Metal Crafting",
-          "platformIcon": "Metalworking Tools"
+          "platformIcon": "engineering"
         },
         {
           "id": 369,
           "title": "Ceramic Painting",
-          "platformIcon": "Ceramic Paint & Brushes"
+          "platformIcon": "palette"
         },
         {
           "id": 370,
           "title": "Resin Art",
-          "platformIcon": "Resin Mold & Colorants"
+          "platformIcon": "texture"
         },
         {
           "id": 371,
           "title": "Bookbinding",
-          "platformIcon": "Paper & Binding"
+          "platformIcon": "menu_book"
         },
         {
           "id": 372,
           "title": "Decoupage",
-          "platformIcon": "Decoupage Paper & Glue"
+          "platformIcon": "content_cut"
         },
         {
           "id": 373,
           "title": "Puppet Making",
-          "platformIcon": "Puppet Fabric & Tools"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 374,
           "title": "Toy Crafting",
-          "platformIcon": "Wood & Tools"
+          "platformIcon": "toys"
         },
         {
           "id": 375,
           "title": "Furniture Restoration",
-          "platformIcon": "Restoration Materials"
+          "platformIcon": "chair"
         },
         {
           "id": 376,
           "title": "Dollhouse Crafting",
-          "platformIcon": "Miniature Furniture"
+          "platformIcon": "home"
         },
         {
           "id": 377,
           "title": "Upcycling Clothes",
-          "platformIcon": "Fabric & Tools"
+          "platformIcon": "recycling"
         },
         {
           "id": 378,
           "title": "Creating Greeting Cards",
-          "platformIcon": "Paper & Ink"
+          "platformIcon": "card_giftcard"
         },
         {
           "id": 379,
           "title": "Flower Pressing",
-          "platformIcon": "Pressed Flowers"
+          "platformIcon": "local_florist"
         },
         {
           "id": 380,
           "title": "Artificial Flower Arranging",
-          "platformIcon": "Artificial Flowers"
+          "platformIcon": "local_florist"
         },
         {
           "id": 381,
           "title": "Perfume Making",
-          "platformIcon": "Fragrance Oils"
+          "platformIcon": "symptoms"
         },
         {
           "id": 382,
           "title": "Terrarium Building",
-          "platformIcon": "Glass Container & Plants"
+          "platformIcon": "nature"
         },
         {
           "id": 383,
           "title": "DIY Home Decor",
-          "platformIcon": "Home Decor Supplies"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 384,
           "title": "Handmade Invitations",
-          "platformIcon": "Paper & Ink"
+          "platformIcon": "mail"
         },
         {
           "id": 385,
           "title": "Model Building",
-          "platformIcon": "Model Building Materials"
+          "platformIcon": "precision_manufacturing"
         },
         {
           "id": 386,
           "title": "Wood Burning Art",
-          "platformIcon": "Wood & Fire"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 387,
           "title": "Shoe Customization",
-          "platformIcon": "Shoe Customization Materials"
+          "platformIcon": "apparel"
         },
         {
           "id": 388,
           "title": "Dream Catcher Making",
-          "platformIcon": "Feathers & Strings"
+          "platformIcon": "bedtime"
         },
         {
           "id": 389,
           "title": "Recycled Art",
-          "platformIcon": "Recycled Materials"
+          "platformIcon": "recycling"
         },
         {
           "id": 390,
           "title": "Button Art",
-          "platformIcon": "Buttons & Thread"
+          "platformIcon": "radio_button_checked"
         }
       ]
     },
@@ -5083,252 +5083,252 @@
         {
           "id": 1054,
           "title": "Meditation Tools",
-          "platformIcon": "Meditation Tools"
+          "platformIcon": "self_improvement"
         },
         {
           "id": 1055,
           "title": "Journaling Supplies",
-          "platformIcon": "Journaling Supplies"
+          "platformIcon": "edit_note"
         },
         {
           "id": 1056,
           "title": "Stoicism Practices",
-          "platformIcon": "Stoicism Practices"
+          "platformIcon": "psychology"
         },
         {
           "id": 1057,
           "title": "Buddhism Studies",
-          "platformIcon": "Buddhism Studies"
+          "platformIcon": "spa"
         },
         {
           "id": 1058,
           "title": "Minimalism Lifestyle",
-          "platformIcon": "Minimalism Lifestyle"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 1059,
           "title": "Yoga Mat & Equipment",
-          "platformIcon": "Yoga Mat & Equipment"
+          "platformIcon": "fitness_center"
         },
         {
           "id": 1060,
           "title": "Deep Breathing Exercises",
-          "platformIcon": "Deep Breathing Exercises"
+          "platformIcon": "air"
         },
         {
           "id": 1061,
           "title": "Gratitude Journal",
-          "platformIcon": "Gratitude Practice"
+          "platformIcon": "sentiment_satisfied"
         },
         {
           "id": 1062,
           "title": "Manifestation Tools",
-          "platformIcon": "Manifestation Tools"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1063,
           "title": "Affirmation Statements",
-          "platformIcon": "Affirmation Statements"
+          "platformIcon": "campaign"
         },
         {
           "id": 1064,
           "title": "Chakra Healing Stones",
-          "platformIcon": "Chakra Healing Stones"
+          "platformIcon": "diamond"
         },
         {
           "id": 1065,
           "title": "Lucid Dreaming Techniques",
-          "platformIcon": "Lucid Dreaming Techniques"
+          "platformIcon": " خواب"
         },
         {
           "id": 1066,
           "title": "Self-Reflection Journals",
-          "platformIcon": "Self-Reflection Journals"
+          "platformIcon": "notes"
         },
         {
           "id": 1067,
           "title": "Digital Detox",
-          "platformIcon": "Digital Detox"
+          "platformIcon": "phonelink_off"
         },
         {
           "id": 1068,
           "title": "Sound Healing",
-          "platformIcon": "Sound Healing"
+          "platformIcon": "music_note"
         },
         {
           "id": 1069,
           "title": "Law of Attraction Tools",
-          "platformIcon": "Law of Attraction Tools"
+          "platformIcon": "relax"
         },
         {
           "id": 1070,
           "title": "Shadow Work Practices",
-          "platformIcon": "Shadow Work Practices"
+          "platformIcon": "dark_mode"
         },
         {
           "id": 1071,
           "title": "Feng Shui Tools",
-          "platformIcon": "Feng Shui Tools"
+          "platformIcon": "home"
         },
         {
           "id": 1072,
           "title": "Tai Chi Movements",
-          "platformIcon": "Tai Chi Movements"
+          "platformIcon": "directions_walk"
         },
         {
           "id": 1073,
           "title": "Ayurveda Remedies",
-          "platformIcon": "Ayurveda Remedies"
+          "platformIcon": "medical_services"
         },
         {
           "id": 1074,
           "title": "Reiki Healing",
-          "platformIcon": "Reiki Healing"
+          "platformIcon": "favorite"
         },
         {
           "id": 1075,
           "title": "Mindful Walking",
-          "platformIcon": "Mindful Walking"
+          "platformIcon": "directions_walk"
         },
         {
           "id": 1076,
           "title": "Hypnotherapy Sessions",
-          "platformIcon": "Hypnotherapy Sessions"
+          "platformIcon": "bedtime"
         },
         {
           "id": 1077,
           "title": "Tarot Reading",
-          "platformIcon": "Tarot Reading"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 1078,
           "title": "Astrology Tools",
-          "platformIcon": "Astrology Tools"
+          "platformIcon": "stars"
         },
         {
           "id": 1079,
           "title": "Ethical Debating",
-          "platformIcon": "Ethical Debating"
+          "platformIcon": "gavel"
         },
         {
           "id": 1080,
           "title": "Moral Philosophy",
-          "platformIcon": "Moral Philosophy"
+          "platformIcon": "balance"
         },
         {
           "id": 1081,
           "title": "Existential Thinking",
-          "platformIcon": "Existential Thinking"
+          "platformIcon": "forum"
         },
         {
           "id": 1082,
           "title": "Self-Improvement Challenges",
-          "platformIcon": "Self-Improvement Challenges"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1083,
           "title": "Time Management Planning",
-          "platformIcon": "Time Management Planning"
+          "platformIcon": "schedule"
         },
         {
           "id": 1084,
           "title": "Positivity Training",
-          "platformIcon": "Positivity Training"
+          "platformIcon": "mood"
         },
         {
           "id": 1085,
           "title": "Personality Development",
-          "platformIcon": "Personality Development"
+          "platformIcon": "person"
         },
         {
           "id": 1086,
           "title": "Mindful Eating",
-          "platformIcon": "Mindful Eating"
+          "platformIcon": "restaurant"
         },
         {
           "id": 1087,
           "title": "Visualization Techniques",
-          "platformIcon": "Visualization Techniques"
+          "platformIcon": "visibility"
         },
         {
           "id": 1088,
           "title": "Mental Resilience Training",
-          "platformIcon": "Mental Resilience Training"
+          "platformIcon": "fitness_center"
         },
         {
           "id": 1089,
           "title": "Self-Compassion Exercises",
-          "platformIcon": "Self-Compassion Exercises"
+          "platformIcon": "favorite"
         },
         {
           "id": 1090,
           "title": "Emotional Intelligence Training",
-          "platformIcon": "Emotional Intelligence Training"
+          "platformIcon": "psychology_alt"
         },
         {
           "id": 1091,
           "title": "Psychotherapy Studies",
-          "platformIcon": "Psychotherapy Studies"
+          "platformIcon": "medical_information"
         },
         {
           "id": 1092,
           "title": "Breathwork Techniques",
-          "platformIcon": "Breathwork Techniques"
+          "platformIcon": "respiratory_rate"
         },
         {
           "id": 1093,
           "title": "Vipassana Meditation",
-          "platformIcon": "Vipassana Meditation"
+          "platformIcon": "self_improvement"
         },
         {
           "id": 1094,
           "title": "Transcendental Meditation",
-          "platformIcon": "Transcendental Meditation"
+          "platformIcon": "self_improvement"
         },
         {
           "id": 1095,
           "title": "Active Listening Practice",
-          "platformIcon": "Active Listening Practice"
+          "platformIcon": "hearing"
         },
         {
           "id": 1096,
           "title": "Reading Self-Help Books",
-          "platformIcon": "Reading Self-Help Books"
+          "platformIcon": "book"
         },
         {
           "id": 1097,
           "title": "Creating a Vision Board",
-          "platformIcon": "Creating a Vision Board"
+          "platformIcon": "dashboard"
         },
         {
           "id": 1098,
           "title": "Journaling Dreams",
-          "platformIcon": "Journaling Dreams"
+          "platformIcon": "bedtime"
         },
         {
           "id": 1099,
           "title": "Practicing Forgiveness",
-          "platformIcon": "Practicing Forgiveness"
+          "platformIcon": "handshake"
         },
         {
           "id": 1100,
           "title": "Letting Go of Negativity",
-          "platformIcon": "Letting Go of Negativity"
+          "platformIcon": "sentiment_dissatisfied"
         },
         {
           "id": 1101,
           "title": "Positive Habit Building",
-          "platformIcon": "Positive Habit Building"
+          "platformIcon": "add_task"
         },
         {
           "id": 1102,
           "title": "Energy Healing",
-          "platformIcon": "Energy Healing"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 1103,
           "title": "Mind Mapping",
-          "platformIcon": "Mind Mapping"
+          "platformIcon": "neurology"
         }
       ]
     },
@@ -5339,257 +5339,252 @@
         {
           "id": 1104,
           "title": "Public Speaking Tools",
-          "platformIcon": "Public Speaking Tools"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 1105,
           "title": "Debate Tools",
-          "platformIcon": "Debate Tools"
+          "platformIcon": "gavel"
         },
         {
           "id": 1106,
           "title": "Toastmasters Club",
-          "platformIcon": "Toastmasters Club"
+          "platformIcon": "campaign"
         },
         {
           "id": 1107,
           "title": "Podcasting",
-          "platformIcon": "Podcasting"
+          "platformIcon": "mic"
         },
         {
           "id": 1108,
           "title": "Interviewing Skills",
-          "platformIcon": "Interviewing Skills"
+          "platformIcon": "person_search"
         },
         {
           "id": 1109,
           "title": "Blogging Tools",
-          "platformIcon": "Blogging Tools"
+          "platformIcon": "article"
         },
         {
           "id": 1110,
           "title": "Copywriting Tools",
-          "platformIcon": "Copywriting Tools"
+          "platformIcon": "content_copy"
         },
         {
           "id": 1111,
           "title": "Creative Writing Tools",
-          "platformIcon": "Creative Writing Tools"
+          "platformIcon": "brush"
         },
         {
           "id": 1112,
           "title": "Translating",
-          "platformIcon": "Translating"
+          "platformIcon": "translate"
         },
         {
           "id": 1113,
           "title": "Writing Poetry",
-          "platformIcon": "Writing Poetry"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 1114,
           "title": "Storytelling Techniques",
-          "platformIcon": "Storytelling Techniques"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 1115,
           "title": "Learning Sign Language",
-          "platformIcon": "Learning Sign Language"
+          "platformIcon": "sign_language"
         },
         {
           "id": 1116,
           "title": "Speed Reading Techniques",
-          "platformIcon": "Speed Reading Techniques"
+          "platformIcon": "speed"
         },
         {
           "id": 1117,
           "title": "Handwriting Improvement",
-          "platformIcon": "Handwriting Improvement"
+          "platformIcon": "hand_gesture"
         },
         {
           "id": 1118,
           "title": "Foreign Language Learning",
-          "platformIcon": "Foreign Language Learning"
+          "platformIcon": "language"
         },
         {
           "id": 1119,
           "title": "Vocabulary Building",
-          "platformIcon": "Vocabulary Building"
+          "platformIcon": "spellcheck"
         },
         {
           "id": 1120,
           "title": "Proofreading",
-          "platformIcon": "Proofreading"
+          "platformIcon": "spellcheck"
         },
         {
           "id": 1121,
           "title": "Editing Tools",
-          "platformIcon": "Editing Tools"
+          "platformIcon": "edit"
         },
         {
           "id": 1122,
           "title": "Pronunciation Training",
-          "platformIcon": "Pronunciation Training"
+          "platformIcon": "volume_up"
         },
         {
           "id": 1123,
           "title": "Spoken Word Poetry",
-          "platformIcon": "Spoken Word Poetry"
+          "platformIcon": "mic_external_on"
         },
         {
           "id": 1124,
           "title": "Letter Writing",
-          "platformIcon": "Letter Writing"
+          "platformIcon": "mail"
         },
         {
           "id": 1125,
           "title": "Speechwriting",
-          "platformIcon": "Speechwriting"
+          "platformIcon": "forum"
         },
         {
           "id": 1126,
           "title": "Writing Memoirs",
-          "platformIcon": "Writing Memoirs"
+          "platformIcon": "book_2"
         },
         {
           "id": 1127,
           "title": "Scriptwriting",
-          "platformIcon": "Scriptwriting"
+          "platformIcon": "movie"
         },
         {
           "id": 1128,
           "title": "Technical Writing",
-          "platformIcon": "Technical Writing"
+          "platformIcon": "construction"
         },
         {
           "id": 1129,
           "title": "Report Writing",
-          "platformIcon": "Report Writing"
+          "platformIcon": "description"
         },
         {
           "id": 1130,
           "title": "Essay Writing",
-          "platformIcon": "Essay Writing"
+          "platformIcon": "history_edu"
         },
         {
           "id": 1131,
           "title": "Writing Satire",
-          "platformIcon": "Writing Satire"
+          "platformIcon": "mood_bad"
         },
         {
           "id": 1132,
           "title": "Writing Short Stories",
-          "platformIcon": "Writing Short Stories"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 1133,
           "title": "Writing Fantasy",
-          "platformIcon": "Writing Fantasy"
+          "platformIcon": "castle"
         },
         {
           "id": 1134,
           "title": "Writing Sci-Fi",
-          "platformIcon": "Writing Sci-Fi"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1135,
           "title": "Creating Slogans",
-          "platformIcon": "Creating Slogans"
+          "platformIcon": "push_pin"
         },
         {
           "id": 1136,
           "title": "Branding with Words",
-          "platformIcon": "Branding with Words"
+          "platformIcon": "sell"
         },
         {
           "id": 1137,
           "title": "Voice Acting Practice",
-          "platformIcon": "Voice Acting Practice"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 1138,
           "title": "Language Exchange",
-          "platformIcon": "Language Exchange"
+          "platformIcon": "diversity_2"
         },
         {
           "id": 1139,
           "title": "Writing Comedy Sketches",
-          "platformIcon": "Writing Comedy Sketches"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 1140,
           "title": "Learning Braille",
-          "platformIcon": "Learning Braille"
+          "platformIcon": "visibility"
         },
         {
           "id": 1141,
           "title": "Singing in a Foreign Language",
-          "platformIcon": "Singing in a Foreign Language"
+          "platformIcon": "music_note"
         },
         {
           "id": 1142,
           "title": "Writing Advertisements",
-          "platformIcon": "Writing Advertisements"
+          "platformIcon": "campaign"
         },
         {
           "id": 1143,
           "title": "Creating Persuasive Arguments",
-          "platformIcon": "Creating Persuasive Arguments"
+          "platformIcon": "gavel"
         },
         {
           "id": 1144,
           "title": "Journalism",
-          "platformIcon": "Journalism"
+          "platformIcon": "newspaper"
         },
         {
           "id": 1145,
           "title": "Book Reviewing",
-          "platformIcon": "Book Reviewing"
+          "platformIcon": "rate_review"
         },
         {
           "id": 1146,
           "title": "Writing Opinion Pieces",
-          "platformIcon": "Writing Opinion Pieces"
+          "platformIcon": "edit_note"
         },
         {
           "id": 1147,
           "title": "Teaching Languages",
-          "platformIcon": "Teaching Languages"
+          "platformIcon": "school"
         },
         {
           "id": 1148,
           "title": "Summarizing Books",
-          "platformIcon": "Summarizing Books"
+          "platformIcon": "summarize"
         },
         {
           "id": 1149,
           "title": "Researching Etymology",
-          "platformIcon": "Researching Etymology"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1150,
           "title": "Learning Accents",
-          "platformIcon": "Learning Accents"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 1151,
           "title": "Writing Monologues",
-          "platformIcon": "Writing Monologues"
+          "platformIcon": "person"
         },
         {
           "id": 1152,
           "title": "Writing Plays",
-          "platformIcon": "Writing Plays"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 1153,
           "title": "Writing Mystery Stories",
-          "platformIcon": "Writing Mystery Stories"
-        },
-        {
-          "id": 1153,
-          "title": "Writing Mystery Stories",
-          "platformIcon": "Writing Mystery Stories"
+          "platformIcon": "mystery"
         }
       ]
     },
@@ -5600,252 +5595,252 @@
         {
           "id": 1154,
           "title": "Startup Ideation",
-          "platformIcon": "Startup Ideation"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 1155,
           "title": "Market Research",
-          "platformIcon": "Market Research"
+          "platformIcon": "insights"
         },
         {
           "id": 1156,
           "title": "Business Plan Writing",
-          "platformIcon": "Business Plan Writing"
+          "platformIcon": "article"
         },
         {
           "id": 1157,
           "title": "Angel Investing",
-          "platformIcon": "Angel Investing"
+          "platformIcon": "savings"
         },
         {
           "id": 1158,
           "title": "Venture Capital Research",
-          "platformIcon": "Venture Capital Research"
+          "platformIcon": "account_balance"
         },
         {
           "id": 1159,
           "title": "Dropshipping",
-          "platformIcon": "Dropshipping"
+          "platformIcon": "local_shipping"
         },
         {
           "id": 1160,
           "title": "Ecommerce Selling",
-          "platformIcon": "Ecommerce Selling"
+          "platformIcon": "shopping_cart"
         },
         {
           "id": 1161,
           "title": "Branding",
-          "platformIcon": "Branding"
+          "platformIcon": "sell"
         },
         {
           "id": 1162,
           "title": "Digital Marketing",
-          "platformIcon": "Digital Marketing"
+          "platformIcon": "campaign"
         },
         {
           "id": 1163,
           "title": "SEO Optimization",
-          "platformIcon": "SEO Optimization"
+          "platformIcon": "manage_search"
         },
         {
           "id": 1164,
           "title": "Social Media Marketing",
-          "platformIcon": "Social Media Marketing"
+          "platformIcon": "share"
         },
         {
           "id": 1165,
           "title": "Affiliate Marketing",
-          "platformIcon": "Affiliate Marketing"
+          "platformIcon": "link"
         },
         {
           "id": 1166,
           "title": "Growth Hacking",
-          "platformIcon": "Growth Hacking"
+          "platformIcon": "trending_up"
         },
         {
           "id": 1167,
           "title": "Personal Branding",
-          "platformIcon": "Personal Branding"
+          "platformIcon": "person"
         },
         {
           "id": 1168,
           "title": "Freelancing",
-          "platformIcon": "Freelancing"
+          "platformIcon": "work"
         },
         {
           "id": 1169,
           "title": "Business Networking",
-          "platformIcon": "Business Networking"
+          "platformIcon": "group"
         },
         {
           "id": 1170,
           "title": "Public Relations",
-          "platformIcon": "Public Relations"
+          "platformIcon": "campaign"
         },
         {
           "id": 1171,
           "title": "Negotiation Training",
-          "platformIcon": "Negotiation Training"
+          "platformIcon": "gavel"
         },
         {
           "id": 1172,
           "title": "Business Coaching",
-          "platformIcon": "Business Coaching"
+          "platformIcon": "school"
         },
         {
           "id": 1173,
           "title": "Customer Service Training",
-          "platformIcon": "Customer Service Training"
+          "platformIcon": "support_agent"
         },
         {
           "id": 1174,
           "title": "Finance Management",
-          "platformIcon": "Finance Management"
+          "platformIcon": "currency_rupee"
         },
         {
           "id": 1175,
           "title": "Investing in Stocks",
-          "platformIcon": "Investing in Stocks"
+          "platformIcon": "insights"
         },
         {
           "id": 1176,
           "title": "Investing in Crypto",
-          "platformIcon": "Investing in Crypto"
+          "platformIcon": "currency_bitcoin"
         },
         {
           "id": 1177,
           "title": "Real Estate Flipping",
-          "platformIcon": "Real Estate Flipping"
+          "platformIcon": "home"
         },
         {
           "id": 1178,
           "title": "Passive Income Strategies",
-          "platformIcon": "Passive Income Strategies"
+          "platformIcon": "paid"
         },
         {
           "id": 1179,
           "title": "Crowdfunding Campaigns",
-          "platformIcon": "Crowdfunding Campaigns"
+          "platformIcon": "diversity_3"
         },
         {
           "id": 1180,
           "title": "Product Development",
-          "platformIcon": "Product Development"
+          "platformIcon": "construction"
         },
         {
           "id": 1181,
           "title": "Business Blogging",
-          "platformIcon": "Business Blogging"
+          "platformIcon": "article"
         },
         {
           "id": 1182,
           "title": "Business Podcasting",
-          "platformIcon": "Business Podcasting"
+          "platformIcon": "mic"
         },
         {
           "id": 1183,
           "title": "Creating Online Courses",
-          "platformIcon": "Creating Online Courses"
+          "platformIcon": "computer"
         },
         {
           "id": 1184,
           "title": "Import/Export Business",
-          "platformIcon": "Import/Export Business"
+          "platformIcon": "swap_horiz"
         },
         {
           "id": 1185,
           "title": "Franchise Research",
-          "platformIcon": "Franchise Research"
+          "platformIcon": "store"
         },
         {
           "id": 1186,
           "title": "Licensing Deals",
-          "platformIcon": "Licensing Deals"
+          "platformIcon": "handshake"
         },
         {
           "id": 1187,
           "title": "SaaS Business Models",
-          "platformIcon": "SaaS Business Models"
+          "platformIcon": "cloud"
         },
         {
           "id": 1188,
           "title": "Pricing Strategy",
-          "platformIcon": "Pricing Strategy"
+          "platformIcon": "sell"
         },
         {
           "id": 1189,
           "title": "Business Ethics",
-          "platformIcon": "Business Ethics"
+          "platformIcon": "balance"
         },
         {
           "id": 1190,
           "title": "Supply Chain Optimization",
-          "platformIcon": "Supply Chain Optimization"
+          "platformIcon": "local_shipping"
         },
         {
           "id": 1191,
           "title": "Pitching to Investors",
-          "platformIcon": "Pitching to Investors"
+          "platformIcon": "campaign"
         },
         {
           "id": 1192,
           "title": "Competitor Analysis",
-          "platformIcon": "Competitor Analysis"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1193,
           "title": "Risk Management",
-          "platformIcon": "Risk Management"
+          "platformIcon": "crisis_alert"
         },
         {
           "id": 1194,
           "title": "B2B Sales",
-          "platformIcon": "B2B Sales"
+          "platformIcon": "handshake"
         },
         {
           "id": 1195,
           "title": "B2C Sales",
-          "platformIcon": "B2C Sales"
+          "platformIcon": "shopping_cart"
         },
         {
           "id": 1196,
           "title": "Customer Retention Strategies",
-          "platformIcon": "Customer Retention Strategies"
+          "platformIcon": "loyalty"
         },
         {
           "id": 1197,
           "title": "Scaling a Business",
-          "platformIcon": "Scaling a Business"
+          "platformIcon": "stacked_line_chart"
         },
         {
           "id": 1198,
           "title": "Mobile App Development",
-          "platformIcon": "Mobile App Development"
+          "platformIcon": "smartphone"
         },
         {
           "id": 1199,
           "title": "Lean Startup Methodology",
-          "platformIcon": "Lean Startup Methodology"
+          "platformIcon": "trending_flat"
         },
         {
           "id": 1200,
           "title": "Crowdsourcing Ideas",
-          "platformIcon": "Crowdsourcing Ideas"
+          "platformIcon": "groups_2"
         },
         {
           "id": 1201,
           "title": "Business Law Research",
-          "platformIcon": "Business Law Research"
+          "platformIcon": "balance"
         },
         {
           "id": 1202,
           "title": "Startup Incubator Participation",
-          "platformIcon": "Startup Incubator Participation"
+          "platformIcon": "crib"
         },
         {
           "id": 1203,
           "title": "Managing Remote Teams",
-          "platformIcon": "Managing Remote Teams"
+          "platformIcon": "groups"
         }
       ]
     },
@@ -5856,252 +5851,252 @@
         {
           "id": 1204,
           "title": "Skydiving",
-          "platformIcon": "Skydiving"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1205,
           "title": "Bungee Jumping",
-          "platformIcon": "Bungee Jumping"
+          "platformIcon": "south"
         },
         {
           "id": 1206,
           "title": "Paragliding",
-          "platformIcon": "Paragliding"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1207,
           "title": "BASE Jumping",
-          "platformIcon": "BASE Jumping"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1208,
           "title": "Hang Gliding",
-          "platformIcon": "Hang Gliding"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1209,
           "title": "Wingsuit Flying",
-          "platformIcon": "Wingsuit Flying"
+          "platformIcon": "flight"
         },
         {
           "id": 1210,
           "title": "Cliff Diving",
-          "platformIcon": "Cliff Diving"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1211,
           "title": "Free Solo Climbing",
-          "platformIcon": "Free Solo Climbing"
+          "platformIcon": "landslide"
         },
         {
           "id": 1212,
           "title": "Ice Climbing",
-          "platformIcon": "Ice Climbing"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 1213,
           "title": "Parkour",
-          "platformIcon": "Parkour"
+          "platformIcon": "directions_run"
         },
         {
           "id": 1214,
           "title": "Freerunning",
-          "platformIcon": "Freerunning"
+          "platformIcon": "directions_run"
         },
         {
           "id": 1215,
           "title": "BMX Racing",
-          "platformIcon": "BMX Racing"
+          "platformIcon": "pedal_bike"
         },
         {
           "id": 1216,
           "title": "Motocross",
-          "platformIcon": "Motocross"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1217,
           "title": "Downhill Mountain Biking",
-          "platformIcon": "Downhill Mountain Biking"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1218,
           "title": "Whitewater Rafting",
-          "platformIcon": "Whitewater Rafting"
+          "platformIcon": "kayaking"
         },
         {
           "id": 1219,
           "title": "Big Wave Surfing",
-          "platformIcon": "Big Wave Surfing"
+          "platformIcon": "tsunami"
         },
         {
           "id": 1220,
           "title": "Kite Surfing",
-          "platformIcon": "Kite Surfing"
+          "platformIcon": "kitesurfing"
         },
         {
           "id": 1221,
           "title": "Free Diving",
-          "platformIcon": "Free Diving"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1222,
           "title": "Deep Sea Diving",
-          "platformIcon": "Deep Sea Diving"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1223,
           "title": "Cave Diving",
-          "platformIcon": "Cave Diving"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1224,
           "title": "Ice Swimming",
-          "platformIcon": "Ice Swimming"
+          "platformIcon": "pool"
         },
         {
           "id": 1225,
           "title": "Ski Jumping",
-          "platformIcon": "Ski Jumping"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1226,
           "title": "Snowboarding Tricks",
-          "platformIcon": "Snowboarding Tricks"
+          "platformIcon": "snowboarding"
         },
         {
           "id": 1227,
           "title": "Ice Skating Tricks",
-          "platformIcon": "Ice Skating Tricks"
+          "platformIcon": "ice_skating"
         },
         {
           "id": 1228,
           "title": "Highline Walking",
-          "platformIcon": "Highline Walking"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1229,
           "title": "Slacklining",
-          "platformIcon": "Slacklining"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1230,
           "title": "Canyoning",
-          "platformIcon": "Canyoning"
+          "platformIcon": "water_drop"
         },
         {
           "id": 1231,
           "title": "Zorbing",
-          "platformIcon": "Zorbing"
+          "platformIcon": "roller_skating"
         },
         {
           "id": 1232,
           "title": "Bull Riding",
-          "platformIcon": "Bull Riding"
+          "platformIcon": "sports_score"
         },
         {
           "id": 1233,
           "title": "Rodeo Riding",
-          "platformIcon": "Rodeo Riding"
+          "platformIcon": "sports_score"
         },
         {
           "id": 1234,
           "title": "Demolition Derby",
-          "platformIcon": "Demolition Derby"
+          "platformIcon": "car_crash"
         },
         {
           "id": 1235,
           "title": "Drag Racing",
-          "platformIcon": "Drag Racing"
+          "platformIcon": "speed"
         },
         {
           "id": 1236,
           "title": "Desert Rally Racing",
-          "platformIcon": "Desert Rally Racing"
+          "platformIcon": "tire_repair"
         },
         {
           "id": 1237,
           "title": "Sandboarding",
-          "platformIcon": "Sandboarding"
+          "platformIcon": "surfing"
         },
         {
           "id": 1238,
           "title": "Storm Chasing",
-          "platformIcon": "Storm Chasing"
+          "platformIcon": "thunderstorm"
         },
         {
           "id": 1239,
           "title": "Volcano Boarding",
-          "platformIcon": "Volcano Boarding"
+          "platformIcon": "volcano"
         },
         {
           "id": 1240,
           "title": "Jet Ski Racing",
-          "platformIcon": "Jet Ski Racing"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 1241,
           "title": "Street Luge",
-          "platformIcon": "Street Luge"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1242,
           "title": "Ice Boating",
-          "platformIcon": "Ice Boating"
+          "platformIcon": "sailing"
         },
         {
           "id": 1243,
           "title": "Underwater Hockey",
-          "platformIcon": "Underwater Hockey"
+          "platformIcon": "sports_hockey"
         },
         {
           "id": 1244,
           "title": "Cliff Scrambling",
-          "platformIcon": "Cliff Scrambling"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1245,
           "title": "Avalanche Skiing",
-          "platformIcon": "Avalanche Skiing"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1246,
           "title": "Sky Surfing",
-          "platformIcon": "Sky Surfing"
+          "platformIcon": "surfing"
         },
         {
           "id": 1247,
           "title": "Scuba Diving in Shipwrecks",
-          "platformIcon": "Scuba Diving in Shipwrecks"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1248,
           "title": "Urban Exploring",
-          "platformIcon": "Urban Exploring"
+          "platformIcon": "explore"
         },
         {
           "id": 1249,
           "title": "Deep Cave Exploration",
-          "platformIcon": "Deep Cave Exploration"
+          "platformIcon": "hiking"
         },
         {
           "id": 1250,
           "title": "Riverboarding",
-          "platformIcon": "Riverboarding"
+          "platformIcon": "rowing"
         },
         {
           "id": 1251,
           "title": "Shark Cage Diving",
-          "platformIcon": "Shark Cage Diving"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1252,
           "title": "Helicopter Skiing",
-          "platformIcon": "Helicopter Skiing"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1253,
           "title": "Ultramarathon Running",
-          "platformIcon": "Ultramarathon Running"
+          "platformIcon": "directions_run"
         }
       ]
     },
@@ -6112,252 +6107,252 @@
         {
           "id": 1254,
           "title": "Stargazing",
-          "platformIcon": "Stargazing"
+          "platformIcon": "night_shelter"
         },
         {
           "id": 1255,
           "title": "Meteor Shower Watching",
-          "platformIcon": "Meteor Shower Watching"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1256,
           "title": "Planet Watching",
-          "platformIcon": "Planet Watching"
+          "platformIcon": "planet"
         },
         {
           "id": 1257,
           "title": "Constellation Mapping",
-          "platformIcon": "Constellation Mapping"
+          "platformIcon": "stars"
         },
         {
           "id": 1258,
           "title": "Moon Watching",
-          "platformIcon": "Moon Watching"
+          "platformIcon": "moon_stars"
         },
         {
           "id": 1259,
           "title": "Astrophotography",
-          "platformIcon": "Astrophotography"
+          "platformIcon": "photo_camera"
         },
         {
           "id": 1260,
           "title": "Telescope Observation",
-          "platformIcon": "Telescope Observation"
+          "platformIcon": "zoom_in"
         },
         {
           "id": 1261,
           "title": "Deep Space Research",
-          "platformIcon": "Deep Space Research"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1262,
           "title": "Radio Astronomy",
-          "platformIcon": "Radio Astronomy"
+          "platformIcon": "radio"
         },
         {
           "id": 1263,
           "title": "Observing Eclipses",
-          "platformIcon": "Observing Eclipses"
+          "platformIcon": "orbit"
         },
         {
           "id": 1264,
           "title": "Space Weather Tracking",
-          "platformIcon": "Space Weather Tracking"
+          "platformIcon": "rocket"
         },
         {
           "id": 1265,
           "title": "Learning Orbital Mechanics",
-          "platformIcon": "Learning Orbital Mechanics"
+          "platformIcon": "motion_photos_on"
         },
         {
           "id": 1266,
           "title": "Solar Observation",
-          "platformIcon": "Solar Observation"
+          "platformIcon": "solar_power"
         },
         {
           "id": 1267,
           "title": "Comet Tracking",
-          "platformIcon": "Comet Tracking"
+          "platformIcon": "planet"
         },
         {
           "id": 1268,
           "title": "Understanding Cosmic Phenomena",
-          "platformIcon": "Understanding Cosmic Phenomena"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1269,
           "title": "Studying Exoplanets",
-          "platformIcon": "Studying Exoplanets"
+          "platformIcon": "planet"
         },
         {
           "id": 1270,
           "title": "Spacecraft Watching",
-          "platformIcon": "Spacecraft Watching"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1271,
           "title": "Astronomical Sketching",
-          "platformIcon": "Astronomical Sketching"
+          "platformIcon": "draw"
         },
         {
           "id": 1272,
           "title": "Space-Themed Art",
-          "platformIcon": "Space-Themed Art"
+          "platformIcon": "palette"
         },
         {
           "id": 1273,
           "title": "Listening to Space Sounds",
-          "platformIcon": "Listening to Space Sounds"
+          "platformIcon": "headphones"
         },
         {
           "id": 1274,
           "title": "Watching Rocket Launches",
-          "platformIcon": "Watching Rocket Launches"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1275,
           "title": "Learning About Black Holes",
-          "platformIcon": "Learning About Black Holes"
+          "platformIcon": "blur_on"
         },
         {
           "id": 1276,
           "title": "Tracking the International Space Station",
-          "platformIcon": "Tracking the International Space Station"
+          "platformIcon": "satellite_alt"
         },
         {
           "id": 1277,
           "title": "Visiting a Planetarium",
-          "platformIcon": "Visiting a Planetarium"
+          "platformIcon": "stadium"
         },
         {
           "id": 1278,
           "title": "Following Space Missions",
-          "platformIcon": "Following Space Missions"
+          "platformIcon": "rocket"
         },
         {
           "id": 1279,
           "title": "Astronaut Training Simulations",
-          "platformIcon": "Astronaut Training Simulations"
+          "platformIcon": "fitness_center"
         },
         {
           "id": 1280,
           "title": "Reading Space Science Books",
-          "platformIcon": "Reading Space Science Books"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 1281,
           "title": "Space Themed Board Games",
-          "platformIcon": "Space Themed Board Games"
+          "platformIcon": "casino"
         },
         {
           "id": 1282,
           "title": "Learning About Space Mining",
-          "platformIcon": "Learning About Space Mining"
+          "platformIcon": "construction"
         },
         {
           "id": 1283,
           "title": "Virtual Space Travel",
-          "platformIcon": "Virtual Space Travel"
+          "platformIcon": "3d_rotation"
         },
         {
           "id": 1284,
           "title": "Watching Space Documentaries",
-          "platformIcon": "Watching Space Documentaries"
+          "platformIcon": "movie_filter"
         },
         {
           "id": 1285,
           "title": "Learning About Dark Matter",
-          "platformIcon": "Learning About Dark Matter"
+          "platformIcon": "dark_mode"
         },
         {
           "id": 1286,
           "title": "Studying the Big Bang Theory",
-          "platformIcon": "Studying the Big Bang Theory"
+          "platformIcon": "public"
         },
         {
           "id": 1287,
           "title": "Learning About Time Dilation",
-          "platformIcon": "Learning About Time Dilation"
+          "platformIcon": "hourglass_empty"
         },
         {
           "id": 1288,
           "title": "Investigating Space Colonization",
-          "platformIcon": "Investigating Space Colonization"
+          "platformIcon": "home"
         },
         {
           "id": 1289,
           "title": "Exploring Astrobiology",
-          "platformIcon": "Exploring Astrobiology"
+          "platformIcon": "science"
         },
         {
           "id": 1290,
           "title": "Studying Space Debris",
-          "platformIcon": "Studying Space Debris"
+          "platformIcon": "recycling"
         },
         {
           "id": 1291,
           "title": "Learning Rocket Science Basics",
-          "platformIcon": "Learning Rocket Science Basics"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 1292,
           "title": "Following SpaceX and NASA Updates",
-          "platformIcon": "Following SpaceX and NASA Updates"
+          "platformIcon": "newspaper"
         },
         {
           "id": 1293,
           "title": "Researching the Mars Colonization Plan",
-          "platformIcon": "Researching the Mars Colonization Plan"
+          "platformIcon": "person_pin_circle"
         },
         {
           "id": 1294,
-          "title": "Learning About Space Telescopes",
-          "platformIcon": "Learning About Space Telescopes"
+          "title": "Learning About Space zoom_ins",
+          "platformIcon": "zoom_in"
         },
         {
           "id": 1295,
           "title": "Watching Sci-Fi Movies Based on Space",
-          "platformIcon": "Watching Sci-Fi Movies Based on Space"
+          "platformIcon": "movie"
         },
         {
           "id": 1296,
           "title": "Writing Space-Themed Stories",
-          "platformIcon": "Writing Space-Themed Stories"
+          "platformIcon": "edit_note"
         },
         {
           "id": 1297,
           "title": "Studying the Physics of Space Travel",
-          "platformIcon": "Studying the Physics of Space Travel"
+          "platformIcon": "science"
         },
         {
           "id": 1298,
           "title": "Learning to Use a Sextant",
-          "platformIcon": "Learning to Use a Sextant"
+          "platformIcon": "explore"
         },
         {
           "id": 1299,
           "title": "Following Space Weather Reports",
-          "platformIcon": "Following Space Weather Reports"
+          "platformIcon": "rocket"
         },
         {
           "id": 1300,
           "title": "Tracking Artificial Satellites",
-          "platformIcon": "Tracking Artificial Satellites"
+          "platformIcon": "satellite_alt"
         },
         {
           "id": 1301,
           "title": "Studying Extraterrestrial Theories",
-          "platformIcon": "Studying Extraterrestrial Theories"
+          "platformIcon": "psychology"
         },
         {
           "id": 1302,
           "title": "Learning About Space-Time Continuum",
-          "platformIcon": "Learning About Space-Time Continuum"
+          "platformIcon": "data_usage"
         },
         {
           "id": 1303,
           "title": "Discussing Space Ethics",
-          "platformIcon": "Discussing Space Ethics"
+          "platformIcon": "balance"
         }
       ]
     },
