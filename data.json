@@ -1846,247 +1846,247 @@
         {
           "id": 391,
           "title": "Camping",
-          "platformIcon": "Camping Gear"
+          "platformIcon": "camping"
         },
         {
           "id": 392,
           "title": "Fishing",
-          "platformIcon": "Fishing Rod"
+          "platformIcon": "phishing"
         },
         {
           "id": 393,
           "title": "Hunting",
-          "platformIcon": "Hunting Gear"
+          "platformIcon": "phishing"
         },
         {
           "id": 394,
           "title": "Hiking",
-          "platformIcon": "Hiking Boots"
+          "platformIcon": "hiking"
         },
         {
           "id": 395,
           "title": "Trekking",
-          "platformIcon": "Trekking Poles"
+          "platformIcon": "Trekking"
         },
         {
           "id": 396,
           "title": "Backpacking",
-          "platformIcon": "Backpack"
+          "platformIcon": "backpack"
         },
         {
           "id": 397,
           "title": "Orienteering",
-          "platformIcon": "Compass"
+          "platformIcon": "backpack"
         },
         {
           "id": 398,
           "title": "Canoeing",
-          "platformIcon": "Fiberglass"
+          "platformIcon": "Canoeing"
         },
         {
           "id": 399,
           "title": "Kayaking",
-          "platformIcon": "Polyethylene"
+          "platformIcon": "kayaking"
         },
         {
           "id": 400,
           "title": "Boating",
-          "platformIcon": "Boat"
+          "platformIcon": "kayaking"
         },
         {
           "id": 401,
           "title": "Rafting",
-          "platformIcon": "Raft"
+          "platformIcon": "kayaking"
         },
         {
           "id": 402,
           "title": "Surfing",
-          "platformIcon": "Fiberglass"
+          "platformIcon": "surfing"
         },
         {
           "id": 403,
           "title": "Stand-Up Paddling",
-          "platformIcon": "Paddleboard"
+          "platformIcon": "rowing"
         },
         {
           "id": 404,
           "title": "Snorkeling",
-          "platformIcon": "Snorkel Mask"
+          "platformIcon": "paragliding"
         },
         {
           "id": 405,
           "title": "Scuba Diving",
-          "platformIcon": "Scuba Gear"
+          "platformIcon": "paragliding"
         },
         {
           "id": 406,
           "title": "Birdwatching",
-          "platformIcon": "Binoculars"
+          "platformIcon": "owl"
         },
         {
           "id": 407,
           "title": "Wildlife Photography",
-          "platformIcon": "Camera"
+          "platformIcon": "video_camera_front"
         },
         {
           "id": 408,
           "title": "Horseback Riding",
-          "platformIcon": "Saddle"
+          "platformIcon": "pets"
         },
         {
           "id": 409,
           "title": "ATV Riding",
-          "platformIcon": "ATV"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 410,
           "title": "Rock Climbing",
-          "platformIcon": "Climbing Rope"
+          "platformIcon": "landscape"
         },
         {
           "id": 411,
           "title": "Ice Climbing",
-          "platformIcon": "Ice Axes"
+          "platformIcon": "landscape"
         },
         {
           "id": 412,
           "title": "Skiing",
-          "platformIcon": "Ski Equipment"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 413,
           "title": "Snowboarding",
-          "platformIcon": "Snowboard"
+          "platformIcon": "snowboarding"
         },
         {
           "id": 414,
           "title": "Sledding",
-          "platformIcon": "Sled"
+          "platformIcon": "sledding"
         },
         {
           "id": 415,
           "title": "Snowshoeing",
-          "platformIcon": "Snowshoes"
+          "platformIcon": "snowshoeing"
         },
         {
           "id": 416,
           "title": "Mountain Biking",
-          "platformIcon": "Mountain Bike"
+          "platformIcon": "two_wheeler"
         },
         {
           "id": 417,
           "title": "Dirt Biking",
-          "platformIcon": "Dirt Bike"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 418,
           "title": "Off-Roading",
-          "platformIcon": "Off-Road Vehicle"
+          "platformIcon": "directions_bus"
         },
         {
           "id": 419,
           "title": "Bungee Jumping",
-          "platformIcon": "Bungee Cord"
+          "platformIcon": "cable"
         },
         {
           "id": 420,
           "title": "Skydiving",
-          "platformIcon": "Parachute"
+          "platformIcon": "Skydiving"
         },
         {
           "id": 421,
           "title": "Paragliding",
-          "platformIcon": "Paraglider"
+          "platformIcon": "beach_access"
         },
         {
           "id": 422,
           "title": "Zip Lining",
-          "platformIcon": "Harness"
+          "platformIcon": "directions_run"
         },
         {
           "id": 423,
           "title": "Caving",
-          "platformIcon": "Helmet & Headlamp"
+          "platformIcon": "directions_run"
         },
         {
           "id": 424,
           "title": "Geocaching",
-          "platformIcon": "GPS"
+          "platformIcon": "location_searching"
         },
         {
           "id": 425,
           "title": "Metal Detecting",
-          "platformIcon": "Metal Detector"
+          "platformIcon": "saved_search"
         },
         {
           "id": 426,
           "title": "Sailing",
-          "platformIcon": "Sailboat"
+          "platformIcon": "directions_boat"
         },
         {
           "id": 427,
           "title": "Kite Surfing",
-          "platformIcon": "Kiteboard"
+          "platformIcon": "kitesurfing"
         },
         {
           "id": 428,
           "title": "Windsurfing",
-          "platformIcon": "Windsurfing Board"
+          "platformIcon": "surfing"
         },
         {
           "id": 429,
           "title": "Spearfishing",
-          "platformIcon": "Spearfishing Gear"
+          "platformIcon": "set_meal"
         },
         {
           "id": 430,
           "title": "Fossil Hunting",
-          "platformIcon": "Excavation Tools"
+          "platformIcon": "front_loader"
         },
         {
           "id": 431,
           "title": "Stargazing",
-          "platformIcon": "Telescope"
+          "platformIcon": "filter_tilt_shift"
         },
         {
           "id": 432,
           "title": "Mushroom Foraging",
-          "platformIcon": "Foraging Basket"
+          "platformIcon": "beach_access"
         },
         {
           "id": 433,
           "title": "Bushcraft",
-          "platformIcon": "Survival Knife"
+          "platformIcon": "person_apron"
         },
         {
           "id": 434,
           "title": "Outdoor Cooking",
-          "platformIcon": "Campfire Cooking"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 435,
           "title": "Tree Climbing",
-          "platformIcon": "Tree Climbing Equipment"
+          "platformIcon": "sports_and_outdoors"
         },
         {
           "id": 436,
           "title": "Canoe Polo",
-          "platformIcon": "Ball & Goal"
+          "platformIcon": "sports_and_outdoors"
         },
         {
           "id": 437,
           "title": "Swimming in Natural Water",
-          "platformIcon": "Lake/River"
+          "platformIcon": "pool"
         },
         {
           "id": 438,
           "title": "Wilderness Survival",
-          "platformIcon": "Survival Gear"
+          "platformIcon": "pool"
         },
         {
           "id": 439,
           "title": "Nature Exploration",
-          "platformIcon": "Explorer Kit"
+          "platformIcon": "nature"
         }
       ]
     },
