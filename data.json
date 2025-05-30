@@ -1696,7 +1696,7 @@
         {
           "id": 393,
           "title": "Hunting",
-          "platformIcon": "phishing"
+          "platformIcon": "flutter_dash"
         },
         {
           "id": 394,
@@ -1706,7 +1706,7 @@
         {
           "id": 395,
           "title": "Trekking",
-          "platformIcon": "mountain"
+          "platformIcon": "mountain_flag"
         },
         {
           "id": 396,
@@ -1721,7 +1721,7 @@
         {
           "id": 398,
           "title": "Canoeing",
-          "platformIcon": "Canoeing"
+          "platformIcon": "kayaking"
         },
         {
           "id": 399,
@@ -1831,7 +1831,7 @@
         {
           "id": 420,
           "title": "Skydiving",
-          "platformIcon": "Skydiving"
+          "platformIcon": "paragliding"
         },
         {
           "id": 421,
@@ -2193,252 +2193,252 @@
         {
           "id": 490,
           "title": "Acting",
-          "platformIcon": "Stage Acting"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 491,
           "title": "Singing",
-          "platformIcon": "Singing"
+          "platformIcon": "mic"
         },
         {
           "id": 492,
           "title": "Dancing",
-          "platformIcon": "Dance Floor"
+          "platformIcon": "man_2"
         },
         {
           "id": 493,
           "title": "Stand-up Comedy",
-          "platformIcon": "Comedy Stage"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 494,
           "title": "Theater Performance",
-          "platformIcon": "Theater Performance"
+          "platformIcon": "masks"
         },
         {
           "id": 495,
           "title": "Puppetry",
-          "platformIcon": "Puppetry"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 496,
           "title": "Mime",
-          "platformIcon": "Silent Acting"
+          "platformIcon": "gesture"
         },
         {
           "id": 497,
           "title": "Clowning",
-          "platformIcon": "Clown Performance"
+          "platformIcon": "emoji_emotions"
         },
         {
           "id": 498,
           "title": "Storytelling",
-          "platformIcon": "Storytelling"
+          "platformIcon": "menu_book"
         },
         {
           "id": 499,
           "title": "Opera Singing",
-          "platformIcon": "Opera Singing"
+          "platformIcon": "music_note"
         },
         {
           "id": 500,
           "title": "Improvisation",
-          "platformIcon": "Improvised Performance"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 501,
           "title": "Public Speaking",
-          "platformIcon": "Speech"
+          "platformIcon": "campaign"
         },
         {
           "id": 502,
           "title": "Hosting",
-          "platformIcon": "Hosting & Events"
+          "platformIcon": "event"
         },
         {
           "id": 503,
           "title": "Script Reading",
-          "platformIcon": "Script Reading"
+          "platformIcon": "article"
         },
         {
           "id": 504,
           "title": "Voice Acting",
-          "platformIcon": "Voice Acting"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 505,
           "title": "Radio Hosting",
-          "platformIcon": "Radio Hosting"
+          "platformIcon": "radio"
         },
         {
           "id": 506,
           "title": "Street Performance",
-          "platformIcon": "Street Performance"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 507,
           "title": "DJing",
-          "platformIcon": "DJ Deck"
+          "platformIcon": "campaign"
         },
         {
           "id": 508,
           "title": "Poetry Recitation",
-          "platformIcon": "Poetry Recitation"
+          "platformIcon": "description"
         },
         {
           "id": 509,
           "title": "Speechwriting",
-          "platformIcon": "Speechwriting"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 510,
           "title": "Emceeing",
-          "platformIcon": "Emceeing"
+          "platformIcon": "groups"
         },
         {
           "id": 511,
           "title": "Ventriloquism",
-          "platformIcon": "Ventriloquism"
+          "platformIcon": "face"
         },
         {
           "id": 512,
           "title": "Ballet",
-          "platformIcon": "Ballet"
+          "platformIcon": "woman_2"
         },
         {
           "id": 513,
           "title": "Jazz Dance",
-          "platformIcon": "Jazz Dance"
+          "platformIcon": "music_note"
         },
         {
           "id": 514,
           "title": "Hip-Hop Dance",
-          "platformIcon": "Hip-Hop Dance"
+          "platformIcon": "headphones"
         },
         {
           "id": 515,
           "title": "Breakdancing",
-          "platformIcon": "Breakdancing"
+          "platformIcon": "music_note"
         },
         {
           "id": 516,
           "title": "Ballroom Dancing",
-          "platformIcon": "Ballroom Dancing"
+          "platformIcon": "man_2"
         },
         {
           "id": 517,
           "title": "Tap Dancing",
-          "platformIcon": "Tap Dancing"
+          "platformIcon": "music_note"
         },
         {
           "id": 518,
           "title": "Aerial Acrobatics",
-          "platformIcon": "Aerial Acrobatics"
+          "platformIcon": "flight"
         },
         {
           "id": 519,
           "title": "Stunt Performing",
-          "platformIcon": "Stunt Performance"
+          "platformIcon": "sports_gymnastics"
         },
         {
           "id": 520,
           "title": "Fire Dancing",
-          "platformIcon": "Fire Dancing"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 521,
           "title": "Magic Tricks",
-          "platformIcon": "Magic Performance"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 522,
           "title": "Beatboxing",
-          "platformIcon": "Beatboxing"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 523,
           "title": "Playing Musical Instruments",
-          "platformIcon": "Playing Instruments"
+          "platformIcon": "piano"
         },
         {
           "id": 524,
           "title": "Opera Acting",
-          "platformIcon": "Opera Acting"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 525,
           "title": "Flash Mobs",
-          "platformIcon": "Flash Mobs"
+          "platformIcon": "celebration"
         },
         {
           "id": 526,
           "title": "Circus Acts",
-          "platformIcon": "Circus Performance"
+          "platformIcon": "person_play"
         },
         {
           "id": 527,
           "title": "Traditional Dance",
-          "platformIcon": "Traditional Dance"
+          "platformIcon": "man_2"
         },
         {
           "id": 528,
           "title": "Folk Singing",
-          "platformIcon": "Folk Singing"
+          "platformIcon": "mic"
         },
         {
           "id": 529,
           "title": "Choreography",
-          "platformIcon": "Choreography"
+          "platformIcon": "edit"
         },
         {
           "id": 530,
           "title": "Songwriting",
-          "platformIcon": "Songwriting"
+          "platformIcon": "edit_note"
         },
         {
           "id": 531,
           "title": "Musical Theatre",
-          "platformIcon": "Musical Theatre"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 532,
           "title": "Lip-Syncing",
-          "platformIcon": "Lip-Syncing"
+          "platformIcon": "mic"
         },
         {
           "id": 533,
           "title": "Comedy Skits",
-          "platformIcon": "Comedy Skits"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 534,
           "title": "Spoken Word",
-          "platformIcon": "Spoken Word"
+          "platformIcon": "mic"
         },
         {
           "id": 535,
           "title": "Motivational Speaking",
-          "platformIcon": "Motivational Speaking"
+          "platformIcon": "campaign"
         },
         {
           "id": 536,
           "title": "Fire Breathing",
-          "platformIcon": "Fire Breathing"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 537,
           "title": "Live Broadcasting",
-          "platformIcon": "Live Streaming"
+          "platformIcon": "live_tv"
         },
         {
           "id": 538,
           "title": "Concert Performances",
-          "platformIcon": "Concert Performances"
+          "platformIcon": "headphones"
         },
         {
           "id": 539,
           "title": "Reality Show Participation",
-          "platformIcon": "Reality Shows"
+          "platformIcon": "tv"
         }
       ]
     },
