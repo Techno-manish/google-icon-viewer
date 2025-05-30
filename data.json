@@ -6368,252 +6368,252 @@
         {
           "id": 1304,
           "title": "Ghost Hunting",
-          "platformIcon": "Ghost Hunting"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 1305,
           "title": "Paranormal Investigation",
-          "platformIcon": "Paranormal Investigation"
+          "platformIcon": "search"
         },
         {
           "id": 1306,
           "title": "UFO Spotting",
-          "platformIcon": "UFO Spotting"
+          "platformIcon": "flare"
         },
         {
           "id": 1307,
           "title": "Psychic Readings",
-          "platformIcon": "Psychic Readings"
+          "platformIcon": "spa"
         },
         {
           "id": 1308,
           "title": "Mediumship",
-          "platformIcon": "Mediumship"
+          "platformIcon": "psychology"
         },
         {
           "id": 1309,
           "title": "Past Life Regression",
-          "platformIcon": "Past Life Regression"
+          "platformIcon": "history"
         },
         {
           "id": 1310,
           "title": "Learning About Cryptids",
-          "platformIcon": "Learning About Cryptids"
+          "platformIcon": "pets"
         },
         {
           "id": 1311,
           "title": "Exploring Haunted Places",
-          "platformIcon": "Exploring Haunted Places"
+          "platformIcon": "house_siding"
         },
         {
           "id": 1312,
           "title": "Telekinesis Practice",
-          "platformIcon": "Telekinesis Practice"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1313,
           "title": "Astral Projection",
-          "platformIcon": "Astral Projection"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1314,
           "title": "Remote Viewing",
-          "platformIcon": "Remote Viewing"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1315,
           "title": "Studying Witchcraft",
-          "platformIcon": "Studying Witchcraft"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1316,
           "title": "Practicing Tarot",
-          "platformIcon": "Practicing Tarot"
+          "platformIcon": "casino"
         },
         {
           "id": 1317,
           "title": "Learning About Spirit Guides",
-          "platformIcon": "Learning About Spirit Guides"
+          "platformIcon": "psychology"
         },
         {
           "id": 1318,
           "title": "Dowsing",
-          "platformIcon": "Dowsing"
+          "platformIcon": "explore"
         },
         {
           "id": 1319,
           "title": "Crystal Healing",
-          "platformIcon": "Crystal Healing"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 1320,
           "title": "Energy Cleansing",
-          "platformIcon": "Energy Cleansing"
+          "platformIcon": "spa"
         },
         {
           "id": 1321,
           "title": "Analyzing Paranormal Footage",
-          "platformIcon": "Analyzing Paranormal Footage"
+          "platformIcon": "videocam"
         },
         {
           "id": 1322,
           "title": "Lucid Dreaming Techniques",
-          "platformIcon": "Lucid Dreaming Techniques"
+          "platformIcon": "bedtime"
         },
         {
           "id": 1323,
           "title": "Researching Mythological Creatures",
-          "platformIcon": "Researching Mythological Creatures"
+          "platformIcon": "local_library"
         },
         {
           "id": 1324,
           "title": "Reading Horror & Occult Books",
-          "platformIcon": "Reading Horror & Occult Books"
+          "platformIcon": "menu_book"
         },
         {
           "id": 1325,
           "title": "Writing Supernatural Fiction",
-          "platformIcon": "Writing Supernatural Fiction"
+          "platformIcon": "edit_note"
         },
         {
           "id": 1326,
           "title": "Watching Paranormal Documentaries",
-          "platformIcon": "Watching Paranormal Documentaries"
+          "platformIcon": "movie_filter"
         },
         {
           "id": 1327,
           "title": "Exploring Secret Societies",
-          "platformIcon": "Exploring Secret Societies"
+          "platformIcon": "lock"
         },
         {
           "id": 1328,
           "title": "Investigating Urban Legends",
-          "platformIcon": "Investigating Urban Legends"
+          "platformIcon": "question_mark"
         },
         {
           "id": 1329,
           "title": "Learning Alchemy Basics",
-          "platformIcon": "Learning Alchemy Basics"
+          "platformIcon": "science"
         },
         {
           "id": 1330,
           "title": "Studying Demonology",
-          "platformIcon": "Studying Demonology"
+          "platformIcon": "skull"
         },
         {
           "id": 1331,
           "title": "Attending Paranormal Conferences",
-          "platformIcon": "Attending Paranormal Conferences"
+          "platformIcon": "groups"
         },
         {
           "id": 1332,
           "title": "Analyzing EVP Recordings",
-          "platformIcon": "Analyzing EVP Recordings"
+          "platformIcon": "graphic_eq"
         },
         {
           "id": 1333,
           "title": "Studying Poltergeist Cases",
-          "platformIcon": "Studying Poltergeist Cases"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 1334,
           "title": "Learning About Sacred Geometry",
-          "platformIcon": "Learning About Sacred Geometry"
+          "platformIcon": "square_foot"
         },
         {
           "id": 1335,
           "title": "Exploring Crop Circle Theories",
-          "platformIcon": "Exploring Crop Circle Theories"
+          "platformIcon": "grass"
         },
         {
           "id": 1336,
           "title": "Following Astrology-Based Predictions",
-          "platformIcon": "Following Astrology-Based Predictions"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1337,
           "title": "Researching Hidden Civilizations",
-          "platformIcon": "Researching Hidden Civilizations"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1338,
           "title": "Learning About Reincarnation",
-          "platformIcon": "Learning About Reincarnation"
+          "platformIcon": "cycle"
         },
         {
           "id": 1339,
           "title": "Investigating Time Travel Theories",
-          "platformIcon": "Investigating Time Travel Theories"
+          "platformIcon": "hourglass_empty"
         },
         {
           "id": 1340,
-          "title": "Participating in S�ances",
-          "platformIcon": "Participating in S�ances"
+          "title": "Participating in Séances",
+          "platformIcon": "groups"
         },
         {
           "id": 1341,
           "title": "Learning How to Banish Spirits",
-          "platformIcon": "Learning How to Banish Spirits"
+          "platformIcon": " auto_stories"
         },
         {
           "id": 1342,
           "title": "Studying Magical Symbols",
-          "platformIcon": "Studying Magical Symbols"
+          "platformIcon": "star"
         },
         {
           "id": 1343,
           "title": "Writing Horror Scripts",
-          "platformIcon": "Writing Horror Scripts"
+          "platformIcon": "edit_note"
         },
         {
           "id": 1344,
           "title": "Exploring Cursed Objects",
-          "platformIcon": "Exploring Cursed Objects"
+          "platformIcon": "diamond"
         },
         {
           "id": 1345,
           "title": "Watching Haunted House Streams",
-          "platformIcon": "Watching Haunted House Streams"
+          "platformIcon": "live_tv"
         },
         {
           "id": 1346,
           "title": "Visiting Mystery Spots",
-          "platformIcon": "Visiting Mystery Spots"
+          "platformIcon": "location_on"
         },
         {
           "id": 1347,
           "title": "Researching Astral Beings",
-          "platformIcon": "Researching Astral Beings"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 1348,
           "title": "Learning About Dimensional Travel",
-          "platformIcon": "Learning About Dimensional Travel"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1349,
           "title": "Studying the Science of Superstitions",
-          "platformIcon": "Studying the Science of Superstitions"
+          "platformIcon": "science"
         },
         {
           "id": 1350,
           "title": "Reading Ancient Grimoires",
-          "platformIcon": "Reading Ancient Grimoires"
+          "platformIcon": "menu_book"
         },
         {
           "id": 1351,
           "title": "Learning Protection Rituals",
-          "platformIcon": "Learning Protection Rituals"
+          "platformIcon": "shield"
         },
         {
           "id": 1352,
           "title": "Analyzing Paranormal Psychology",
-          "platformIcon": "Analyzing Paranormal Psychology"
+          "platformIcon": "psychology"
         },
         {
           "id": 1353,
           "title": "Exploring Quantum Mysticism",
-          "platformIcon": "Exploring Quantum Mysticism"
+          "platformIcon": "science"
         }
       ]
     },
@@ -6624,42 +6624,42 @@
         {
           "id": 1354,
           "title": "Fire Starting",
-          "platformIcon": "Fire Starting"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 1355,
           "title": "Shelter Building",
-          "platformIcon": "Shelter Building"
+          "platformIcon": "cottage"
         },
         {
           "id": 1356,
           "title": "Foraging",
-          "platformIcon": "Foraging"
+          "platformIcon": "forest"
         },
         {
           "id": 1357,
           "title": "Water Purification",
-          "platformIcon": "Water Purification"
+          "platformIcon": "water_drop"
         },
         {
           "id": 1358,
           "title": "Wilderness Navigation",
-          "platformIcon": "Wilderness Navigation"
+          "platformIcon": "explore"
         },
         {
           "id": 1359,
           "title": "Hunting",
-          "platformIcon": "Hunting"
+          "platformIcon": "local_florist"
         },
         {
           "id": 1360,
           "title": "Fishing",
-          "platformIcon": "Fishing"
+          "platformIcon": "water"
         },
         {
           "id": 1361,
           "title": "Trapping",
-          "platformIcon": "Trapping"
+          "platformIcon": "rainy_heavy"
         },
         {
           "id": 1362,
@@ -6669,207 +6669,207 @@
         {
           "id": 1363,
           "title": "Knife Skills",
-          "platformIcon": "Knife Skills"
+          "platformIcon": "cut"
         },
         {
           "id": 1364,
           "title": "First Aid Training",
-          "platformIcon": "First Aid Training"
+          "platformIcon": "medical_services"
         },
         {
           "id": 1365,
           "title": "Making Natural Cordage",
-          "platformIcon": "Making Natural Cordage"
+          "platformIcon": "handshake"
         },
         {
           "id": 1366,
           "title": "Tracking Wildlife",
-          "platformIcon": "Tracking Wildlife"
+          "platformIcon": "footprint"
         },
         {
           "id": 1367,
           "title": "Rock Climbing",
-          "platformIcon": "Rock Climbing"
+          "platformIcon": "terrain"
         },
         {
           "id": 1368,
           "title": "Mountaineering",
-          "platformIcon": "Mountaineering"
+          "platformIcon": "landscape"
         },
         {
           "id": 1369,
           "title": "Snow Survival",
-          "platformIcon": "Snow Survival"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 1370,
           "title": "Camouflage Techniques",
-          "platformIcon": "Camouflage Techniques"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 1371,
           "title": "Constructing Rafts",
-          "platformIcon": "Constructing Rafts"
+          "platformIcon": "kayaking"
         },
         {
           "id": 1372,
           "title": "Cold Weather Survival",
-          "platformIcon": "Cold Weather Survival"
+          "platformIcon": "thermostat"
         },
         {
           "id": 1373,
           "title": "Knot Tying",
-          "platformIcon": "Knot Tying"
+          "platformIcon": "handshake"
         },
         {
           "id": 1374,
           "title": "Building a Smoke Signal",
-          "platformIcon": "Building a Smoke Signal"
+          "platformIcon": "cloud"
         },
         {
           "id": 1375,
           "title": "Understanding Edible Plants",
-          "platformIcon": "Understanding Edible Plants"
+          "platformIcon": "local_florist"
         },
         {
           "id": 1376,
           "title": "Constructing Pit Traps",
-          "platformIcon": "Constructing Pit Traps"
+          "platformIcon": "grid_on"
         },
         {
           "id": 1377,
           "title": "Spearfishing",
-          "platformIcon": "Spearfishing"
+          "platformIcon": "kayaking"
         },
         {
           "id": 1378,
           "title": "Crafting DIY Tools",
-          "platformIcon": "Crafting DIY Tools"
+          "platformIcon": "construction"
         },
         {
           "id": 1379,
           "title": "Studying Weather Patterns",
-          "platformIcon": "Studying Weather Patterns"
+          "platformIcon": "cloudy_snowing"
         },
         {
           "id": 1380,
           "title": "Orienteering",
-          "platformIcon": "Orienteering"
+          "platformIcon": "map"
         },
         {
           "id": 1381,
           "title": "Making DIY Weapons",
-          "platformIcon": "Making DIY Weapons"
+          "platformIcon": "handyman"
         },
         {
           "id": 1382,
           "title": "Hunting With a Bow",
-          "platformIcon": "Hunting With a Bow"
+          "platformIcon": "target"
         },
         {
           "id": 1383,
           "title": "Learning Animal Calls",
-          "platformIcon": "Learning Animal Calls"
+          "platformIcon": "pets"
         },
         {
           "id": 1384,
           "title": "Shelter Insulation Techniques",
-          "platformIcon": "Shelter Insulation Techniques"
+          "platformIcon": "bed"
         },
         {
           "id": 1385,
           "title": "Ice Fishing",
-          "platformIcon": "Ice Fishing"
+          "platformIcon": "ice_skating"
         },
         {
           "id": 1386,
           "title": "Reading Topographic Maps",
-          "platformIcon": "Reading Topographic Maps"
+          "platformIcon": "map"
         },
         {
           "id": 1387,
           "title": "Creating a Solar Still",
-          "platformIcon": "Creating a Solar Still"
+          "platformIcon": "solar_power"
         },
         {
           "id": 1388,
           "title": "Tracking Human Movements",
-          "platformIcon": "Tracking Human Movements"
+          "platformIcon": "directions_walk"
         },
         {
           "id": 1389,
           "title": "Learning Self-Defense",
-          "platformIcon": "Learning Self-Defense"
+          "platformIcon": "sports_martial_arts"
         },
         {
           "id": 1390,
           "title": "Setting Up Emergency Camps",
-          "platformIcon": "Setting Up Emergency Camps"
+          "platformIcon": "tent"
         },
         {
           "id": 1391,
           "title": "Snake Handling",
-          "platformIcon": "Snake Handling"
+          "platformIcon": "pets"
         },
         {
           "id": 1392,
           "title": "Identifying Animal Prints",
-          "platformIcon": "Identifying Animal Prints"
+          "platformIcon": "footprint"
         },
         {
           "id": 1393,
           "title": "Making DIY Traps",
-          "platformIcon": "Making DIY Traps"
+          "platformIcon": "grid_on"
         },
         {
           "id": 1394,
           "title": "Digging a Well",
-          "platformIcon": "Digging a Well"
+          "platformIcon": "water_drop"
         },
         {
           "id": 1395,
           "title": "Learning Morse Code",
-          "platformIcon": "Learning Morse Code"
+          "platformIcon": "signal_cellular_alt"
         },
         {
           "id": 1396,
           "title": "Swimming in Open Waters",
-          "platformIcon": "Swimming in Open Waters"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1397,
           "title": "Building Underground Shelters",
-          "platformIcon": "Building Underground Shelters"
+          "platformIcon": "house_siding"
         },
         {
           "id": 1398,
           "title": "Studying Primitive Fire Methods",
-          "platformIcon": "Studying Primitive Fire Methods"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 1399,
           "title": "Tanning Animal Hides",
-          "platformIcon": "Tanning Animal Hides"
+          "platformIcon": "pets"
         },
         {
           "id": 1400,
           "title": "Building Treehouse Shelters",
-          "platformIcon": "Building Treehouse Shelters"
+          "platformIcon": "park"
         },
         {
           "id": 1401,
           "title": "Training in Military Survival Tactics",
-          "platformIcon": "Training in Military Survival Tactics"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1402,
           "title": "Studying Hypothermia Prevention",
-          "platformIcon": "Studying Hypothermia Prevention"
+          "platformIcon": "thermostat"
         },
         {
           "id": 1403,
           "title": "Learning Blacksmithing",
-          "platformIcon": "Learning Blacksmithing"
+          "platformIcon": "build"
         }
       ]
     },
@@ -6880,87 +6880,87 @@
         {
           "id": 1404,
           "title": "Building Robots",
-          "platformIcon": "Building Robots"
+          "platformIcon": "robot"
         },
         {
           "id": 1405,
           "title": "Programming AI Models",
-          "platformIcon": "Programming AI Models"
+          "platformIcon": "code"
         },
         {
           "id": 1406,
           "title": "Machine Learning",
-          "platformIcon": "Machine Learning"
+          "platformIcon": "model_training"
         },
         {
           "id": 1407,
           "title": "Computer Vision",
-          "platformIcon": "Computer Vision"
+          "platformIcon": "visibility"
         },
         {
           "id": 1408,
           "title": "Automation Engineering",
-          "platformIcon": "Automation Engineering"
+          "platformIcon": "tune"
         },
         {
           "id": 1409,
           "title": "Learning Robotics Frameworks",
-          "platformIcon": "Learning Robotics Frameworks"
+          "platformIcon": "menu_book"
         },
         {
           "id": 1410,
           "title": "Creating Chatbots",
-          "platformIcon": "Creating Chatbots"
+          "platformIcon": "chat_bubble"
         },
         {
           "id": 1411,
           "title": "Developing AI Assistants",
-          "platformIcon": "Developing AI Assistants"
+          "platformIcon": "smart_toy"
         },
         {
           "id": 1412,
           "title": "Designing Autonomous Vehicles",
-          "platformIcon": "Designing Autonomous Vehicles"
+          "platformIcon": "drive_eta"
         },
         {
           "id": 1413,
           "title": "Raspberry Pi Projects",
-          "platformIcon": "Raspberry Pi Projects"
+          "platformIcon": "hardware"
         },
         {
           "id": 1414,
           "title": "Arduino Projects",
-          "platformIcon": "Arduino Projects"
+          "platformIcon": "hardware"
         },
         {
           "id": 1415,
           "title": "Drone Engineering",
-          "platformIcon": "Drone Engineering"
+          "platformIcon": "engineering"
         },
         {
           "id": 1416,
           "title": "Learning Neural Networks",
-          "platformIcon": "Learning Neural Networks"
+          "platformIcon": "share"
         },
         {
           "id": 1417,
           "title": "AI Ethics Research",
-          "platformIcon": "AI Ethics Research"
+          "platformIcon": "gavel"
         },
         {
           "id": 1418,
           "title": "Virtual Reality Development",
-          "platformIcon": "Virtual Reality Development"
+          "platformIcon": "head_mounted_device"
         },
         {
           "id": 1419,
           "title": "Augmented Reality Programming",
-          "platformIcon": "Augmented Reality Programming"
+          "platformIcon": "view_in_ar"
         },
         {
           "id": 1420,
           "title": "Creating AI Art",
-          "platformIcon": "Creating AI Art"
+          "platformIcon": "palette"
         }
       ]
     },
@@ -6971,27 +6971,27 @@
         {
           "id": 1421,
           "title": "Studying Greek Mythology",
-          "platformIcon": "Studying Greek Mythology"
+          "platformIcon": "gavel"
         },
         {
           "id": 1422,
           "title": "Reading Norse Sagas",
-          "platformIcon": "Reading Norse Sagas"
+          "platformIcon": "book"
         },
         {
           "id": 1423,
           "title": "Learning Egyptian Legends",
-          "platformIcon": "Learning Egyptian Legends"
+          "platformIcon": "add_triangle"
         },
         {
           "id": 1424,
           "title": "Exploring Hindu Epics",
-          "platformIcon": "Exploring Hindu Epics"
+          "platformIcon": "temple_hindu"
         },
         {
           "id": 1425,
           "title": "Investigating Celtic Myths",
-          "platformIcon": "Investigating Celtic Myths"
+          "platformIcon": "forest"
         }
       ]
     },
@@ -7002,508 +7002,508 @@
         {
           "id": 1426,
           "title": "Video Games",
-          "platformIcon": "Video Games"
+          "platformIcon": "sports_esports"
         },
         {
           "id": 1427,
           "title": "Board Games",
-          "platformIcon": "Board Games"
+          "platformIcon": "casino"
         },
         {
           "id": 1428,
           "title": "Card Decks",
-          "platformIcon": "Card Decks"
+          "platformIcon": "style"
         },
         {
           "id": 1429,
           "title": "Competitive Play",
-          "platformIcon": "Competitive Play"
+          "platformIcon": "emoji_events"
         },
         {
           "id": 1430,
           "title": "Role-Playing",
-          "platformIcon": "Role-Playing"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 1431,
           "title": "Logic Games",
-          "platformIcon": "Logic Games"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 1432,
           "title": "Trivia Questions",
-          "platformIcon": "Trivia Questions"
+          "platformIcon": "quiz"
         },
         {
           "id": 1433,
           "title": "Tactical Planning",
-          "platformIcon": "Tactical Planning"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1434,
           "title": "Combat Play",
-          "platformIcon": "Combat Play"
+          "platformIcon": "swords"
         },
         {
           "id": 1435,
           "title": "Racing Tracks",
-          "platformIcon": "Racing Tracks"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 1436,
           "title": "Massive Online Worlds",
-          "platformIcon": "Massive Online Worlds"
+          "platformIcon": "public"
         },
         {
           "id": 1437,
           "title": "Last-Man-Standing",
-          "platformIcon": "Last-Man-Standing"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1438,
           "title": "Simulation Mode",
-          "platformIcon": "Simulation Mode"
+          "platformIcon": "settings_suggest"
         },
         {
           "id": 1439,
           "title": "Virtual Sports",
-          "platformIcon": "Virtual Sports"
+          "platformIcon": "sports"
         },
         {
           "id": 1440,
           "title": "Urban Planning",
-          "platformIcon": "Urban Planning"
+          "platformIcon": "location_city"
         },
         {
           "id": 1441,
           "title": "Defensive Strategy",
-          "platformIcon": "Defensive Strategy"
+          "platformIcon": "shield"
         },
         {
           "id": 1442,
           "title": "Scary Adventures",
-          "platformIcon": "Scary Adventures"
+          "platformIcon": "skull"
         },
         {
           "id": 1443,
           "title": "Survival Mechanics",
-          "platformIcon": "Survival Mechanics"
+          "platformIcon": "camping"
         },
         {
           "id": 1444,
           "title": "Combat Sports",
-          "platformIcon": "Combat Sports"
+          "platformIcon": "sports_mma"
         },
         {
           "id": 1445,
           "title": "Retro Games",
-          "platformIcon": "Retro Games"
+          "platformIcon": "gamepad"
         },
         {
           "id": 1446,
           "title": "Touchscreen Play",
-          "platformIcon": "Touchscreen Play"
+          "platformIcon": "touch_app"
         },
         {
           "id": 1447,
           "title": "Chess Board",
-          "platformIcon": "Chess Board"
+          "platformIcon": "extension"
         },
         {
           "id": 1448,
           "title": "Poker Chips",
-          "platformIcon": "Poker Chips"
+          "platformIcon": "casino"
         },
         {
           "id": 1449,
           "title": "Blackjack Cards",
-          "platformIcon": "Blackjack Cards"
+          "platformIcon": "style"
         },
         {
           "id": 1450,
           "title": "Go Board",
-          "platformIcon": "Go Board"
+          "platformIcon": "extension"
         },
         {
           "id": 1451,
           "title": "Scrabble Tiles",
-          "platformIcon": "Scrabble Tiles"
+          "platformIcon": "extension"
         },
         {
           "id": 1452,
           "title": "Board & Cards",
-          "platformIcon": "Board & Cards"
+          "platformIcon": "casino"
         },
         {
           "id": 1453,
           "title": "Settlers of Catan",
-          "platformIcon": "Settlers of Catan"
+          "platformIcon": "location_city"
         },
         {
           "id": 1454,
           "title": "Dice Games",
-          "platformIcon": "Dice Games"
+          "platformIcon": "casino"
         },
         {
           "id": 1455,
           "title": "Warhammer Models",
-          "platformIcon": "Warhammer Models"
+          "platformIcon": "sports_martial_arts"
         },
         {
           "id": 1456,
           "title": "Collectible Cards",
-          "platformIcon": "Collectible Cards"
+          "platformIcon": "credit_card"
         },
         {
           "id": 1457,
           "title": "Magic Cards",
-          "platformIcon": "Magic Cards"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1458,
           "title": "Yu-Gi-Oh! Cards",
-          "platformIcon": "Yu-Gi-Oh! Cards"
+          "platformIcon": "style"
         },
         {
           "id": 1459,
           "title": "Bingo Game",
-          "platformIcon": "Bingo Game"
+          "platformIcon": "looks_4"
         },
         {
           "id": 1460,
           "title": "Slot Machine Reel",
-          "platformIcon": "Slot Machine Reel"
+          "platformIcon": "casino"
         },
         {
           "id": 1461,
           "title": "Puzzle Pieces",
-          "platformIcon": "Puzzle Pieces"
+          "platformIcon": "extension"
         },
         {
           "id": 1462,
           "title": "Jigsaw Pieces",
-          "platformIcon": "Jigsaw Pieces"
+          "platformIcon": "extension"
         },
         {
           "id": 1463,
           "title": "Tournament Events",
-          "platformIcon": "Tournament Events"
+          "platformIcon": "emoji_events"
         },
         {
           "id": 1464,
           "title": "Fantasy Teams",
-          "platformIcon": "Fantasy Teams"
+          "platformIcon": "groups"
         },
         {
           "id": 1465,
           "title": "VR Headset",
-          "platformIcon": "VR Headset"
+          "platformIcon": "head_mounted_device"
         },
         {
           "id": 1466,
           "title": "AR Games",
-          "platformIcon": "AR Games"
+          "platformIcon": "view_in_ar"
         },
         {
           "id": 1467,
           "title": "Interactive Story",
-          "platformIcon": "Interactive Story"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 1468,
           "title": "Speedrun Challenges",
-          "platformIcon": "Speedrun Challenges"
+          "platformIcon": "speed"
         },
         {
           "id": 1469,
           "title": "Competitive Play",
-          "platformIcon": "Competitive Play"
+          "platformIcon": "emoji_events"
         },
         {
           "id": 1470,
           "title": "Rare Collectibles",
-          "platformIcon": "Rare Collectibles"
+          "platformIcon": "diamond"
         },
         {
           "id": 1471,
           "title": "Gaming Conventions",
-          "platformIcon": "Gaming Conventions"
+          "platformIcon": "groups"
         },
         {
           "id": 1472,
           "title": "Cosplay Outfits",
-          "platformIcon": "Cosplay Outfits"
+          "platformIcon": "person"
         },
         {
           "id": 1473,
           "title": "Game Mods",
-          "platformIcon": "Game Mods"
+          "platformIcon": "build_circle"
         },
         {
           "id": 1474,
           "title": "Streaming Channels",
-          "platformIcon": "Streaming Channels"
+          "platformIcon": "live_tv"
         },
         {
           "id": 1475,
-          "title": "Let�s Play Videos",
-          "platformIcon": "Let�s Play Videos"
+          "title": "Let’s Play Videos",
+          "platformIcon": "play_arrow"
         }
       ]
     },
-    {
+      {
       "id": 33,
       "name": "Collecting",
       "subcategories": [
         {
           "id": 1476,
           "title": "Coins",
-          "platformIcon": "Coins"
+          "platformIcon": "monetization_on"
         },
         {
           "id": 1477,
           "title": "Stamps",
-          "platformIcon": "Stamps"
+          "platformIcon": "mail"
         },
         {
           "id": 1478,
           "title": "Vintage Items",
-          "platformIcon": "Vintage Items"
+          "platformIcon": "chair"
         },
         {
           "id": 1479,
           "title": "Vinyl Records",
-          "platformIcon": "Vinyl Records"
+          "platformIcon": "album"
         },
         {
           "id": 1480,
           "title": "Comic Books",
-          "platformIcon": "Comic Books"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 1481,
           "title": "Baseball Cards",
-          "platformIcon": "Baseball Cards"
+          "platformIcon": "sports_baseball"
         },
         {
           "id": 1482,
           "title": "Autographs",
-          "platformIcon": "Autographs"
+          "platformIcon": "edit"
         },
         {
           "id": 1483,
           "title": "Movie Memorabilia",
-          "platformIcon": "Movie Memorabilia"
+          "platformIcon": "movie"
         },
         {
           "id": 1484,
           "title": "Action Figures",
-          "platformIcon": "Action Figures"
+          "platformIcon": "toys"
         },
         {
           "id": 1485,
           "title": "Toys",
-          "platformIcon": "Toys"
+          "platformIcon": "toys"
         },
         {
           "id": 1486,
           "title": "Dolls",
-          "platformIcon": "Dolls"
+          "platformIcon": "accessibility"
         },
         {
           "id": 1487,
           "title": "Model Trains",
-          "platformIcon": "Model Trains"
+          "platformIcon": "train"
         },
         {
           "id": 1488,
           "title": "Sneakers",
-          "platformIcon": "Sneakers"
+          "platformIcon": "directions_run"
         },
         {
           "id": 1489,
           "title": "Watches",
-          "platformIcon": "Watches"
+          "platformIcon": "watch"
         },
         {
           "id": 1490,
           "title": "Vintage Cars",
-          "platformIcon": "Vintage Cars"
+          "platformIcon": "airport_shuttle"
         },
         {
           "id": 1491,
           "title": "Phone Cards",
-          "platformIcon": "Phone Cards"
+          "platformIcon": "contact_phone"
         },
         {
           "id": 1492,
           "title": "Rocks and Minerals",
-          "platformIcon": "Rocks and Minerals"
+          "platformIcon": "landscape"
         },
         {
           "id": 1493,
           "title": "Fossils",
-          "platformIcon": "Fossils"
+          "platformIcon": "pets"
         },
         {
           "id": 1494,
           "title": "Shells",
-          "platformIcon": "Shells"
+          "platformIcon": "nature"
         },
         {
           "id": 1495,
           "title": "Postcards",
-          "platformIcon": "Postcards"
+          "platformIcon": "mail"
         },
         {
           "id": 1496,
           "title": "Matchbox Cars",
-          "platformIcon": "Matchbox Cars"
+          "platformIcon": "toys"
         },
         {
           "id": 1497,
           "title": "Souvenirs",
-          "platformIcon": "Souvenirs"
+          "platformIcon": "redeem"
         },
         {
           "id": 1498,
           "title": "Cameras",
-          "platformIcon": "Cameras"
+          "platformIcon": "photo_camera"
         },
         {
           "id": 1499,
           "title": "Chess Sets",
-          "platformIcon": "Chess Sets"
+          "platformIcon": "extension"
         },
         {
           "id": 1500,
           "title": "Books",
-          "platformIcon": "Books"
+          "platformIcon": "menu_book"
         },
         {
           "id": 1501,
           "title": "Weapons",
-          "platformIcon": "Weapons"
+          "platformIcon": "sports_mma"
         },
         {
           "id": 1502,
           "title": "Beer Bottles",
-          "platformIcon": "Beer Bottles"
+          "platformIcon": "sports_bar"
         },
         {
           "id": 1503,
           "title": "Pez Dispensers",
-          "platformIcon": "Pez Dispensers"
+          "platformIcon": "toys"
         },
         {
           "id": 1504,
           "title": "Art",
-          "platformIcon": "Art"
+          "platformIcon": "palette"
         },
         {
           "id": 1505,
           "title": "Glass Bottles",
-          "platformIcon": "Glass Bottles"
+          "platformIcon": "liquor"
         },
         {
           "id": 1506,
           "title": "Keychains",
-          "platformIcon": "Keychains"
+          "platformIcon": "key"
         },
         {
           "id": 1507,
           "title": "Belt Buckles",
-          "platformIcon": "Belt Buckles"
+          "platformIcon": "conveyor_belt"
         },
         {
           "id": 1508,
           "title": "Military Medals",
-          "platformIcon": "Military Medals"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1509,
           "title": "Perfume Bottles",
-          "platformIcon": "Perfume Bottles"
+          "platformIcon": "water_drop"
         },
         {
           "id": 1510,
           "title": "Old Newspapers",
-          "platformIcon": "Old Newspapers"
+          "platformIcon": "newspaper"
         },
         {
           "id": 1511,
           "title": "Casino Chips",
-          "platformIcon": "Casino Chips"
+          "platformIcon": "casino"
         },
         {
           "id": 1512,
           "title": "Tobacco Pipes",
-          "platformIcon": "Tobacco Pipes"
+          "platformIcon": "smoking_rooms"
         },
         {
           "id": 1513,
           "title": "Paper Money",
-          "platformIcon": "Paper Money"
+          "platformIcon": "payments"
         },
         {
           "id": 1514,
           "title": "Magnets",
-          "platformIcon": "Magnets"
+          "platformIcon": "nest_cam_magnet_mount"
         },
         {
           "id": 1515,
           "title": "Teapots",
-          "platformIcon": "Teapots"
+          "platformIcon": "local_cafe"
         },
         {
           "id": 1516,
           "title": "Porcelain Dolls",
-          "platformIcon": "Porcelain Dolls"
+          "platformIcon": "face"
         },
         {
           "id": 1517,
           "title": "Coin Banks",
-          "platformIcon": "Coin Banks"
+          "platformIcon": "savings"
         },
         {
           "id": 1518,
           "title": "Vintage Advertisements",
-          "platformIcon": "Vintage Advertisements"
+          "platformIcon": "campaign"
         },
         {
           "id": 1519,
           "title": "Sports Jerseys",
-          "platformIcon": "Sports Jerseys"
+          "platformIcon": "sports_soccer"
         },
         {
           "id": 1520,
           "title": "Figurines",
-          "platformIcon": "Figurines"
+          "platformIcon": "person"
         },
         {
           "id": 1521,
           "title": "Limited Editions",
-          "platformIcon": "Limited Editions"
+          "platformIcon": "star"
         },
         {
           "id": 1522,
           "title": "Pop Culture Items",
-          "platformIcon": "Pop Culture Items"
+          "platformIcon": "celebration"
         },
         {
           "id": 1523,
           "title": "Celebrity Merch",
-          "platformIcon": "Celebrity Merch"
+          "platformIcon": "person"
         },
         {
           "id": 1524,
           "title": "Historical Artifacts",
-          "platformIcon": "Historical Artifacts"
+          "platformIcon": "museum"
         },
         {
           "id": 1525,
           "title": "Music Memorabilia",
-          "platformIcon": "Music Memorabilia"
+          "platformIcon": "music_note"
         }
       ]
     },
@@ -7514,252 +7514,252 @@
         {
           "id": 1526,
           "title": "Skydiving",
-          "platformIcon": "Skydiving Gear"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1527,
           "title": "Bungee Jumping",
-          "platformIcon": "Bungee Cord"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1528,
           "title": "Rock Climbing",
-          "platformIcon": "Rock Gear"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1529,
           "title": "Paragliding",
-          "platformIcon": "Paragliding Equipment"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1530,
           "title": "Scuba Diving",
-          "platformIcon": "Scuba Gear"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1531,
           "title": "White Water Rafting",
-          "platformIcon": "Rafting Gear"
+          "platformIcon": "kayaking"
         },
         {
           "id": 1532,
           "title": "Mountain Climbing",
-          "platformIcon": "Mountain Gear"
+          "platformIcon": "landscape"
         },
         {
           "id": 1533,
           "title": "Caving",
-          "platformIcon": "Caving Gear"
+          "platformIcon": "nature"
         },
         {
           "id": 1534,
           "title": "Ice Climbing",
-          "platformIcon": "Ice Climbing Gear"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 1535,
           "title": "Zip-lining",
-          "platformIcon": "Harness & Zip Line"
+          "platformIcon": "forest"
         },
         {
           "id": 1536,
           "title": "Base Jumping",
-          "platformIcon": "Parachute & Gear"
+          "platformIcon": "paragliding"
         },
         {
           "id": 1537,
           "title": "Wingsuit Flying",
-          "platformIcon": "Wingsuit"
+          "platformIcon": "flight"
         },
         {
           "id": 1538,
           "title": "Snowboarding",
-          "platformIcon": "Snowboard"
+          "platformIcon": "snowboarding"
         },
         {
           "id": 1539,
           "title": "Skiing",
-          "platformIcon": "Ski Equipment"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 1540,
           "title": "Sandboarding",
-          "platformIcon": "Sandboard"
+          "platformIcon": "landscape"
         },
         {
           "id": 1541,
           "title": "Volcano Boarding",
-          "platformIcon": "Volcano Board"
+          "platformIcon": "volcano"
         },
         {
           "id": 1542,
           "title": "Off-Roading",
-          "platformIcon": "Off-road Vehicle"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1543,
           "title": "Dirt Biking",
-          "platformIcon": "Dirt Bike"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1544,
           "title": "Motocross",
-          "platformIcon": "Motocross"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1545,
           "title": "Hang Gliding",
-          "platformIcon": "Hang Glider"
+          "platformIcon": "flight"
         },
         {
           "id": 1546,
           "title": "Free Diving",
-          "platformIcon": "Free Diving Gear"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1547,
           "title": "Cliff Diving",
-          "platformIcon": "Cliff Diving"
+          "platformIcon": "water"
         },
         {
           "id": 1548,
           "title": "Kite Surfing",
-          "platformIcon": "Kiteboard"
+          "platformIcon": "kitesurfing"
         },
         {
           "id": 1549,
           "title": "Wind Surfing",
-          "platformIcon": "Windsurfing Board"
+          "platformIcon": "wind_power"
         },
         {
           "id": 1550,
           "title": "Deep Sea Fishing",
-          "platformIcon": "Fishing Rod"
+          "platformIcon": "phishing"
         },
         {
           "id": 1551,
           "title": "River Trekking",
-          "platformIcon": "River Trekking"
+          "platformIcon": "hiking"
         },
         {
           "id": 1552,
           "title": "Glacier Hiking",
-          "platformIcon": "Glacier Hiking"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 1553,
           "title": "Shark Cage Diving",
-          "platformIcon": "Shark Cage"
+          "platformIcon": "phishing"
         },
         {
           "id": 1554,
           "title": "Desert Safari",
-          "platformIcon": "Desert Safari Vehicle"
+          "platformIcon": "explore"
         },
         {
           "id": 1555,
           "title": "Bridge Climbing",
-          "platformIcon": "Climbing Gear"
+          "platformIcon": "apartment"
         },
         {
           "id": 1556,
           "title": "Abseiling",
-          "platformIcon": "Rappelling Rope"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 1557,
           "title": "Ultra Marathon Running",
-          "platformIcon": "Ultra Marathon Running"
+          "platformIcon": "directions_run"
         },
         {
           "id": 1558,
           "title": "Extreme Camping",
-          "platformIcon": "Camping Gear"
+          "platformIcon": "camping"
         },
         {
           "id": 1559,
           "title": "Survival Training",
-          "platformIcon": "Survival Gear"
+          "platformIcon": "military_tech"
         },
         {
           "id": 1560,
           "title": "Jungle Trekking",
-          "platformIcon": "Jungle Trekking Gear"
+          "platformIcon": "forest"
         },
         {
           "id": 1561,
           "title": "Snowmobiling",
-          "platformIcon": "Snowmobile"
+          "platformIcon": "snowmobile"
         },
         {
           "id": 1562,
           "title": "Ice Skating",
-          "platformIcon": "Natural Ice Skating"
+          "platformIcon": "ice_skating"
         },
         {
           "id": 1563,
           "title": "Waterfall Rappelling",
-          "platformIcon": "Waterfall Rappelling Gear"
+          "platformIcon": "bath_outdoor"
         },
         {
           "id": 1564,
           "title": "Sailing Across Oceans",
-          "platformIcon": "Sailing Boat"
+          "platformIcon": "sailing"
         },
         {
           "id": 1565,
           "title": "Urban Exploration",
-          "platformIcon": "Urban Exploration"
+          "platformIcon": "location_city"
         },
         {
           "id": 1566,
           "title": "Swimming with Dolphins",
-          "platformIcon": "Dolphin Interaction"
+          "platformIcon": "bath_outdoor"
         },
         {
           "id": 1567,
           "title": "Rafting in Rapids",
-          "platformIcon": "Rafting Gear"
+          "platformIcon": "kayaking"
         },
         {
           "id": 1568,
           "title": "High Altitude Trekking",
-          "platformIcon": "Trekking Gear"
+          "platformIcon": "hiking"
         },
         {
           "id": 1569,
           "title": "Canoeing in Rapids",
-          "platformIcon": "Canoe & Rapids"
+          "platformIcon": "kayaking"
         },
         {
           "id": 1570,
           "title": "Flying in a Fighter Jet",
-          "platformIcon": "Fighter Jet"
+          "platformIcon": "local_fire_department"
         },
         {
           "id": 1571,
           "title": "Storm Chasing",
-          "platformIcon": "Storm Tracker"
+          "platformIcon": "thunderstorm"
         },
         {
           "id": 1572,
           "title": "Arctic Expeditions",
-          "platformIcon": "Cold Weather Gear"
+          "platformIcon": "snowing_heavy"
         },
         {
           "id": 1573,
           "title": "Hot Air Ballooning",
-          "platformIcon": "Hot Air Balloon"
+          "platformIcon": "air"
         },
         {
           "id": 1574,
           "title": "Riding an Elephant",
-          "platformIcon": "Elephant Ride"
+          "platformIcon": "nature_people"
         },
         {
           "id": 1575,
           "title": "Exploring Underground Rivers",
-          "platformIcon": "Underground River"
+          "platformIcon": "water"
         }
       ]
     },
@@ -7770,252 +7770,252 @@
         {
           "id": 1576,
           "title": "Car Racing",
-          "platformIcon": "Racing Gear"
+          "platformIcon": "123"
         },
         {
           "id": 1577,
           "title": "Motorcycling",
-          "platformIcon": "Motorcycle Gear"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1578,
           "title": "Drag Racing",
-          "platformIcon": "Speed & Power"
+          "platformIcon": "speed"
         },
         {
           "id": 1579,
           "title": "Drifting",
-          "platformIcon": "Drifting"
+          "platformIcon": "tire_repair"
         },
         {
           "id": 1580,
           "title": "Off-Road Racing",
-          "platformIcon": "Off-road Vehicles"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1581,
           "title": "Kart Racing",
-          "platformIcon": "Kart Racing"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 1582,
           "title": "Formula Racing",
-          "platformIcon": "Formula Racing"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 1583,
           "title": "Stunt Driving",
-          "platformIcon": "Stunt Performance"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 1584,
           "title": "Motorcycle Stunts",
-          "platformIcon": "Motorcycle Stunts"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1585,
           "title": "Supercar Spotting",
-          "platformIcon": "Supercar Spotting"
+          "platformIcon": "directions_car"
         },
         {
           "id": 1586,
           "title": "Car Restoration",
-          "platformIcon": "Car Restoration"
+          "platformIcon": "build"
         },
         {
           "id": 1587,
           "title": "Engine Tuning",
-          "platformIcon": "Engine Tuning"
+          "platformIcon": "tune"
         },
         {
           "id": 1588,
           "title": "Car Wrapping",
-          "platformIcon": "Car Wrapping"
+          "platformIcon": "palette"
         },
         {
           "id": 1589,
           "title": "Car Modifications",
-          "platformIcon": "Car Modifications"
+          "platformIcon": "handyman"
         },
         {
           "id": 1590,
           "title": "Truck Driving",
-          "platformIcon": "Truck Driving"
+          "platformIcon": "local_shipping"
         },
         {
           "id": 1591,
           "title": "ATV Riding",
-          "platformIcon": "ATV Riding"
+          "platformIcon": "atv"
         },
         {
           "id": 1592,
           "title": "Dirt Biking",
-          "platformIcon": "Dirt Biking"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1593,
           "title": "Electric Car Tuning",
-          "platformIcon": "Electric Car Tuning"
+          "platformIcon": "ev_charger"
         },
         {
           "id": 1594,
           "title": "Hybrid Car Modding",
-          "platformIcon": "Hybrid Car Modding"
+          "platformIcon": "electric_car"
         },
         {
           "id": 1595,
           "title": "Autonomous Car Testing",
-          "platformIcon": "Autonomous Car Testing"
+          "platformIcon": "emoji_transportation"
         },
         {
           "id": 1596,
           "title": "Classic Car Collecting",
-          "platformIcon": "Classic Car Collecting"
+          "platformIcon": "museum"
         },
         {
           "id": 1597,
           "title": "Car Photography",
-          "platformIcon": "Car Photography"
+          "platformIcon": "photo_camera"
         },
         {
           "id": 1598,
           "title": "Motorbike Collecting",
-          "platformIcon": "Motorbike Collecting"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1599,
           "title": "Racing Simulations",
-          "platformIcon": "Racing Simulations"
+          "platformIcon": "videogame_asset"
         },
         {
           "id": 1600,
           "title": "RC Car Racing",
-          "platformIcon": "RC Car Racing"
+          "platformIcon": "toys"
         },
         {
           "id": 1601,
           "title": "Off-Road Expeditions",
-          "platformIcon": "Off-Road Expeditions"
+          "platformIcon": "forest"
         },
         {
           "id": 1602,
           "title": "Trail Riding",
-          "platformIcon": "Trail Riding"
+          "platformIcon": "hiking"
         },
         {
           "id": 1603,
           "title": "Go-Karting",
-          "platformIcon": "Go-Karting"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 1604,
           "title": "Rally Racing",
-          "platformIcon": "Rally Racing"
+          "platformIcon": "sports_motorsports"
         },
         {
           "id": 1605,
           "title": "Jeeping",
-          "platformIcon": "Jeeping"
+          "platformIcon": "airport_shuttle"
         },
         {
           "id": 1606,
           "title": "Car Drifting",
-          "platformIcon": "Car Drifting"
+          "platformIcon": "tire_repair"
         },
         {
           "id": 1607,
           "title": "Custom Paint Jobs",
-          "platformIcon": "Custom Paint Jobs"
+          "platformIcon": "format_paint"
         },
         {
           "id": 1608,
           "title": "Engine Swapping",
-          "platformIcon": "Engine Swapping"
+          "platformIcon": "build_circle"
         },
         {
           "id": 1609,
           "title": "Hybrid Engine Tuning",
-          "platformIcon": "Hybrid Engine Tuning"
+          "platformIcon": "tune"
         },
         {
           "id": 1610,
           "title": "EV Battery Optimization",
-          "platformIcon": "EV Battery Optimization"
+          "platformIcon": "battery_charging_full"
         },
         {
           "id": 1611,
           "title": "Drag Bike Racing",
-          "platformIcon": "Drag Bike Racing"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1612,
           "title": "Truck Modifications",
-          "platformIcon": "Truck Modifications"
+          "platformIcon": "delivery_truck_speed"
         },
         {
           "id": 1613,
           "title": "Highway Cruising",
-          "platformIcon": "Highway Cruising"
+          "platformIcon": "flyover"
         },
         {
           "id": 1614,
           "title": "Car Audio System Designing",
-          "platformIcon": "Car Audio System Designing"
+          "platformIcon": "volume_up"
         },
         {
           "id": 1615,
           "title": "Car LED Modding",
-          "platformIcon": "Car LED Modding"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 1616,
           "title": "RV Conversions",
-          "platformIcon": "RV Conversions"
+          "platformIcon": "rv_hookup"
         },
         {
           "id": 1617,
           "title": "Van Life Travel",
-          "platformIcon": "Van Life"
+          "platformIcon": "backpack"
         },
         {
           "id": 1618,
           "title": "Turbocharging Engines",
-          "platformIcon": "Turbocharging Engines"
+          "platformIcon": "bolt"
         },
         {
           "id": 1619,
           "title": "Motorhome Camping",
-          "platformIcon": "Motorhome Camping"
+          "platformIcon": "rv_hookup"
         },
         {
           "id": 1620,
           "title": "Motorcycle Touring",
-          "platformIcon": "Motorcycle Touring"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 1621,
           "title": "Adventure Biking",
-          "platformIcon": "Adventure Biking"
+          "platformIcon": "bike_scooter"
         },
         {
           "id": 1622,
           "title": "Auto Blogging",
-          "platformIcon": "Auto Blogging"
+          "platformIcon": "edit_note"
         },
         {
           "id": 1623,
           "title": "Car Detailing",
-          "platformIcon": "Car Detailing"
+          "platformIcon": "directions_car"
         },
         {
           "id": 1624,
           "title": "Car Interior Designing",
-          "platformIcon": "Car Interior Design"
+          "platformIcon": "chair"
         },
         {
           "id": 1625,
           "title": "Road Trip Planning",
-          "platformIcon": "Road Trip Planning"
+          "platformIcon": "map"
         }
       ]
     }
