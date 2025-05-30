@@ -41,13 +41,14 @@ function renderGrid(items) {
   items.forEach((sub) => {
     const card = document.createElement("div");
     card.className = "icon-card";
-    card.innerHTML = `<div>${sub.id}</div><i class="material-icons">${sub.platformIcon}</i><div>${sub.title}</div>`;
+    card.innerHTML = `<div>${sub.id}</div><i class="material-symbols-outlined">${sub.platformIcon}</i><div>${sub.title}</div>`;
     card.onclick = () => showModal(sub);
     grid.appendChild(card);
   });
 }
 
 function showModal(sub) {
+  modalIcon.className = "material-symbols-outlined modal-icon";
   modalIcon.textContent = sub.platformIcon;
   modalTitle.textContent = sub.title;
   modal.classList.remove("hidden");
