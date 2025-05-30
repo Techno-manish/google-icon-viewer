@@ -2538,8 +2538,8 @@
         },
         {
           "id": 558,
-        "title": "BBQ Smoking",
-        "platformIcon": "outdoor_grill"
+          "title": "BBQ Smoking",
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 559,
@@ -2769,8 +2769,8 @@
         },
         {
           "id": 603,
-        "title": "Storyboarding",
-        "platformIcon": "web_stories"
+          "title": "Storyboarding",
+          "platformIcon": "web_stories"
         },
         {
           "id": 604,
@@ -2993,25 +2993,25 @@
           "title": "Saxophone",
           "platformIcon": "brand_awareness"
         },
-      {
+        {
           "id": 647,
           "title": "Trumpet",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 648,
           "title": "Harmonica",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 649,
           "title": "Banjo",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 650,
           "title": "Cello",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 651,
@@ -3021,27 +3021,27 @@
         {
           "id": 652,
           "title": "Ukulele",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 653,
           "title": "Oboe",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 654,
           "title": "Clarinet",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 655,
           "title": "Trombone",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 656,
           "title": "Accordion",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 657,
@@ -3051,17 +3051,17 @@
         {
           "id": 658,
           "title": "Tabla",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 659,
           "title": "Sitar",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 660,
           "title": "Djembe",
-          "platformIcon": "music_note" 
+          "platformIcon": "music_note"
         },
         {
           "id": 661,
@@ -3217,252 +3217,252 @@
         {
           "id": 690,
           "title": "Reading",
-          "platformIcon": "Books & E-Readers"
+          "platformIcon": "menu_book"
         },
         {
           "id": 691,
           "title": "Writing",
-          "platformIcon": "Pen & Paper"
+          "platformIcon": "edit_note"
         },
         {
           "id": 692,
           "title": "Poetry",
-          "platformIcon": "Metaphors & Rhymes"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 693,
           "title": "Storytelling",
-          "platformIcon": "Oral Tradition"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 694,
           "title": "Screenwriting",
-          "platformIcon": "Screenplay Format"
+          "platformIcon": "movie"
         },
         {
           "id": 695,
           "title": "Blogging",
-          "platformIcon": "Online Blog"
+          "platformIcon": "article"
         },
         {
           "id": 696,
           "title": "Editing",
-          "platformIcon": "Editing Software"
+          "platformIcon": "format_align_left"
         },
         {
           "id": 697,
           "title": "Proofreading",
-          "platformIcon": "Grammar & Style"
+          "platformIcon": "spellcheck"
         },
         {
           "id": 698,
           "title": "Novel Writing",
-          "platformIcon": "Manuscript"
+          "platformIcon": "book"
         },
         {
           "id": 699,
           "title": "Short Story Writing",
-          "platformIcon": "Short Stories"
+          "platformIcon": "article"
         },
         {
           "id": 700,
           "title": "Essay Writing",
-          "platformIcon": "Essay Paper"
+          "platformIcon": "description"
         },
         {
           "id": 701,
           "title": "Playwriting",
-          "platformIcon": "Stage Script"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 702,
           "title": "Fanfiction Writing",
-          "platformIcon": "Fan Community"
+          "platformIcon": "groups"
         },
         {
           "id": 703,
           "title": "Copywriting",
-          "platformIcon": "Ad Copy"
+          "platformIcon": "campaign"
         },
         {
           "id": 704,
           "title": "Speech Writing",
-          "platformIcon": "Public Speaking"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 705,
           "title": "Report Writing",
-          "platformIcon": "Data & Reports"
+          "platformIcon": "bar_chart"
         },
         {
           "id": 706,
           "title": "Creative Writing",
-          "platformIcon": "Imagination"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 707,
           "title": "Memoir Writing",
-          "platformIcon": "Life Experiences"
+          "platformIcon": "history"
         },
         {
           "id": 708,
           "title": "Letter Writing",
-          "platformIcon": "Paper & Ink"
+          "platformIcon": "mail"
         },
         {
           "id": 709,
           "title": "Journalism",
-          "platformIcon": "News & Media"
+          "platformIcon": "newspaper"
         },
         {
           "id": 710,
           "title": "Article Writing",
-          "platformIcon": "Article Format"
+          "platformIcon": "article"
         },
         {
           "id": 711,
           "title": "Book Reviewing",
-          "platformIcon": "Book Critiques"
+          "platformIcon": "rate_review"
         },
         {
           "id": 712,
           "title": "Ghostwriting",
-          "platformIcon": "Anonymous Writing"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 713,
           "title": "Self-Publishing",
-          "platformIcon": "Print & Digital"
+          "platformIcon": "cloud_upload"
         },
         {
           "id": 714,
           "title": "Technical Writing",
-          "platformIcon": "Technical Jargon"
+          "platformIcon": "build"
         },
         {
           "id": 715,
           "title": "Travel Writing",
-          "platformIcon": "Journey Descriptions"
+          "platformIcon": "flight"
         },
         {
           "id": 716,
           "title": "Freelance Writing",
-          "platformIcon": "Gig Economy"
+          "platformIcon": "work"
         },
         {
           "id": 717,
           "title": "Biographical Writing",
-          "platformIcon": "Life Story"
+          "platformIcon": "person"
         },
         {
           "id": 718,
           "title": "Comic Book Writing",
-          "platformIcon": "Illustrated Story"
+          "platformIcon": "auto_stories"
         },
         {
           "id": 719,
           "title": "Flash Fiction",
-          "platformIcon": "Short & Impactful"
+          "platformIcon": "bolt"
         },
         {
           "id": 720,
           "title": "Satirical Writing",
-          "platformIcon": "Satire & Humor"
+          "platformIcon": "mood_bad"
         },
         {
           "id": 721,
           "title": "Critiquing",
-          "platformIcon": "Literary Feedback"
+          "platformIcon": "gavel"
         },
         {
           "id": 722,
           "title": "Bookbinding",
-          "platformIcon": "Handmade Books"
+          "platformIcon": "menu_book"
         },
         {
           "id": 723,
           "title": "Screenplay Analysis",
-          "platformIcon": "Scene Breakdown"
+          "platformIcon": "manage_search"
         },
         {
           "id": 724,
           "title": "Calligraphy Writing",
-          "platformIcon": "Brush & Ink"
+          "platformIcon": "edit_note"
         },
         {
           "id": 725,
           "title": "Research Writing",
-          "platformIcon": "Data & Citations"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 726,
           "title": "Historical Writing",
-          "platformIcon": "Historical Records"
+          "platformIcon": "history"
         },
         {
           "id": 727,
           "title": "Detective Writing",
-          "platformIcon": "Crime & Clues"
+          "platformIcon": "search"
         },
         {
           "id": 728,
           "title": "Horror Writing",
-          "platformIcon": "Thriller & Suspense"
+          "platformIcon": "skull"
         },
         {
           "id": 729,
           "title": "Mystery Writing",
-          "platformIcon": "Mystery & Suspense"
+          "platformIcon": "question_mark"
         },
         {
           "id": 730,
           "title": "Sci-Fi Writing",
-          "platformIcon": "Future & Technology"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 731,
           "title": "Fantasy Writing",
-          "platformIcon": "Magic & Adventure"
+          "platformIcon": "magic_button"
         },
         {
           "id": 732,
           "title": "Philosophy Writing",
-          "platformIcon": "Philosophical Thoughts"
+          "platformIcon": "psychology"
         },
         {
           "id": 733,
           "title": "Argumentative Writing",
-          "platformIcon": "Persuasive Techniques"
+          "platformIcon": "gavel"
         },
         {
           "id": 734,
           "title": "Debate Writing",
-          "platformIcon": "Debate & Logic"
+          "platformIcon": "forum"
         },
         {
           "id": 735,
           "title": "Songwriting",
-          "platformIcon": "Lyrics & Melody"
+          "platformIcon": "music_note"
         },
         {
           "id": 736,
           "title": "Speech Giving",
-          "platformIcon": "Public Speaking"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 737,
           "title": "Reading Aloud",
-          "platformIcon": "Narration"
+          "platformIcon": "volume_up"
         },
         {
           "id": 738,
           "title": "Literary Analysis",
-          "platformIcon": "Literary Analysis"
+          "platformIcon": "manage_search"
         },
         {
           "id": 739,
           "title": "Mythology Writing",
-          "platformIcon": "Ancient Myths"
+          "platformIcon": "public"
         }
       ]
     },
@@ -3473,252 +3473,252 @@
         {
           "id": 740,
           "title": "Baking",
-          "platformIcon": "Flour & Oven"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 741,
           "title": "Grilling",
-          "platformIcon": "Grill & Charcoal"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 742,
           "title": "Roasting",
-          "platformIcon": "Oven & Spices"
+          "platformIcon": "oven_gen"
         },
         {
           "id": 743,
           "title": "Frying",
-          "platformIcon": "Oil & Pan"
+          "platformIcon": "local_dining"
         },
         {
           "id": 744,
           "title": "Boiling",
-          "platformIcon": "Water & Heat"
+          "platformIcon": "soup_kitchen"
         },
         {
           "id": 745,
           "title": "Steaming",
-          "platformIcon": "Steam & Bamboo Basket"
+          "platformIcon": "cloudy_snowing"
         },
         {
           "id": 746,
           "title": "Stir-Frying",
-          "platformIcon": "Wok & Vegetables"
+          "platformIcon": "ramen_dining"
         },
         {
           "id": 747,
-          "title": "Saut�ing",
-          "platformIcon": "Butter & Pan"
+          "title": "Sautéing",
+          "platformIcon": "restaurant"
         },
         {
           "id": 748,
           "title": "Poaching",
-          "platformIcon": "Water & Egg"
+          "platformIcon": "egg_alt"
         },
         {
           "id": 749,
           "title": "Braising",
-          "platformIcon": "Slow Heat & Stock"
+          "platformIcon": "soup_kitchen"
         },
         {
           "id": 750,
           "title": "Slow Cooking",
-          "platformIcon": "Crockpot & Time"
+          "platformIcon": "hourglass_bottom"
         },
         {
           "id": 751,
           "title": "Air Frying",
-          "platformIcon": "Hot Air & Basket"
+          "platformIcon": "air"
         },
         {
           "id": 752,
           "title": "Barbecuing",
-          "platformIcon": "Smoker & Wood Chips"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 753,
           "title": "Smoking Meat",
-          "platformIcon": "Wood & Meat"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 754,
           "title": "Pickling",
-          "platformIcon": "Vinegar & Jars"
+          "platformIcon": "delete"
         },
         {
           "id": 755,
           "title": "Fermenting",
-          "platformIcon": "Yeast & Time"
+          "platformIcon": "bubble_chart"
         },
         {
           "id": 756,
           "title": "Juicing",
-          "platformIcon": "Fruit & Juicer"
+          "platformIcon": "nutrition"
         },
         {
           "id": 757,
           "title": "Canning",
-          "platformIcon": "Jars & Preserving"
+          "platformIcon": "delete"
         },
         {
           "id": 758,
           "title": "Candy Making",
-          "platformIcon": "Sugar & Syrup"
+          "platformIcon": "cookie"
         },
         {
           "id": 759,
           "title": "Chocolate Making",
-          "platformIcon": "Cocoa & Sugar"
+          "platformIcon": "tablet"
         },
         {
           "id": 760,
           "title": "Cake Decorating",
-          "platformIcon": "Icing & Piping"
+          "platformIcon": "cake"
         },
         {
           "id": 761,
           "title": "Ice Cream Making",
-          "platformIcon": "Dairy & Freezer"
+          "platformIcon": "icecream"
         },
         {
           "id": 762,
           "title": "Pasta Making",
-          "platformIcon": "Flour & Rolling Pin"
+          "platformIcon": "ramen_dining"
         },
         {
           "id": 763,
           "title": "Pizza Making",
-          "platformIcon": "Dough & Oven"
+          "platformIcon": "local_pizza"
         },
         {
           "id": 764,
           "title": "Bread Baking",
-          "platformIcon": "Yeast & Dough"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 765,
           "title": "Soup Making",
-          "platformIcon": "Broth & Vegetables"
+          "platformIcon": "soup_kitchen"
         },
         {
           "id": 766,
           "title": "Salad Preparation",
-          "platformIcon": "Greens & Dressing"
+          "platformIcon": "kebab_dining"
         },
         {
           "id": 767,
           "title": "Meal Prepping",
-          "platformIcon": "Containers & Planning"
+          "platformIcon": "lunch_dining"
         },
         {
           "id": 768,
           "title": "Vegan Cooking",
-          "platformIcon": "Plant-Based Ingredients"
+          "platformIcon": "eco"
         },
         {
           "id": 769,
           "title": "Vegetarian Cooking",
-          "platformIcon": "Fresh Vegetables"
+          "platformIcon": "grass"
         },
         {
           "id": 770,
           "title": "Sushi Making",
-          "platformIcon": "Fish & Rice"
+          "platformIcon": "set_meal"
         },
         {
           "id": 771,
           "title": "Spice Blending",
-          "platformIcon": "Herbs & Spices"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 772,
           "title": "Tea Brewing",
-          "platformIcon": "Tea Leaves & Water"
+          "platformIcon": "emoji_food_beverage"
         },
         {
           "id": 773,
           "title": "Coffee Brewing",
-          "platformIcon": "Coffee Beans & Water"
+          "platformIcon": "coffee"
         },
         {
           "id": 774,
           "title": "Mixology",
-          "platformIcon": "Cocktail Shaker"
+          "platformIcon": "local_bar"
         },
         {
           "id": 775,
           "title": "Home Brewing",
-          "platformIcon": "Yeast & Barrels"
+          "platformIcon": "home_app_logo"
         },
         {
           "id": 776,
           "title": "Food Presentation",
-          "platformIcon": "Plating & Aesthetics"
+          "platformIcon": "restaurant"
         },
         {
           "id": 777,
           "title": "Butter Churning",
-          "platformIcon": "Cream & Churning"
+          "platformIcon": "takeout_dining"
         },
         {
           "id": 778,
           "title": "Cheesemaking",
-          "platformIcon": "Milk & Culture"
+          "platformIcon": "local_pizza"
         },
         {
           "id": 779,
           "title": "Dehydrating Foods",
-          "platformIcon": "Dried Fruits & Herbs"
+          "platformIcon": "dry_cleaning"
         },
         {
           "id": 780,
           "title": "Wild Food Foraging",
-          "platformIcon": "Nature & Wild Plants"
+          "platformIcon": "forest"
         },
         {
           "id": 781,
           "title": "International Cuisine",
-          "platformIcon": "Diverse Cuisine"
+          "platformIcon": "public"
         },
         {
           "id": 782,
           "title": "Street Food Cooking",
-          "platformIcon": "Quick & Savory Meals"
+          "platformIcon": "lunch_dining"
         },
         {
           "id": 783,
           "title": "Farm-to-Table Cooking",
-          "platformIcon": "Fresh & Local"
+          "platformIcon": "agriculture"
         },
         {
           "id": 784,
           "title": "Dessert Making",
-          "platformIcon": "Sugar & Pastry"
+          "platformIcon": "icecream"
         },
         {
           "id": 785,
           "title": "Gourmet Cooking",
-          "platformIcon": "Exquisite Ingredients"
+          "platformIcon": "star"
         },
         {
           "id": 786,
           "title": "Raw Food Preparation",
-          "platformIcon": "Raw Vegetables"
+          "platformIcon": "nutrition"
         },
         {
           "id": 787,
           "title": "Organic Cooking",
-          "platformIcon": "Organic Ingredients"
+          "platformIcon": "spa"
         },
         {
           "id": 788,
           "title": "Kosher Cooking",
-          "platformIcon": "Dietary Laws"
+          "platformIcon": "restaurant"
         },
         {
           "id": 789,
           "title": "Gluten-Free Cooking",
-          "platformIcon": "Gluten-Free Flour"
+          "platformIcon": "nutrition"
         }
       ]
     },
@@ -3729,387 +3729,377 @@
         {
           "id": 790,
           "title": "Backpacking",
-          "platformIcon": "Trail & Gear"
+          "platformIcon": "backpack"
         },
         {
           "id": 791,
           "title": "Road Trips",
-          "platformIcon": "Road & Route"
+          "platformIcon": "directions_car"
         },
         {
           "id": 792,
           "title": "Solo Traveling",
-          "platformIcon": "Solo Journey"
+          "platformIcon": "person"
         },
         {
           "id": 793,
           "title": "Group Tours",
-          "platformIcon": "Tour Groups"
+          "platformIcon": "groups"
         },
         {
           "id": 794,
           "title": "Luxury Travel",
-          "platformIcon": "Luxury Stays"
+          "platformIcon": "diamond"
         },
         {
           "id": 795,
           "title": "Budget Traveling",
-          "platformIcon": "Affordable Stays"
+          "platformIcon": "savings"
         },
         {
           "id": 796,
           "title": "Eco-Tourism",
-          "platformIcon": "Eco-Friendly Stays"
+          "platformIcon": "eco"
         },
         {
           "id": 797,
           "title": "Adventure Travel",
-          "platformIcon": "Adventure Gear"
+          "platformIcon": "hiking"
         },
         {
           "id": 798,
           "title": "Pilgrimage Trips",
-          "platformIcon": "Spiritual Pathways"
+          "platformIcon": "church"
         },
         {
           "id": 799,
           "title": "Cultural Tours",
-          "platformIcon": "Cultural Immersion"
+          "platformIcon": "museum"
         },
         {
           "id": 800,
           "title": "Heritage Tourism",
-          "platformIcon": "Heritage Sites"
+          "platformIcon": "gavel"
         },
         {
           "id": 801,
           "title": "Safari Tours",
-          "platformIcon": "Wildlife Safaris"
+          "platformIcon": "pets"
         },
         {
           "id": 802,
           "title": "Island Hopping",
-          "platformIcon": "Tropical Islands"
+          "platformIcon": "beach_access"
         },
         {
           "id": 803,
           "title": "Cruise Trips",
-          "platformIcon": "Cruise Ship"
+          "platformIcon": "directions_boat"
         },
         {
           "id": 804,
           "title": "Cycling Tours",
-          "platformIcon": "Cycling Trails"
+          "platformIcon": "directions_bike"
         },
         {
           "id": 805,
           "title": "Motorcycle Trips",
-          "platformIcon": "Motorcycle Routes"
+          "platformIcon": "motorcycle"
         },
         {
           "id": 806,
           "title": "Off-Roading Adventures",
-          "platformIcon": "Off-Road Terrain"
+          "platformIcon": "terrain"
         },
         {
           "id": 807,
           "title": "Van Life",
-          "platformIcon": "Camper Vans & Nomadic Lifestyle"
+          "platformIcon": "rv_hookup"
         },
         {
           "id": 808,
           "title": "Train Journeys",
-          "platformIcon": "Scenic Rail Routes"
+          "platformIcon": "train"
         },
         {
           "id": 809,
           "title": "Space Tourism",
-          "platformIcon": "Space Stations"
+          "platformIcon": "rocket"
         },
         {
           "id": 810,
           "title": "Underwater Tourism",
-          "platformIcon": "Underwater Exploration"
+          "platformIcon": "scuba_diving"
         },
         {
           "id": 811,
           "title": "Ski Trips",
-          "platformIcon": "Ski Resorts"
+          "platformIcon": "downhill_skiing"
         },
         {
           "id": 812,
           "title": "Wildlife Expeditions",
-          "platformIcon": "Wildlife Expeditions"
+          "platformIcon": "nature_people"
         },
         {
           "id": 813,
           "title": "Mountain Climbing Trips",
-          "platformIcon": "Mountain Trails"
+          "platformIcon": "hiking"
         },
         {
           "id": 814,
           "title": "Remote Village Visits",
-          "platformIcon": "Village Stays"
+          "platformIcon": "house"
         },
         {
           "id": 815,
           "title": "Couchsurfing",
-          "platformIcon": "Shared Homes"
+          "platformIcon": "bed"
         },
         {
           "id": 816,
           "title": "Digital Nomad Traveling",
-          "platformIcon": "Remote Work & Travel"
+          "platformIcon": "laptop_mac"
         },
         {
           "id": 817,
           "title": "Festival Traveling",
-          "platformIcon": "Event-Based Travel"
+          "platformIcon": "celebration"
         },
         {
           "id": 818,
           "title": "Voluntourism",
-          "platformIcon": "Volunteer Abroad"
+          "platformIcon": "volunteer_activism"
         },
         {
           "id": 819,
           "title": "Spiritual Retreats",
-          "platformIcon": "Spiritual Retreats"
+          "platformIcon": "self_improvement"
         },
         {
           "id": 820,
           "title": "Desert Exploration",
-          "platformIcon": "Desert Landscapes"
+          "platformIcon": "landscape"
         },
         {
           "id": 821,
           "title": "Deep-Sea Diving Expeditions",
-          "platformIcon": "Deep Sea Exploration"
+          "platformIcon": "water"
         },
         {
           "id": 822,
           "title": "Arctic Expeditions",
-          "platformIcon": "Frozen Landscapes"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 823,
           "title": "Jungle Exploration",
-          "platformIcon": "Tropical Forests"
+          "platformIcon": "forest"
         },
         {
           "id": 824,
           "title": "Archaeological Site Visits",
-          "platformIcon": "Ancient Sites"
+          "platformIcon": "broken_image"
         },
         {
           "id": 825,
           "title": "Historical Reenactment Tours",
-          "platformIcon": "Reenactment Events"
+          "platformIcon": "history"
         },
         {
           "id": 826,
           "title": "Air Ballooning Trips",
-          "platformIcon": "Scenic Views"
+          "platformIcon": "air"
         },
         {
           "id": 827,
           "title": "Stargazing Trips",
-          "platformIcon": "Clear Night Skies"
+          "platformIcon": "star"
         },
         {
           "id": 828,
           "title": "National Park Visits",
-          "platformIcon": "National Parks"
+          "platformIcon": "park"
         },
         {
           "id": 829,
           "title": "Castle Exploring",
-          "platformIcon": "Historic Buildings"
+          "platformIcon": "castle"
         },
         {
           "id": 830,
           "title": "Foodie Tourism",
-          "platformIcon": "Local Cuisine"
+          "platformIcon": "restaurant"
         },
         {
           "id": 831,
           "title": "Winery Tours",
-          "platformIcon": "Vineyards"
+          "platformIcon": "wine_bar"
         },
         {
           "id": 832,
           "title": "Brewery Tours",
-          "platformIcon": "Breweries"
+          "platformIcon": "local_bar"
         },
         {
           "id": 833,
           "title": "Hidden Gems Travel",
-          "platformIcon": "Hidden Locations"
+          "platformIcon": "explore"
         },
         {
           "id": 834,
           "title": "Photography Expeditions",
-          "platformIcon": "Photographic Locations"
+          "platformIcon": "photo_camera"
         },
         {
           "id": 835,
           "title": "Trainspotting",
-          "platformIcon": "Train Watching"
+          "platformIcon": "train"
         },
         {
           "id": 836,
           "title": "River Cruises",
-          "platformIcon": "River Cruises"
+          "platformIcon": "waves"
         },
         {
           "id": 837,
           "title": "Extreme Weather Tourism",
-          "platformIcon": "Storm Watching"
+          "platformIcon": "thunderstorm"
         },
         {
           "id": 838,
           "title": "DIY Itineraries",
-          "platformIcon": "Custom Itineraries"
+          "platformIcon": "edit_note"
         },
         {
           "id": 839,
           "title": "Nature Conservation Travel",
-          "platformIcon": "Conservation Efforts"
+          "platformIcon": "nature"
         },
         {
           "id": 840,
           "title": "City Hopping",
-          "platformIcon": "City Hopping"
+          "platformIcon": "location_city"
         },
         {
           "id": 841,
           "title": "Religious Pilgrimages",
-          "platformIcon": "Religious Sites"
+          "platformIcon": "mosque"
         },
         {
           "id": 842,
           "title": "Mystery Destination Travel",
-          "platformIcon": "Mystery Destination Travel"
+          "platformIcon": "mystery"
         },
         {
           "id": 843,
           "title": "Volcano Exploration",
-          "platformIcon": "Volcano Exploration"
+          "platformIcon": "landslide"
         },
         {
           "id": 844,
           "title": "Northern Lights Viewing",
-          "platformIcon": "Northern Lights Viewing"
+          "platformIcon": "light_mode"
         },
         {
           "id": 845,
           "title": "Meteor Shower Watching",
-          "platformIcon": "Meteor Shower Watching"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 846,
           "title": "Space Tourism (Future)",
-          "platformIcon": "Space Exploration"
+          "platformIcon": "rocket_launch"
         },
         {
           "id": 847,
           "title": "Crossing a Continent on Foot",
-          "platformIcon": "Crossing a Continent on Foot"
+          "platformIcon": "directions_walk"
         },
         {
           "id": 848,
           "title": "Temple Hopping",
-          "platformIcon": "Temple Hopping"
+          "platformIcon": "temple_hindu"
         },
         {
           "id": 849,
           "title": "Visiting Famous Film Locations",
-          "platformIcon": "Film Locations"
+          "platformIcon": "movie_filter"
         },
         {
           "id": 850,
           "title": "Ghost Town Visits",
-          "platformIcon": "Ghost Towns"
+          "platformIcon": "skull"
         },
         {
           "id": 851,
           "title": "Visiting Ancient Ruins",
-          "platformIcon": "Ancient Ruins"
+          "platformIcon": "gpp_maybe"
         },
         {
           "id": 852,
           "title": "Renting a Private Island",
-          "platformIcon": "Private Island"
+          "platformIcon": "villa"
         },
         {
           "id": 853,
           "title": "Staying in a Treehouse",
-          "platformIcon": "Treehouses"
+          "platformIcon": "forest"
         },
         {
           "id": 854,
           "title": "Yacht Travel",
-          "platformIcon": "Yachts"
+          "platformIcon": "directions_boat"
         },
         {
           "id": 855,
           "title": "Visiting Remote Villages",
-          "platformIcon": "Remote Villages"
+          "platformIcon": "house"
         },
         {
           "id": 856,
           "title": "Museum Hopping",
-          "platformIcon": "Museum Visits"
+          "platformIcon": "museum"
         },
         {
           "id": 857,
           "title": "Exploring Ice Caves",
-          "platformIcon": "Ice Caves"
+          "platformIcon": "ac_unit"
         },
         {
           "id": 858,
           "title": "Castle Staycations",
-          "platformIcon": "Castle Stays"
+          "platformIcon": "castle"
         },
         {
           "id": 859,
           "title": "Sleeping in an Igloo",
-          "platformIcon": "Igloos"
+          "platformIcon": "chalet"
         },
         {
           "id": 860,
           "title": "Visiting Floating Markets",
-          "platformIcon": "Floating Markets"
+          "platformIcon": "shopping_cart"
         },
         {
           "id": 861,
           "title": "Wine Country Tours",
-          "platformIcon": "Wine Tours"
+          "platformIcon": "wine_bar"
         },
         {
           "id": 862,
           "title": "Exploring Underground Cities",
-          "platformIcon": "Underground Cities"
+          "platformIcon": "apartment"
         },
         {
           "id": 863,
           "title": "Touring Chocolate Factories",
-          "platformIcon": "Chocolate Factories"
+          "platformIcon": "bakery_dining"
         },
         {
           "id": 864,
           "title": "Attending International Festivals",
-          "platformIcon": "International Festivals"
-        },
-        {
-          "id": 863,
-          "title": "Touring Chocolate Factories",
-          "platformIcon": "Chocolate Factories"
-        },
-        {
-          "id": 864,
-          "title": "Attending International Festivals",
-          "platformIcon": "International Festivals"
+          "platformIcon": "festival"
         }
       ]
     },
@@ -4120,252 +4110,252 @@
         {
           "id": 865,
           "title": "Networking",
-          "platformIcon": "Business & Connections"
+          "platformIcon": "handshake"
         },
         {
           "id": 866,
           "title": "Clubbing",
-          "platformIcon": "Music & Drinks"
+          "platformIcon": "nightlife"
         },
         {
           "id": 867,
           "title": "Bar Hopping",
-          "platformIcon": "Bars & Pubs"
+          "platformIcon": "local_bar"
         },
         {
           "id": 868,
           "title": "House Parties",
-          "platformIcon": "Private Gatherings"
+          "platformIcon": "celebration"
         },
         {
           "id": 869,
           "title": "Game Nights",
-          "platformIcon": "Board & Video Games"
+          "platformIcon": "gamepad"
         },
         {
           "id": 870,
           "title": "Potlucks",
-          "platformIcon": "Shared Meals"
+          "platformIcon": "lunch_dining"
         },
         {
           "id": 871,
           "title": "Coffee Meetups",
-          "platformIcon": "Cafes & Coffee"
+          "platformIcon": "coffee"
         },
         {
           "id": 872,
           "title": "Speed Dating",
-          "platformIcon": "Meeting New People"
+          "platformIcon": "favorite"
         },
         {
           "id": 873,
           "title": "Dinner Parties",
-          "platformIcon": "Dinner Table"
+          "platformIcon": "restaurant"
         },
         {
           "id": 874,
           "title": "Public Speaking",
-          "platformIcon": "Audience Engagement"
+          "platformIcon": "record_voice_over"
         },
         {
           "id": 875,
           "title": "Attending Conferences",
-          "platformIcon": "Business Conferences"
+          "platformIcon": "business_center"
         },
         {
           "id": 876,
           "title": "Volunteering",
-          "platformIcon": "Community Service"
+          "platformIcon": "volunteer_activism"
         },
         {
           "id": 877,
           "title": "Charity Events",
-          "platformIcon": "Fundraising & Support"
+          "platformIcon": "redeem"
         },
         {
           "id": 878,
           "title": "Joining Social Clubs",
-          "platformIcon": "Hobby & Interest Groups"
+          "platformIcon": "group_add"
         },
         {
           "id": 879,
           "title": "Attending Weddings",
-          "platformIcon": "Wedding Celebrations"
+          "platformIcon": "church"
         },
         {
           "id": 880,
           "title": "Attending Festivals",
-          "platformIcon": "Music & Events"
+          "platformIcon": "festival"
         },
         {
           "id": 881,
           "title": "Karaoke Nights",
-          "platformIcon": "Karaoke Machine"
+          "platformIcon": "mic"
         },
         {
           "id": 882,
           "title": "Picnic Gatherings",
-          "platformIcon": "Outdoor Meals"
+          "platformIcon": "restaurant_menu"
         },
         {
           "id": 883,
           "title": "Family Reunions",
-          "platformIcon": "Family Gatherings"
+          "platformIcon": "family_restroom"
         },
         {
           "id": 884,
           "title": "Meetups with Strangers",
-          "platformIcon": "New Connections"
+          "platformIcon": "person_add"
         },
         {
           "id": 885,
           "title": "Debate Clubs",
-          "platformIcon": "Logical Arguments"
+          "platformIcon": "gavel"
         },
         {
           "id": 886,
           "title": "Watching Live Shows",
-          "platformIcon": "Stage Performances"
+          "platformIcon": "theaters"
         },
         {
           "id": 887,
           "title": "Attending Concerts",
-          "platformIcon": "Music Events"
+          "platformIcon": "music_note"
         },
         {
           "id": 888,
           "title": "Stand-up Comedy Nights",
-          "platformIcon": "Comedy Clubs"
+          "platformIcon": "sentiment_very_satisfied"
         },
         {
           "id": 889,
           "title": "Attending Sporting Events",
-          "platformIcon": "Sports Arenas"
+          "platformIcon": "sports_soccer"
         },
         {
           "id": 890,
           "title": "Joining Book Clubs",
-          "platformIcon": "Reading Groups"
+          "platformIcon": "menu_book"
         },
         {
           "id": 891,
           "title": "Attending Art Exhibits",
-          "platformIcon": "Gallery & Art Events"
+          "platformIcon": "palette"
         },
         {
           "id": 892,
           "title": "Going on Blind Dates",
-          "platformIcon": "Blind Date Experiences"
+          "platformIcon": "visibility_off"
         },
         {
           "id": 893,
           "title": "Playing Board Games",
-          "platformIcon": "Board Games & Family Fun"
+          "platformIcon": "extension"
         },
         {
           "id": 894,
           "title": "Going to Movie Nights",
-          "platformIcon": "Movie Nights & Popcorn"
+          "platformIcon": "movie"
         },
         {
           "id": 895,
           "title": "Having Tea Parties",
-          "platformIcon": "Tea Sets"
+          "platformIcon": "local_cafe"
         },
         {
           "id": 896,
           "title": "Group Hiking",
-          "platformIcon": "Outdoor Adventure"
+          "platformIcon": "hiking"
         },
         {
           "id": 897,
           "title": "Beach Gatherings",
-          "platformIcon": "Sand & Sun"
+          "platformIcon": "beach_access"
         },
         {
           "id": 898,
           "title": "Attending Cultural Events",
-          "platformIcon": "Cultural Festivals"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 899,
           "title": "Joining Online Communities",
-          "platformIcon": "Online Groups"
+          "platformIcon": "public"
         },
         {
           "id": 900,
           "title": "Hosting a Podcast",
-          "platformIcon": "Podcast Recording"
+          "platformIcon": "radio"
         },
         {
           "id": 901,
           "title": "Hosting a Meetup Group",
-          "platformIcon": "Event Planning"
+          "platformIcon": "event"
         },
         {
           "id": 902,
           "title": "Social Dancing",
-          "platformIcon": "Dance & Music"
+          "platformIcon": "theater_comedy"
         },
         {
           "id": 903,
           "title": "Organizing Charity Drives",
-          "platformIcon": "Donations & Drives"
+          "platformIcon": "volunteer_activism"
         },
         {
           "id": 904,
           "title": "Playing Trivia Nights",
-          "platformIcon": "Trivia Quiz"
+          "platformIcon": "quiz"
         },
         {
           "id": 905,
           "title": "Participating in Flash Mobs",
-          "platformIcon": "Choreographed Performances"
+          "platformIcon": "groups_2"
         },
         {
           "id": 906,
           "title": "Going on Group Road Trips",
-          "platformIcon": "Group Road Trips"
+          "platformIcon": "directions_car"
         },
         {
           "id": 907,
           "title": "Hosting Barbecues",
-          "platformIcon": "Grill & Socializing"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 908,
           "title": "Trying Escape Rooms",
-          "platformIcon": "Puzzle & Riddles"
+          "platformIcon": "lock"
         },
         {
           "id": 909,
           "title": "Organizing Surprise Parties",
-          "platformIcon": "Surprise Planning"
+          "platformIcon": "cake"
         },
         {
           "id": 910,
           "title": "Group Workouts",
-          "platformIcon": "Outdoor Fitness"
+          "platformIcon": "fitness_center"
         },
         {
           "id": 911,
           "title": "Themed Dress-Up Events",
-          "platformIcon": "Themed Costumes"
+          "platformIcon": "apparel"
         },
         {
           "id": 912,
           "title": "Public Debating",
-          "platformIcon": "Debate & Rhetoric"
+          "platformIcon": "forum"
         },
         {
           "id": 913,
           "title": "Travel Meetups",
-          "platformIcon": "Meetup Travels"
+          "platformIcon": "travel_explore"
         },
         {
           "id": 914,
           "title": "Attending Networking Dinners",
-          "platformIcon": "Business Dining"
+          "platformIcon": "handshake"
         }
       ]
     },
@@ -7246,7 +7236,7 @@
         }
       ]
     },
-      {
+    {
       "id": 33,
       "name": "Collecting",
       "subcategories": [
