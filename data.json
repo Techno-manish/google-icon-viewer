@@ -1706,7 +1706,7 @@
         {
           "id": 395,
           "title": "Trekking",
-          "platformIcon": "Trekking"
+          "platformIcon": "mountain"
         },
         {
           "id": 396,
@@ -1937,252 +1937,252 @@
         {
           "id": 440,
           "title": "Painting",
-          "platformIcon": "Canvas & Paint"
+          "platformIcon": "palette"
         },
         {
           "id": 441,
           "title": "Sketching",
-          "platformIcon": "Sketchbook"
+          "platformIcon": "stylus_pencil"
         },
         {
           "id": 442,
           "title": "Drawing",
-          "platformIcon": "Pencil & Paper"
+          "platformIcon": "brush"
         },
         {
           "id": 443,
           "title": "Sculpting",
-          "platformIcon": "Clay & Chisel"
+          "platformIcon": "stylus_highlighter"
         },
         {
           "id": 444,
           "title": "Calligraphy",
-          "platformIcon": "Ink & Brush"
+          "platformIcon": "stylus_brush"
         },
         {
           "id": 445,
           "title": "Origami",
-          "platformIcon": "Paper"
+          "platformIcon": "draft"
         },
         {
           "id": 446,
           "title": "Graffiti",
-          "platformIcon": "Spray Paint"
+          "platformIcon": "format_paint"
         },
         {
           "id": 447,
           "title": "Mural Painting",
-          "platformIcon": "Wall & Paint"
+          "platformIcon": "ink_highlighter_move"
         },
         {
           "id": 448,
           "title": "Wood Carving",
-          "platformIcon": "Wood & Chisel"
+          "platformIcon": "handyman"
         },
         {
           "id": 449,
           "title": "Pottery",
-          "platformIcon": "Clay"
+          "platformIcon": "potted_plant"
         },
         {
           "id": 450,
           "title": "Ceramics",
-          "platformIcon": "Ceramic"
+          "platformIcon": "potted_plant"
         },
         {
           "id": 451,
           "title": "Collage",
-          "platformIcon": "Cut Paper & Glue"
+          "platformIcon": "newspaper"
         },
         {
           "id": 452,
           "title": "Mosaic Art",
-          "platformIcon": "Colored Tiles"
+          "platformIcon": "auto_awesome_mosaic"
         },
         {
           "id": 453,
           "title": "Oil Painting",
-          "platformIcon": "Oil Paint"
+          "platformIcon": "auto_awesome_mosaic"
         },
         {
           "id": 454,
           "title": "Watercolor",
-          "platformIcon": "Watercolors"
+          "platformIcon": "invert_colors"
         },
         {
           "id": 455,
           "title": "Acrylic Painting",
-          "platformIcon": "Acrylic Paint"
+          "platformIcon": "colors"
         },
         {
           "id": 456,
           "title": "Charcoal Drawing",
-          "platformIcon": "Charcoal Sticks"
+          "platformIcon": "outdoor_grill"
         },
         {
           "id": 457,
           "title": "Digital Art",
-          "platformIcon": "Digital Tablet"
+          "platformIcon": "colorize"
         },
         {
           "id": 458,
           "title": "Comic Drawing",
-          "platformIcon": "Comic Paper & Ink"
+          "platformIcon": "draw_collage"
         },
         {
           "id": 459,
           "title": "Animation",
-          "platformIcon": "Animation Software"
+          "platformIcon": "motion_photos_auto"
         },
         {
           "id": 460,
           "title": "Storyboarding",
-          "platformIcon": "Storyboard Sheets"
+          "platformIcon": "pinboard"
         },
         {
           "id": 461,
           "title": "Typography",
-          "platformIcon": "Typography Fonts"
+          "platformIcon": "text_fields"
         },
         {
           "id": 462,
           "title": "Printmaking",
-          "platformIcon": "Printing Press"
+          "platformIcon": "print_add"
         },
         {
           "id": 463,
           "title": "Glass Blowing",
-          "platformIcon": "Molten Glass"
+          "platformIcon": "mode_dual"
         },
         {
           "id": 464,
           "title": "Metalworking",
-          "platformIcon": "Metal"
+          "platformIcon": "dermatology"
         },
         {
           "id": 465,
           "title": "Fashion Illustration",
-          "platformIcon": "Fashion Sketch Pad"
+          "platformIcon": "texture"
         },
         {
           "id": 466,
           "title": "Textile Design",
-          "platformIcon": "Fabric & Thread"
+          "platformIcon": "apparel"
         },
         {
           "id": 467,
           "title": "Paper Quilling",
-          "platformIcon": "Paper Strips"
+          "platformIcon": "plagiarism"
         },
         {
           "id": 468,
           "title": "Sand Art",
-          "platformIcon": "Colored Sand"
+          "platformIcon": "planner_banner_ad_pt"
         },
         {
           "id": 469,
           "title": "Tattoo Designing",
-          "platformIcon": "Tattoo Ink"
+          "platformIcon": "ink_marker"
         },
         {
           "id": 470,
           "title": "Airbrushing",
-          "platformIcon": "Airbrush & Paint"
+          "platformIcon": "stylus_brush"
         },
         {
           "id": 471,
           "title": "Stenciling",
-          "platformIcon": "Stencil Sheets"
+          "platformIcon": "stylus"
         },
         {
           "id": 472,
           "title": "Embroidery Art",
-          "platformIcon": "Thread & Fabric"
+          "platformIcon": "laundry"
         },
         {
           "id": 473,
           "title": "Needle Felting",
-          "platformIcon": "Wool & Needle"
+          "platformIcon": "speed"
         },
         {
           "id": 474,
           "title": "DIY Crafts",
-          "platformIcon": "Craft Materials"
+          "platformIcon": "tools_level"
         },
         {
           "id": 475,
-          "title": "Paper M�ch�",
-          "platformIcon": "Paper & Glue"
+          "title": "Paper Machine",
+          "platformIcon": "draw_abstract"
         },
         {
           "id": 476,
           "title": "Shadow Art",
-          "platformIcon": "Light & Shadow"
+          "platformIcon": "tonality_2"
         },
         {
           "id": 477,
           "title": "Resin Art",
-          "platformIcon": "Resin & Molds"
+          "platformIcon": "location_away"
         },
         {
           "id": 478,
           "title": "Silk Painting",
-          "platformIcon": "Silk Fabric & Paint"
+          "platformIcon": "precision_manufacturing"
         },
         {
           "id": 479,
           "title": "Wood Burning (Pyrography)",
-          "platformIcon": "Wood Burner"
+          "platformIcon": "carpenter"
         },
         {
           "id": 480,
           "title": "Graphic Design",
-          "platformIcon": "Design Software"
+          "platformIcon": "carpenter"
         },
         {
           "id": 481,
           "title": "Bookbinding",
-          "platformIcon": "Paper & Glue"
+          "platformIcon": "library_books"
         },
         {
           "id": 482,
           "title": "Stone Carving",
-          "platformIcon": "Stone & Chisel"
+          "platformIcon": "architecture"
         },
         {
           "id": 483,
           "title": "Leather Crafting",
-          "platformIcon": "Leather & Tools"
+          "platformIcon": "auto_fix"
         },
         {
           "id": 484,
           "title": "Wax Sculpting",
-          "platformIcon": "Wax"
+          "platformIcon": "lightbulb"
         },
         {
           "id": 485,
           "title": "Mixed Media Art",
-          "platformIcon": "Mixed Media"
+          "platformIcon": "auto_awesome"
         },
         {
           "id": 486,
           "title": "Mandala Art",
-          "platformIcon": "Intricate Designs"
+          "platformIcon": "design_services"
         },
         {
           "id": 487,
           "title": "Ink Blot Art",
-          "platformIcon": "Ink & Paper"
+          "platformIcon": "edit"
         },
         {
           "id": 488,
           "title": "Fashion Design Sketching",
-          "platformIcon": "Sketch Pad"
+          "platformIcon": "content_cut"
         },
         {
           "id": 489,
           "title": "Miniature Painting",
-          "platformIcon": "Tiny Brushes & Paint"
+          "platformIcon": "format_paint"
         }
       ]
     },
